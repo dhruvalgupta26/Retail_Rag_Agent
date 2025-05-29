@@ -1,0 +1,49 @@
+DepartmentID,DepartmentName,ClassID,ClassName,SubClassID,SubClassName
+1,FOOTWEAR,1,Men Footwear,1,Men Footwear - Premium
+1,FOOTWEAR,1,Men Footwear,2,Men Footwear - Regular
+1,FOOTWEAR,1,Men Footwear,3,Men Footwear - Economy
+1,FOOTWEAR,1,Men Footwear,4,Men Footwear - Sports
+1,FOOTWEAR,2,Women Footwear,5,Women Footwear - Premium
+1,FOOTWEAR,2,Women Footwear,6,Women Footwear - Regular
+1,FOOTWEAR,2,Women Footwear,7,Women Footwear - Economy
+1,FOOTWEAR,2,Women Footwear,8,Women Footwear - Sports
+1,FOOTWEAR,3,Kids Footwear,9,Kids Footwear - Premium
+1,FOOTWEAR,3,Kids Footwear,10,Kids Footwear - Regular
+1,FOOTWEAR,3,Kids Footwear,11,Kids Footwear - Economy
+1,FOOTWEAR,3,Kids Footwear,12,Kids Footwear - Sports
+1,FOOTWEAR,4,Sports Footwear,13,Sports Footwear - Premium
+1,FOOTWEAR,4,Sports Footwear,14,Sports Footwear - Regular
+1,FOOTWEAR,4,Sports Footwear,15,Sports Footwear - Economy
+1,FOOTWEAR,4,Sports Footwear,16,Sports Footwear - Sports
+2,ACCESSORIES,5,Belts,17,Belts - Premium
+2,ACCESSORIES,5,Belts,18,Belts - Regular
+2,ACCESSORIES,5,Belts,19,Belts - Economy
+2,ACCESSORIES,5,Belts,20,Belts - Sports
+2,ACCESSORIES,6,Wallets,21,Wallets - Premium
+2,ACCESSORIES,6,Wallets,22,Wallets - Regular
+2,ACCESSORIES,6,Wallets,23,Wallets - Economy
+2,ACCESSORIES,6,Wallets,24,Wallets - Sports
+2,ACCESSORIES,7,Bags,25,Bags - Premium
+2,ACCESSORIES,7,Bags,26,Bags - Regular
+2,ACCESSORIES,7,Bags,27,Bags - Economy
+2,ACCESSORIES,7,Bags,28,Bags - Sports
+2,ACCESSORIES,8,Socks,29,Socks - Premium
+2,ACCESSORIES,8,Socks,30,Socks - Regular
+2,ACCESSORIES,8,Socks,31,Socks - Economy
+2,ACCESSORIES,8,Socks,32,Socks - Sports
+3,APPAREL,9,Shirts,33,Shirts - Premium
+3,APPAREL,9,Shirts,34,Shirts - Regular
+3,APPAREL,9,Shirts,35,Shirts - Economy
+3,APPAREL,9,Shirts,36,Shirts - Sports
+3,APPAREL,10,T-Shirts,37,T-Shirts - Premium
+3,APPAREL,10,T-Shirts,38,T-Shirts - Regular
+3,APPAREL,10,T-Shirts,39,T-Shirts - Economy
+3,APPAREL,10,T-Shirts,40,T-Shirts - Sports
+3,APPAREL,11,Jeans,41,Jeans - Premium
+3,APPAREL,11,Jeans,42,Jeans - Regular
+3,APPAREL,11,Jeans,43,Jeans - Economy
+3,APPAREL,11,Jeans,44,Jeans - Sports
+3,APPAREL,12,Trousers,45,Trousers - Premium
+3,APPAREL,12,Trousers,46,Trousers - Regular
+3,APPAREL,12,Trousers,47,Trousers - Economy
+3,APPAREL,12,Trousers,48,Trousers - Sports

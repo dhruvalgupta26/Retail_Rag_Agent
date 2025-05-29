@@ -1,0 +1,999 @@
+ID,Code,BName,Address,City,State,PostalCode,Phone,sapStoreCode,sapStoreTypeCode,storeZone,storeLocation,storeCarpetArea,areaGrading,rsmName,rsmEmail,rsmEmployeeCode,asmName,asmEmail,asmEmployeeCode,serverID,GSTIN,businessPhone,landline,removedDetail,merchandiser,merchandiser1,customRegion,StoreCode,storeManager,lic,emailID
+1,ST0001,Misra LLC - Chennai,"35/651
+Golla Nagar, Howrah-500763",Chennai,Tamil Nadu,872673,+914928851047,SAP0001,RETAIL,East,Street,1414,A,Bhavani Keer,balakrishnanunni@example.com,RSM2679,Mason Swamy,wridesh86@example.com,ASM9935,SRV189,28NBACG4811Q1Z9,+916830991772,01733803632,,Triya Muni,Amrita Sarna,REG9,ST0001,Aarnav Sastry,LIC64987,madhavi01@example.org
+2,ST0002,Ganguly-Gole - Ahmedabad,"16/46
+Suresh Chowk, Kishanganj 399980",Ahmedabad,Gujarat,106398,+914846059717,SAP0002,FRANCHISE,Central,Shopping Complex,526,A,Ojasvi Prakash,bandichaitanya@example.org,RSM7924,Jairaj Balasubramanian,mohininagi@example.net,ASM6574,SRV384,14GYKDC7224D6Z6,2338946606,07478535388,,Jacob Upadhyay,Vrinda Pillai,REG8,ST0002,Aishani Gala,LIC80284,prasadmaya@example.org
+3,ST0003,Subramaniam and Sons - Chennai,"05
+Bhavsar Zila
+Gandhinagar 546919",Chennai,Tamil Nadu,974084,03731181177,SAP0003,FRANCHISE,North,Shopping Complex,1981,C,Mohammed Dua,biyengar@example.com,RSM4150,Sai Sarraf,dmanda@example.net,ASM2139,SRV146,31HYJCH2654M5Z8,3290364793,9373927406,,Mohammed Kara,Yash Rattan,REG6,ST0003,Anthony Brahmbhatt,LIC56566,echaudhari@example.net
+4,ST0004,"Pal, Rao and Balan - Pune","49/159
+Sankaran Zila, Tadipatri 898445",Pune,Maharashtra,763607,7112276743,SAP0004,OUTLET,North,Street,2687,A,Oni Salvi,ekarajchawla@example.com,RSM3677,Ubika Bajwa,anshbhagat@example.com,ASM8573,SRV488,18UWRHV6313Y1Z4,7987369389,+918778829102,,Anika Ramachandran,Siddharth Chauhan,REG7,ST0004,Madhav Mander,LIC45093,tamanna41@example.org
+5,ST0005,Chandra Ltd - Bangalore,"H.No. 752
+Mitra Path, Mahbubnagar-677513",Bangalore,Karnataka,096547,+911176698073,SAP0005,FLAGSHIP,Central,Shopping Complex,1370,B,Harsh Master,udant49@example.net,RSM7482,Dakshesh Andra,hbakshi@example.net,ASM8517,SRV246,18EHXRR5304X7Z7,+919055054400,1639985102,,Indrajit Venkataraman,Wazir Deep,REG3,ST0005,Zarna Trivedi,LIC76784,poojamisra@example.org
+6,ST0006,Sami-Tella - Visakhapatnam,"796, Bera, Orai-164256",Visakhapatnam,Andhra Pradesh,383950,03916695600,SAP0006,RETAIL,North,Mall,1126,A,Ekbal Batta,gangakrishnamurthy@example.org,RSM7916,Ekaja Khare,kaursaumya@example.org,ASM2040,SRV494,22TOQIR1188V2Z9,+911415985248,+917983363110,,Timothy Gade,Priya Krishna,REG6,ST0006,Mohini Dara,LIC24621,lipikaratti@example.org
+7,ST0007,Mital-Gala - Lucknow,"958
+Khatri Zila
+Pallavaram 281933",Lucknow,Uttar Pradesh,112279,8843826364,SAP0007,FRANCHISE,South,Standalone,513,B+,Falak Babu,xitigoel@example.net,RSM9201,Indira Babu,mallickgarima@example.net,ASM3927,SRV619,13UJUQT4258E6Z3,+918922597731,+917802014863,,Upkaar Vora,Ekalinga Kapadia,REG9,ST0007,Lakshit Kumar,LIC10074,jai30@example.net
+8,ST0008,Thakkar Inc - Kanpur,"H.No. 59
+Jain Chowk, Fatehpur 324569",Kanpur,Uttar Pradesh,903461,3687747886,SAP0008,FRANCHISE,North,Mall,1986,B+,Yashasvi Choudhury,thakermadhavi@example.org,RSM4923,William Sekhon,mitterridhi@example.org,ASM1949,SRV346,28CCXPC9727Y3Z3,+918310726616,1124185014,,Chaitanya Kata,Abdul Sengupta,REG3,ST0008,Zilmil Bhargava,LIC44741,morarindrajit@example.net
+9,ST0009,"Yohannan, Chacko and Saha - Patna","H.No. 88
+Chand Circle
+Tadepalligudem-250484",Patna,Bihar,743288,02844242032,SAP0009,FRANCHISE,South,Street,1776,B,Tanveer Pingle,somangabriel@example.net,RSM7118,Xalak Prabhakar,grewalnikita@example.org,ASM8177,SRV629,24DHHCK1344S9Z4,3181228876,0429588891,,Eiravati Mutti,,REG1,ST0009,Ekbal Issac,LIC40007,ishanide@example.com
+10,ST0010,Agrawal PLC - Bangalore,"H.No. 24, Ram Nagar
+Thrissur-296883",Bangalore,Karnataka,129379,3428024308,SAP0010,RETAIL,East,Mall,2605,A,Girindra Ranganathan,gangachoudhry@example.com,RSM5562,Zayyan Mukhopadhyay,ployal@example.com,ASM8953,SRV319,27EXSSP4981Z8Z7,00050564911,02750590303,,Nidhi Sidhu,,REG7,ST0010,Amara Khanna,LIC56438,wchada@example.com
+11,ST0011,Virk Inc - Thane,"580, Raman Zila
+Allahabad-928189",Thane,Maharashtra,884196,0211461285,SAP0011,FRANCHISE,West,Mall,903,A+,Sarthak Bora,adada@example.org,RSM7596,Ranveer Choudhary,balendrabali@example.net,ASM6559,SRV919,37DHGGR8350E7Z3,+912137835276,08886681533,,Chandresh Sehgal,,REG2,ST0011,Victor Parmer,LIC68082,ikbal46@example.net
+12,ST0012,Madan-Pai - Vadodara,"H.No. 37
+Purohit Zila
+Junagadh 463677",Vadodara,Gujarat,509553,+910704774360,SAP0012,RETAIL,North,Mall,882,A,Yahvi Banik,abhimanyu10@example.com,RSM3724,Vamakshi Dass,agrawalvidhi@example.net,ASM7658,SRV597,25GMBFM1035M5Z8,7894246946,+911862220057,,Luke Tiwari,Yoshita Koshy,REG9,ST0012,Aryan Seshadri,LIC96752,mukherjeeupma@example.net
+13,ST0013,Deol LLC - Visakhapatnam,"H.No. 600
+Mittal Street
+Madhyamgram 521772",Visakhapatnam,Andhra Pradesh,003567,+913683616725,SAP0013,FLAGSHIP,South,Shopping Complex,1391,A+,Anya Sethi,golaekbal@example.com,RSM9883,Ronith Lala,jagdishgaba@example.org,ASM1998,SRV865,20BBSPQ9701F1Z9,04950168452,+919078517195,1990-08-19,Atharv Sachdev,,REG10,ST0013,Netra Sandal,LIC18907,suhanibansal@example.net
+14,ST0014,Modi Ltd - Ahmedabad,"H.No. 977
+Lall
+Khora  000195",Ahmedabad,Gujarat,150773,+916738691817,SAP0014,FRANCHISE,North,Street,2871,C,Nakul Toor,mdhar@example.org,RSM1651,Om Lad,anamika87@example.com,ASM2343,SRV529,31SSQKI4346V6Z4,01837972187,+917624270246,,Jeet Chakraborty,,REG5,ST0014,Nitara Wali,LIC69929,frado67@example.com
+15,ST0015,"Yohannan, Gupta and Modi - Kanpur","91/39, Kar Path
+Nagpur 777078",Kanpur,Uttar Pradesh,217616,09809774913,SAP0015,RETAIL,North,Standalone,2806,A+,Yashasvi Ravi,anitadeol@example.net,RSM2200,Yadavi Parmar,naveen37@example.net,ASM9808,SRV318,26IELCH7054J3Z8,1661481024,+918480869318,,Charan Kamdar,Abdul Padmanabhan,REG10,ST0015,Chasmum Gala,LIC95717,mohanrajeshri@example.net
+16,ST0016,Mangat PLC - Patna,"H.No. 91
+Babu Path, Ambala 712554",Patna,Bihar,959471,5770833315,SAP0016,RETAIL,Central,Shopping Complex,924,A,Maanas Butala,khannawatika@example.org,RSM5333,Kritika Subramaniam,yamini47@example.org,ASM2891,SRV209,33REIJT4450W6Z4,03217042101,+914150784174,,Xavier Krishnan,Abhiram Patla,REG9,ST0016,Unnati Rajagopalan,LIC74032,kamdardaksh@example.net
+17,ST0017,"Shenoy, Dar and Tak - Jaipur","816, Mangat Zila, Tirunelveli 882975",Jaipur,Rajasthan,050080,+916376660517,SAP0017,RETAIL,North,Standalone,1633,A+,Dominic Chokshi,gauri38@example.com,RSM1058,Harrison Sheth,janakikunda@example.org,ASM6464,SRV889,14UIFXO8007R1Z2,+910763248812,8265703662,2017-06-21,Ishita Natarajan,Ronith Chahal,REG3,ST0017,Yochana Biswas,LIC81511,shauryagopal@example.net
+18,ST0018,Bath PLC - Delhi,"H.No. 40
+Ranganathan Nagar, Indore-198193",Delhi,Delhi,255123,0198838571,SAP0018,OUTLET,Central,Street,2260,A,Faris Oommen,baghyawatibal@example.com,RSM1685,Yatan Loyal,udyati17@example.com,ASM6050,SRV473,35BLGVH2684L9Z7,+915067416702,4348030158,,Gabriel Tara,Bhavani Kade,REG4,ST0018,Frado Loke,LIC31299,kibepriya@example.net
+19,ST0019,"Chakraborty, Palla and Keer - Hyderabad","69/11
+Vig Street
+Nadiad-624850",Hyderabad,Telangana,667043,+913342717305,SAP0019,FRANCHISE,North,Street,1860,B,Veer Kothari,christophersastry@example.net,RSM5065,Pooja Kapoor,ekarajvig@example.net,ASM5371,SRV263,35WDMBP4644G8Z6,03607059973,+916288186462,,Forum Bansal,Charita Sarna,REG4,ST0019,Ishwar Balan,LIC39219,lajitagrover@example.org
+20,ST0020,"Bhargava, Bose and Sarkar - Mumbai","04/258, Butala Street
+Bardhaman 706221",Mumbai,Maharashtra,217582,+916074921513,SAP0020,FLAGSHIP,West,Shopping Complex,1641,A+,Idika Mann,sairajagopal@example.com,RSM5573,Charvi Sharma,priyamanda@example.org,ASM6753,SRV756,26MVRKA2889I3Z5,1580830395,+915650432773,1989-09-20,Aachal Bail,Dhruv Pant,REG6,ST0020,Yatan Soman,LIC51114,johalshaurya@example.com
+21,ST0021,Dey LLC - Thane,"70/015
+Bakshi Circle, Muzaffarnagar 079781",Thane,Maharashtra,424487,05410585903,SAP0021,RETAIL,West,Street,1543,A+,Hemangini Mane,christopher15@example.org,RSM8144,Gautami Mukherjee,nattdivya@example.net,ASM1027,SRV632,35RVXXX4228L7Z2,06686575164,09212099477,,Chavvi Mital,Inaya Bassi,REG10,ST0021,Daniel Sharma,LIC51145,kalpit09@example.net
+22,ST0022,Nath-Pillay - Chennai,"34
+Nagy Road
+Deoghar-604401",Chennai,Tamil Nadu,373410,03357705513,SAP0022,OUTLET,Central,Shopping Complex,2172,B+,Ayaan Yadav,hritik41@example.org,RSM7592,Lajita Doshi,janani79@example.net,ASM5844,SRV667,14GNVMV3851T5Z7,4632839555,8328653550,,David Warrior,,REG5,ST0022,Daniel Tandon,LIC37549,quppal@example.com
+23,ST0023,Kumar and Sons - Thane,"08/341
+Nori Zila
+Dhule-661767",Thane,Maharashtra,652934,+915047606041,SAP0023,OUTLET,West,Standalone,2311,A,Girik Gulati,eedwin@example.net,RSM9375,Caleb Dubey,rajaaadhya@example.net,ASM8752,SRV912,35XFVCJ9445V6Z2,2450966356,4965296863,,Xalak Krishnan,Irya Varma,REG5,ST0023,Anika Kala,LIC39444,uoommen@example.org
+24,ST0024,"Majumdar, Dave and Mitra - Pune","78/87
+Rama Ganj, Nadiad 398719",Pune,Maharashtra,219903,+915781247041,SAP0024,FLAGSHIP,North,Mall,1502,B,Veda Nadig,zsood@example.org,RSM2193,Harrison Dhar,forumthaman@example.net,ASM8461,SRV524,30SGWWM9099M4Z3,05275688129,+911375817161,,Lajita Deol,,REG2,ST0024,Dhriti Shukla,LIC65724,khatriorinder@example.org
+25,ST0025,Gala-Rastogi - Ahmedabad,"07
+Narayan Path, Ambattur-891746",Ahmedabad,Gujarat,686293,+910183305775,SAP0025,FLAGSHIP,Central,Standalone,705,C,Anya Ganguly,fradoaggarwal@example.org,RSM5082,Aditya Lata,zbal@example.com,ASM2988,SRV567,14ZOVQR6198Y8Z9,+912550686803,2099155025,,Manbir Chana,Anirudh Kaul,REG8,ST0025,Eta Bobal,LIC30861,manthanpal@example.com
+26,ST0026,Srinivas-Tank - Visakhapatnam,"23/938
+Gandhi Path, Gaya 073280",Visakhapatnam,Andhra Pradesh,303699,1036713851,SAP0026,FRANCHISE,East,Street,1635,C,Jagat Mandal,vrittidevan@example.org,RSM8939,Advay Mani,azaanchaudhry@example.com,ASM4919,SRV381,24CWJHI6502K9Z2,+912028282923,07596682281,,Logan Chaudhary,,REG3,ST0026,Megha Shroff,LIC38043,akshayiyengar@example.net
+27,ST0027,Munshi-Jhaveri - Bangalore,"89/65
+Kala Path
+Indore-061761",Bangalore,Karnataka,147438,8111193955,SAP0027,FRANCHISE,West,Shopping Complex,2722,B,Ekta Kibe,narasimhanikshita@example.org,RSM7812,Gautam Ratta,awarrior@example.org,ASM2020,SRV311,36NMYSW1320Y7Z8,01711426545,6040894423,1971-09-18,Zansi Basu,Omisha Mutti,REG7,ST0027,Nakul Chahal,LIC64921,krishnamurthyharrison@example.net
+28,ST0028,Banerjee Ltd - Vadodara,"803, Choudhry Chowk
+Darbhanga 613656",Vadodara,Gujarat,153857,+915592908601,SAP0028,FLAGSHIP,West,Street,1617,B,Sarthak Barad,handairya@example.org,RSM8956,Nikita Vala,georgebava@example.net,ASM1475,SRV498,20VVZMX3704O3Z9,8416440677,+917051052328,1971-06-20,Rajeshri Agrawal,Wyatt Kapoor,REG10,ST0028,Frederick Desai,LIC96900,balendra32@example.com
+29,ST0029,Comar-Deshpande - Mumbai,"30/814
+D’Alia Nagar
+Dhule-534884",Mumbai,Maharashtra,231647,+918808566237,SAP0029,RETAIL,West,Street,2391,A,Falak Bakshi,fkaran@example.org,RSM1823,Jalsa Sharaf,daminitalwar@example.org,ASM5262,SRV488,20GOKKY7211I7Z5,1859440521,00563490641,,Vamakshi Chakraborty,Daksh Mangal,REG9,ST0029,Falak Bedi,LIC16826,yoommen@example.org
+30,ST0030,Wali PLC - Nagpur,"00/181, Suresh Street
+Karaikudi 060391",Nagpur,Maharashtra,381547,01455326876,SAP0030,FLAGSHIP,North,Mall,627,A,Gauri Sant,yatin00@example.com,RSM4266,Wyatt Suri,urmimani@example.org,ASM1333,SRV736,14HEPVD4571O5Z6,01973248048,06585448569,,Brinda Krish,Widisha Taneja,REG2,ST0030,Upasna Guha,LIC31465,lakshmilanka@example.com
+31,ST0031,Seth-Mital - Lucknow,"674
+Deo Nagar, Serampore-297057",Lucknow,Uttar Pradesh,334288,3295321131,SAP0031,RETAIL,Central,Mall,1777,C,Nirja Borra,pkeer@example.com,RSM7149,Nisha Mukherjee,pooja57@example.org,ASM7498,SRV832,16CSWUH2669W5Z2,05433910102,+912956857744,,Rachana Nayak,Theodore Kala,REG1,ST0031,Jairaj Sarma,LIC55508,deviyatan@example.net
+32,ST0032,Nagi-Sule - Vadodara,"53/825
+Lata Ganj, Rohtak-998543",Vadodara,Gujarat,579656,+913908008386,SAP0032,FRANCHISE,East,Mall,2572,B+,Garima Devi,ladli40@example.com,RSM1207,Bhavya Dyal,ogaba@example.com,ASM7882,SRV942,25DNLUO3506N3Z9,08596249600,+911652991708,,David Wadhwa,,REG9,ST0032,Riya Raman,LIC73372,vrishtibhargava@example.org
+33,ST0033,"Ben, Chauhan and Taneja - Bhopal","01
+Kapur
+Hubli–Dharwad-260892",Bhopal,Madhya Pradesh,614811,9819247181,SAP0033,FRANCHISE,Central,Shopping Complex,1820,A,Onveer Dara,tripti61@example.org,RSM2419,Reva Gera,bailaadhya@example.org,ASM5569,SRV561,17YOSTV7209K1Z8,7781549036,0006648976,,Oni Ahluwalia,,REG4,ST0033,Upkaar Kant,LIC56507,bpal@example.org
+34,ST0034,"Gara, Varghese and Sarma - Jaipur","H.No. 994, Bahl Street
+Madanapalle-959399",Jaipur,Rajasthan,701989,02670534762,SAP0034,OUTLET,East,Shopping Complex,2776,A+,Tripti Shere,charita63@example.net,RSM9464,Samaksh Ravel,ikshita15@example.org,ASM4130,SRV187,17XNPRY4937W8Z8,4254391835,5358149704,,Balveer Sani,,REG5,ST0034,Naksh Basak,LIC39045,advay88@example.org
+35,ST0035,Sama-Mohan - Indore,"H.No. 419
+Karan Circle
+Nagpur-074405",Indore,Madhya Pradesh,939506,05935364275,SAP0035,FLAGSHIP,East,Shopping Complex,2438,C,Vedika Parmar,rattigeetika@example.org,RSM9698,Yoshita Rajagopalan,david19@example.net,ASM6632,SRV535,33RKLWO5438J5Z4,9991056411,05920395491,,Falan Deep,,REG2,ST0035,Vaishnavi Deep,LIC80236,sharmayadavi@example.com
+36,ST0036,Dayal Group - Hyderabad,"H.No. 223
+Amble Circle, Tadepalligudem 311283",Hyderabad,Telangana,428384,+916495394487,SAP0036,FLAGSHIP,South,Standalone,1632,C,Kala Roy,garima38@example.com,RSM9595,Wyatt Hayer,anvi61@example.org,ASM5636,SRV202,36GJHLF5952A9Z3,00899792803,1046003334,,Yoshita Mandal,Gavin Dhawan,REG9,ST0036,Simon Tank,LIC48290,morarmahika@example.org
+37,ST0037,"Tiwari, Deol and Gaba - Kolkata","35/05
+Kala Zila
+South Dumdum-276709",Kolkata,West Bengal,493386,8985901174,SAP0037,FRANCHISE,North,Mall,2851,B+,Vasana Gill,tgill@example.org,RSM8690,Girish Mani,yutikabuch@example.org,ASM8843,SRV551,20FBIPD2070M8Z2,8484253581,3747211740,,Girish Mann,Gayathri Krishna,REG3,ST0037,Tanveer Lad,LIC29555,sbalan@example.com
+38,ST0038,Ratta LLC - Lucknow,"025
+Vasa Ganj
+Mau 407408",Lucknow,Uttar Pradesh,294353,+913796451433,SAP0038,RETAIL,South,Mall,2785,B,Leena Lad,jhaveriharrison@example.org,RSM4697,Tanish Johal,xhora@example.net,ASM9561,SRV489,24OJSNJ1986T2Z4,01075751108,06047641583,,Anika D’Alia,,REG2,ST0038,Omaja Setty,LIC30585,wahab51@example.org
+39,ST0039,Garde-Ravi - Ahmedabad,"11, Raman Street, Khora  755097",Ahmedabad,Gujarat,139173,+917655589408,SAP0039,FLAGSHIP,Central,Mall,1141,A+,Jasmit Manda,akshayyadav@example.net,RSM7693,Advika Raval,sarmaforum@example.net,ASM8381,SRV805,29PJBHJ5632W8Z2,03527916655,02791808874,,Leela Rai,Vamakshi Savant,REG10,ST0039,Kritika Loyal,LIC96662,champak83@example.com
+40,ST0040,"Trivedi, Bhavsar and Chahal - Pune","966, Kapoor Ganj, Bellary-261193",Pune,Maharashtra,950760,+915659691588,SAP0040,FRANCHISE,North,Street,1110,B+,Darpan Vaidya,isaac02@example.com,RSM3330,Nikita Dada,keerfiyaz@example.org,ASM2169,SRV161,15ZJTXS5728O2Z8,7206813524,0226545152,,Qasim Kaul,Vamakshi Swaminathan,REG5,ST0040,Owen Arya,LIC75597,yashica68@example.com
+41,ST0041,"Sheth, Devan and Saini - Vadodara","H.No. 620, Prabhakar Zila
+Nandyal 595276",Vadodara,Gujarat,042692,07992026054,SAP0041,FRANCHISE,West,Mall,2949,A+,Samar Ravel,bnori@example.com,RSM8078,William Yadav,bakhshi88@example.com,ASM6280,SRV718,18ACHVS1339Y5Z1,5811110068,08876908598,,Christopher Tiwari,,REG9,ST0041,Triveni Nath,LIC95394,udhar@example.net
+42,ST0042,Sarin and Sons - Bhopal,"H.No. 658
+Mannan Zila
+Bhimavaram-437483",Bhopal,Madhya Pradesh,659237,+917896498755,SAP0042,OUTLET,South,Standalone,2514,A+,Upma Kaur,waida71@example.org,RSM8700,Yachana Om,okorpal@example.com,ASM6700,SRV518,20KVDFK7744W8Z5,+911325579160,03308647352,,Yatan Verma,Guneet Purohit,REG9,ST0042,Viraj Dave,LIC14809,cedwin@example.com
+43,ST0043,"Ranganathan, Ramesh and Borde - Bhopal","153
+Ganguly Zila
+Dharmavaram-466950",Bhopal,Madhya Pradesh,228593,+916536863048,SAP0043,RETAIL,East,Shopping Complex,1824,A+,Dakshesh Seth,luckykala@example.org,RSM7622,Keya Batta,diya32@example.net,ASM9431,SRV944,10VRONB4073Q6Z8,8677634288,08833366529,,Wakeeta Pau,Ojasvi Dalal,REG4,ST0043,Mohini Bhattacharyya,LIC45003,vinaya26@example.org
+44,ST0044,Prabhu Ltd - Vadodara,"H.No. 491, Lalla Nagar
+Delhi 022035",Vadodara,Gujarat,800846,1973145837,SAP0044,FLAGSHIP,East,Standalone,2485,A+,Leela Dasgupta,upasnadhawan@example.org,RSM1472,Nathaniel Merchant,aryansama@example.org,ASM4920,SRV826,15JRARN2527H2Z8,9274955797,02118014288,,Veda Ramesh,Sneha Wadhwa,REG3,ST0044,Yasti Raghavan,LIC75323,dchakrabarti@example.org
+45,ST0045,Johal PLC - Lucknow,"254
+Ray Nagar
+Patna 726555",Lucknow,Uttar Pradesh,627080,0878253359,SAP0045,OUTLET,West,Standalone,2434,A,Raksha Jaggi,ranganathannoah@example.com,RSM8483,Gagan Ahuja,pavanisaraf@example.com,ASM3369,SRV492,16TQXEC5526Y7Z6,09652688785,03192606661,,Ranbir Loyal,Chaitaly Natarajan,REG1,ST0045,Hardik Chandran,LIC47072,znarang@example.net
+46,ST0046,Bhalla Inc - Lucknow,"57/86
+Mann Chowk
+Gudivada 585543",Lucknow,Uttar Pradesh,636814,+911036291563,SAP0046,FRANCHISE,South,Standalone,2706,B,Mohini Kapoor,jagvi85@example.org,RSM6654,Zinal Varma,watika11@example.com,ASM6446,SRV665,34RMOKG4912S7Z4,+918798241216,+912793871747,,Falan Sachar,Xavier Subramaniam,REG6,ST0046,Siya Aggarwal,LIC71993,aachalpanchal@example.net
+47,ST0047,Palla Inc - Indore,"H.No. 249
+Reddy, Ajmer 572737",Indore,Madhya Pradesh,427971,6909559144,SAP0047,FRANCHISE,South,Standalone,651,A,Jagat Rama,bandinaveen@example.com,RSM9229,Brinda Wason,hnayar@example.net,ASM6439,SRV990,13ODQOA3361N3Z2,+918780215764,06114979817,,Ryan Yadav,Triya Dalal,REG6,ST0047,Christopher Tiwari,LIC91691,bumbdamini@example.net
+48,ST0048,"Srivastava, Rout and Dash - Indore","H.No. 66, Sangha Circle, Malegaon 286888",Indore,Madhya Pradesh,342044,+919266019329,SAP0048,RETAIL,East,Standalone,1797,B,Nimrat Dhar,chaman32@example.com,RSM9864,Meghana Mallick,harsh01@example.net,ASM1588,SRV732,12HUVJH2480N2Z2,3892708902,6195290838,,Abeer Tailor,Charvi Koshy,REG1,ST0048,Widisha Bajwa,LIC16028,ndhar@example.net
+49,ST0049,"Karnik, Nazareth and Gill - Kanpur","45/174, Boase, Kavali-271724",Kanpur,Uttar Pradesh,426442,09584365892,SAP0049,RETAIL,East,Shopping Complex,2035,B,Imaran Bora,geradaksh@example.org,RSM3385,Udant Choudhary,siyabuch@example.net,ASM5000,SRV643,23SVZFF3868C7Z4,0049782558,8798504730,,Oliver Mitter,Mohini Lad,REG4,ST0049,Yoshita Sura,LIC70443,unnatigara@example.net
+50,ST0050,Bhatnagar Inc - Jaipur,"46/008
+Thakkar Nagar
+Ahmedabad 378421",Jaipur,Rajasthan,167334,+910236436869,SAP0050,FRANCHISE,East,Mall,2405,B+,Dominic Butala,varenya52@example.net,RSM9955,Anya Wason,gaurav66@example.com,ASM3588,SRV175,24LSJUN5097O5Z4,8104861139,08451229328,,Mohammed Shah,Lucky Ghose,REG2,ST0050,Zashil Misra,LIC41091,ymorar@example.org
+51,ST0051,Kala Group - Indore,"H.No. 27
+Vala, Dibrugarh-659414",Indore,Madhya Pradesh,438669,+914439377210,SAP0051,OUTLET,Central,Shopping Complex,1709,A+,Jagrati Modi,bhavyaperi@example.org,RSM7484,Ekansh Behl,bajwayatan@example.net,ASM5497,SRV108,28VYXBT9138J4Z6,6223091363,8017553080,,Sarthak Randhawa,,REG5,ST0051,Aarnav Gola,LIC98835,drattan@example.com
+52,ST0052,Madan PLC - Kolkata,"716
+Dugar Ganj
+Haldia 915605",Kolkata,West Bengal,636727,6488781958,SAP0052,RETAIL,North,Shopping Complex,2305,A+,Siya Pradhan,wyattkarpe@example.org,RSM6977,Krishna Chander,zashilrao@example.org,ASM3153,SRV192,19KXNFG3165Z9Z6,01410762697,+917733199204,,Upma Varkey,Aadi Singhal,REG3,ST0052,Dalaja Parikh,LIC43681,dgarg@example.net
+53,ST0053,Murty Inc - Visakhapatnam,"89/51
+Shetty, Berhampore 205479",Visakhapatnam,Andhra Pradesh,759357,4318727579,SAP0053,OUTLET,East,Mall,2418,A+,Vamakshi Sankar,jwali@example.org,RSM3306,Atharv Apte,nidhi24@example.org,ASM4696,SRV980,31XVMZR6992C7Z1,01991240573,+916898428506,,Vamakshi Balan,,REG6,ST0053,Bakhshi Saini,LIC98188,xranganathan@example.com
+54,ST0054,"D’Alia, Datta and Ben - Jaipur","H.No. 965, Pall Nagar
+Kolhapur 596184",Jaipur,Rajasthan,907995,2028690834,SAP0054,FRANCHISE,East,Mall,1457,B,Dhriti Sabharwal,valavasudha@example.org,RSM1410,Ronith Sura,jackchawla@example.org,ASM6374,SRV724,17UCUOW5951U7Z2,04731030969,2091482184,,Lavanya Kamdar,Tarak Garde,REG5,ST0054,Aishani Shenoy,LIC74569,sedwin@example.net
+55,ST0055,Nagy-Behl - Chennai,"H.No. 15, Hora Road
+Anantapur-962566",Chennai,Tamil Nadu,223546,05259515515,SAP0055,RETAIL,South,Street,2091,B,Alka Uppal,simon21@example.com,RSM7078,Anamika Batra,surnoah@example.net,ASM9850,SRV529,28XXENU2622P7Z5,+917668983518,+919238648087,2017-04-21,Xiti Chawla,Sneha Sampath,REG8,ST0055,Daksh Mandal,LIC68287,zpandey@example.org
+56,ST0056,Borah PLC - Ahmedabad,"41/272, Wason Ganj
+Coimbatore 895296",Ahmedabad,Gujarat,693028,+919832239499,SAP0056,OUTLET,North,Shopping Complex,2730,B+,Sathvik Ahluwalia,somgagan@example.net,RSM1992,Jhalak Kanda,bishakha51@example.net,ASM7523,SRV382,16DOCVG1349B6Z4,+912060148894,08642270719,,Sara Sahni,Eesha Sarma,REG4,ST0056,Bakhshi Kota,LIC18992,fitan17@example.org
+57,ST0057,"Memon, Vala and Gara - Vadodara","90/23
+Khalsa Path, Moradabad-202192",Vadodara,Gujarat,467187,+918655100252,SAP0057,FLAGSHIP,Central,Street,1454,B+,Vanya Mukherjee,agarwalxavier@example.net,RSM3417,Warda Sidhu,luckyramakrishnan@example.com,ASM1046,SRV383,37EERIZ3858D1Z3,7954852981,+915630772311,1977-10-20,Gunbir Gupta,Anika Chaudhary,REG4,ST0057,Anika Sodhi,LIC87182,gopalbobal@example.com
+58,ST0058,"Johal, Yohannan and Hari - Kanpur","H.No. 219
+Venkatesh Marg, Ramgarh-590292",Kanpur,Uttar Pradesh,329338,+914214139789,SAP0058,RETAIL,South,Shopping Complex,714,A,Timothy Ramanathan,sureshfalan@example.com,RSM7897,Balveer Desai,matthew83@example.net,ASM9619,SRV216,33CPOYL9408S2Z8,8664314307,09514403455,,Yashawini Munshi,Ganga Manne,REG1,ST0058,Fitan Thakkar,LIC96363,gopaldhar@example.com
+59,ST0059,"Nigam, Vasa and Dara - Patna","57, Aggarwal
+Bhilwara 415651",Patna,Bihar,767698,5213145674,SAP0059,OUTLET,West,Mall,749,B,Darika Dube,faras28@example.net,RSM7580,Lila Keer,vrindamangal@example.com,ASM7984,SRV802,13PWOCC6277T3Z2,+913122231484,+918351793737,,Tripti Dora,Elijah Chaudhari,REG10,ST0059,Azad Chana,LIC81874,jgour@example.com
+60,ST0060,"Cheema, Varghese and Ram - Kanpur","11, Thaker
+Malda-092303",Kanpur,Uttar Pradesh,535457,5525254020,SAP0060,FRANCHISE,Central,Shopping Complex,2358,C,Yachana Om,aashi32@example.com,RSM8048,Yash Minhas,ubhasin@example.net,ASM2624,SRV912,32DUUYR4522N8Z4,08325472799,02878378537,,Bhavna Issac,Sai Pathak,REG7,ST0060,Chandresh Dash,LIC64524,warhi14@example.net
+61,ST0061,Patil Group - Chennai,"H.No. 081
+Garg Road
+Berhampur 418296",Chennai,Tamil Nadu,688648,01029384871,SAP0061,OUTLET,West,Shopping Complex,1544,B+,Max Dube,sridharbhavya@example.org,RSM3500,Bakhshi Golla,ekavir77@example.com,ASM8770,SRV168,12CCNDX7105Z3Z9,+917780233135,02644439086,2017-10-10,Alka Dua,Bina Muni,REG9,ST0061,Qadim Majumdar,LIC53207,regelogan@example.net
+62,ST0062,Balay-Anand - Chennai,"H.No. 743
+Karan Ganj
+Jabalpur-633310",Chennai,Tamil Nadu,020683,05226774054,SAP0062,FRANCHISE,East,Standalone,710,B+,Jyoti Bir,darpanpatil@example.net,RSM6119,Rushil Ganguly,rvarty@example.org,ASM6761,SRV206,28QGEVP4674D6Z9,08920183216,05265095011,,Ishanvi More,Tripti Buch,REG10,ST0062,Devika Varghese,LIC39643,daniel96@example.com
+63,ST0063,Deo-Trivedi - Thane,"09, Anand Road, Sambalpur-760446",Thane,Maharashtra,111637,1068805141,SAP0063,RETAIL,Central,Shopping Complex,618,A,Thomas Bhagat,narainayushman@example.com,RSM5477,Chasmum Divan,yatansani@example.org,ASM6062,SRV447,21AFESV7566C3Z1,+916969135671,+919704360385,2020-05-31,Zarna Tara,Tanay Taneja,REG7,ST0063,Harini Kapadia,LIC65028,tarakedwin@example.org
+64,ST0064,Nair-Agarwal - Bhopal,"183
+Desai
+Ulhasnagar 478857",Bhopal,Madhya Pradesh,399965,03131669044,SAP0064,OUTLET,South,Shopping Complex,1776,B+,Tanish Nadig,lallasathvik@example.org,RSM2391,Nitara Munshi,anmol23@example.net,ASM1861,SRV259,15YTBVC5458O7Z8,03371062113,06741878862,,Kashish Iyer,Rushil Sodhi,REG4,ST0064,Girish Chaudhuri,LIC77154,sramaswamy@example.org
+65,ST0065,Bedi Inc - Chennai,"36, Chatterjee, Nadiad-004226",Chennai,Tamil Nadu,521541,0606627894,SAP0065,OUTLET,West,Mall,1660,C,Balvan Atwal,falguni35@example.org,RSM8972,Eiravati Gola,ambleeesha@example.net,ASM9633,SRV783,19BHMTB1125G5Z4,04064514548,02166836057,,Abdul Krishna,Vrishti Kara,REG5,ST0065,Anusha Brahmbhatt,LIC53007,maharajekalinga@example.org
+66,ST0066,Mutti Inc - Chennai,"18
+Sane Road
+Kolkata 042072",Chennai,Tamil Nadu,984618,5311554950,SAP0066,RETAIL,West,Standalone,1219,A,Warda Borde,ladlinagar@example.org,RSM7229,Qabil Kapur,dharadvik@example.net,ASM9725,SRV820,17QRVZL2180M1Z7,01509879498,04701983466,2003-07-12,Warinder Minhas,Falan Sawhney,REG6,ST0066,Amol Sridhar,LIC85465,yadavidora@example.net
+67,ST0067,Bhandari Inc - Thane,"29, Krish Circle, Belgaum 880276",Thane,Maharashtra,190215,+915971376832,SAP0067,FRANCHISE,West,Shopping Complex,971,B,Harshil Deshmukh,avni55@example.net,RSM1341,Jai Sethi,harinakshi04@example.org,ASM6321,SRV275,35TOWLC8155D4Z7,9308445516,3989417617,,Neel Modi,Abdul Ratta,REG7,ST0067,Jackson Sheth,LIC50668,echeema@example.com
+68,ST0068,Nazareth PLC - Kanpur,"957, Bala Chowk
+Panchkula 311434",Kanpur,Uttar Pradesh,268861,09599835397,SAP0068,FLAGSHIP,East,Street,812,C,Edhitha Saha,chanchaldesai@example.com,RSM2868,Jairaj Khatri,rishiramesh@example.net,ASM9693,SRV622,16YLLXU3419H2Z3,+915982693211,+914483021737,,Ira Lanka,,REG3,ST0068,Rachana Bajwa,LIC95918,fmunshi@example.com
+69,ST0069,"Aurora, Sood and Manne - Bangalore","159
+Keer, Agra 035049",Bangalore,Karnataka,216488,07997833397,SAP0069,FLAGSHIP,West,Standalone,2809,C,Lipika Prashad,kadeharish@example.net,RSM8354,Sanaya Pradhan,madanmitesh@example.com,ASM6295,SRV984,30KEOCP8245U5Z5,+914441016424,00654900528,,Tara Badal,Siya Raja,REG2,ST0069,Xalak Wason,LIC50685,nigamadvik@example.net
+70,ST0070,"Dalal, Chaudhry and Varughese - Bhopal","H.No. 26
+Warrior Ganj, Malegaon 789155",Bhopal,Madhya Pradesh,451524,4717578147,SAP0070,FRANCHISE,North,Mall,2010,B+,Wahab Chandra,jyotidara@example.org,RSM2257,Ladli Kulkarni,etamann@example.net,ASM2479,SRV729,29QMOSR1672O4Z6,1927391088,7590224594,,Samar Rattan,Bimala Balasubramanian,REG1,ST0070,William Saha,LIC69050,avi64@example.com
+71,ST0071,Desai-Reddy - Chennai,"95/15
+Ratta Zila, Ranchi 410833",Chennai,Tamil Nadu,480510,01378505790,SAP0071,OUTLET,North,Street,660,A,Sneha Chaudry,ronithlall@example.org,RSM8172,Jagat Din,sathvikprasad@example.com,ASM8199,SRV636,26TFLLJ7347N6Z1,+915665190444,05541859168,,Tarak Oommen,Yasti Sheth,REG2,ST0071,Shravya Sandhu,LIC53213,ekbal16@example.net
+72,ST0072,Keer-Sur - Chennai,"171
+Gera Zila
+Bharatpur 783797",Chennai,Tamil Nadu,661244,+915364469993,SAP0072,FRANCHISE,East,Shopping Complex,2968,A,Gagan Sagar,vrana@example.org,RSM6461,Vedika Purohit,unadig@example.org,ASM2335,SRV696,31ELJUW7421E2Z5,05541113369,08962093413,,Victor Arya,Amaira Thaman,REG6,ST0072,Mugdha Aggarwal,LIC26750,jaichadha@example.net
+73,ST0073,Joshi Ltd - Patna,"18/404, Sood Zila
+Hubli–Dharwad-431151",Patna,Bihar,167869,+911259736664,SAP0073,RETAIL,West,Shopping Complex,574,B+,Rehaan Gola,yashodapanchal@example.com,RSM6060,Upma Ghose,ganeshaarav@example.net,ASM3953,SRV319,20YPGHE3538C5Z2,+919302586706,3022400022,,Vincent Brar,Prisha Thaman,REG9,ST0073,Frederick Kade,LIC14947,chavvi56@example.org
+74,ST0074,Banerjee-Tata - Kanpur,"61/746
+Ahuja Ganj, Gangtok 420673",Kanpur,Uttar Pradesh,242396,2652260849,SAP0074,FLAGSHIP,Central,Standalone,1131,A,Maya Pall,jatin77@example.net,RSM3962,Hiral Suresh,odani@example.net,ASM3712,SRV838,24BNLVX4891O5Z8,+915725296822,+910308657969,,Eesha Batta,,REG8,ST0074,Aditya Vasa,LIC35430,urvisachar@example.org
+75,ST0075,"Sood, Mahajan and Bail - Nagpur","239
+Iyengar Road, Jalna-566698",Nagpur,Maharashtra,121326,3668482313,SAP0075,FRANCHISE,West,Shopping Complex,2064,C,Aarush Dasgupta,fmander@example.org,RSM9641,Gagan Bajaj,yashawini74@example.com,ASM7859,SRV265,36GZTEI1854U8Z6,0414950875,00327699382,,Yashvi Saxena,,REG9,ST0075,Aishani Viswanathan,LIC26341,thamannitesh@example.net
+76,ST0076,Dani Group - Lucknow,"H.No. 79
+Nagarajan Chowk
+Bally-572817",Lucknow,Uttar Pradesh,838918,07878607427,SAP0076,RETAIL,South,Shopping Complex,2340,C,Abhiram Sani,ibhatia@example.net,RSM3414,Harita Shroff,nathjason@example.org,ASM8167,SRV193,17OLANB7495Q6Z4,05357217835,06330819042,,Advika Sagar,,REG4,ST0076,Falan Tiwari,LIC13694,divyatank@example.com
+77,ST0077,Gala Inc - Kanpur,"H.No. 01, Chad Zila
+Gulbarga 814792",Kanpur,Uttar Pradesh,215660,7530700597,SAP0077,RETAIL,East,Street,1063,A+,David Bhatnagar,ekapadparmer@example.com,RSM5700,Bachittar Gala,ikshitatank@example.net,ASM8740,SRV812,36EYWPO1086C1Z5,6831686563,+917259562648,,Hemang Saha,,REG10,ST0077,Vihaan Chandran,LIC79176,duanilima@example.net
+78,ST0078,Kapur-Pall - Thane,"H.No. 104, Biswas Chowk
+Shimoga-874221",Thane,Maharashtra,684652,+917157708383,SAP0078,RETAIL,East,Street,1733,A+,Tanveer Ravi,subramaniamshaurya@example.net,RSM1782,Bishakha Mall,sshah@example.net,ASM4906,SRV529,30ZTOCD9189T9Z1,07253880067,00334375139,,Radha Agate,Jasmit Sur,REG3,ST0078,Aahana Mangal,LIC48177,tanmayi58@example.net
+79,ST0079,Oak-Dubey - Thane,"53/67
+Sundaram Nagar, Avadi-804079",Thane,Maharashtra,162064,00927034224,SAP0079,RETAIL,Central,Shopping Complex,1485,C,Zayan Bose,desaiishaan@example.org,RSM7825,Ati Khalsa,janaki57@example.net,ASM4068,SRV780,31CQLCQ9914Q9Z9,06276483519,+917051834417,1975-10-18,Ansh Prabhakar,Tristan Bedi,REG1,ST0079,Daniel Vohra,LIC93318,jagdishkoshy@example.net
+80,ST0080,"Rastogi, Kanda and Agate - Indore","01/62, Pingle Zila
+Mango-033425",Indore,Madhya Pradesh,645028,01538163362,SAP0080,OUTLET,East,Mall,1962,A+,Varsha Pillay,tanay98@example.org,RSM6649,Bhavani Iyengar,rgole@example.com,ASM4950,SRV850,31UDYSX6447E1Z6,01961728687,07559118035,,Alexander Dada,Neel Sama,REG3,ST0080,Aadi Aurora,LIC99742,braraadhya@example.com
+81,ST0081,"Raja, Wason and Varkey - Bhopal","H.No. 09, Ray Chowk
+Nangloi Jat-061033",Bhopal,Madhya Pradesh,740459,06187435796,SAP0081,FRANCHISE,South,Street,758,B,Advik Singh,ygour@example.org,RSM1605,Barkha Lalla,ndave@example.net,ASM5807,SRV306,11ZGBKJ9444M9Z8,+913374572199,8853478253,,Tripti Dubey,Balendra Srivastava,REG4,ST0081,Vaishnavi Atwal,LIC47501,yauvanisinghal@example.org
+82,ST0082,Bobal Group - Nagpur,"04, Ahuja Circle
+Rajpur Sonarpur 805372",Nagpur,Maharashtra,972427,2797600994,SAP0082,RETAIL,East,Shopping Complex,1009,B+,Kamya Chana,ykuruvilla@example.com,RSM8159,Keya Bhardwaj,yashawini76@example.com,ASM7553,SRV861,24MKFPW9151L9Z5,2931328335,09347661600,,Arya Chandran,Owen Kalita,REG2,ST0082,Sachi Kala,LIC66440,balanreva@example.com
+83,ST0083,Singh Ltd - Hyderabad,"H.No. 365
+Salvi Nagar, Nanded 312155",Hyderabad,Telangana,021145,1879668510,SAP0083,OUTLET,East,Mall,827,B+,Kritika Konda,varugheseeesha@example.org,RSM5843,Qarin Gera,ladjeremiah@example.org,ASM6021,SRV556,29WNFWO6759O1Z6,05172843508,4886864542,,Ikbal Raja,Meera Mangat,REG1,ST0083,Nakul Dalal,LIC19835,sacharjatin@example.com
+84,ST0084,Mutti-Singh - Indore,"50/368, Singh Chowk, Parbhani 852408",Indore,Madhya Pradesh,510397,4643869989,SAP0084,OUTLET,Central,Street,627,A,Krishna Raj,butalakrishna@example.com,RSM8179,Ekavir Parmer,igoda@example.com,ASM1570,SRV229,12HYULL7272S1Z3,+917040055277,04937372057,,Max Narula,Simon Munshi,REG6,ST0084,Aayush Vyas,LIC68188,rachit80@example.com
+85,ST0085,Tata Ltd - Bangalore,"16, Seth Nagar, Bidhannagar-043444",Bangalore,Karnataka,701972,6851323245,SAP0085,FLAGSHIP,Central,Shopping Complex,2130,B+,Bimala Padmanabhan,christopher11@example.net,RSM5566,Radha Mishra,amrutasehgal@example.com,ASM5089,SRV216,10XFPQM2929I5Z8,5919667739,+910047999026,,Ranveer Rajagopal,Yagnesh Srinivasan,REG8,ST0085,Reva Dara,LIC36237,hmaster@example.org
+86,ST0086,Karpe-Date - Chennai,"49/34
+Issac Marg, Khammam 139694",Chennai,Tamil Nadu,906927,7119354647,SAP0086,FLAGSHIP,North,Standalone,1207,B,Naveen Walla,fitan68@example.net,RSM2438,Kabir Mukherjee,bahluwalia@example.net,ASM6236,SRV783,21WCRRJ5914F3Z6,4077451177,7219608431,,Dominic Manda,,REG4,ST0086,Rehaan Mannan,LIC28202,bnadkarni@example.com
+87,ST0087,Solanki Group - Ahmedabad,"H.No. 435, Chhabra Circle, Bidhannagar-729102",Ahmedabad,Gujarat,085462,03697222693,SAP0087,FRANCHISE,North,Shopping Complex,2769,C,Naksh Kumer,warhi37@example.org,RSM7044,Harish Hora,bhatialakshmi@example.net,ASM8657,SRV922,27ETCCJ7523W8Z9,09281614112,+913050042049,,Indrajit Parikh,Aarna Balakrishnan,REG10,ST0087,Nihal Jha,LIC19666,kbawa@example.net
+88,ST0088,"Krish, Sundaram and Patil - Kolkata","H.No. 365
+Sridhar Chowk
+Tadepalligudem-270040",Kolkata,West Bengal,023501,04831912554,SAP0088,OUTLET,North,Standalone,2408,C,Ranveer Tiwari,ayushnatt@example.net,RSM6644,Yochana Saini,labanrajagopalan@example.org,ASM3102,SRV999,36YRUSF3114N9Z1,09187010864,03576017215,,Yoshita Nayar,Harshil Bhandari,REG5,ST0088,Jagat Thakkar,LIC31581,ybarad@example.com
+89,ST0089,Murthy-Bali - Hyderabad,"H.No. 999, Walla Marg
+Orai-277436",Hyderabad,Telangana,237000,+919463061737,SAP0089,OUTLET,South,Shopping Complex,2625,B+,Xiti Sharma,orinderbaria@example.org,RSM2292,Nidhi Shetty,wriddhish63@example.com,ASM5105,SRV301,30RIEUJ9740C9Z3,+918666599247,04092007802,,Udyati Parikh,Ekanta Bhargava,REG3,ST0089,Bahadurjit Varkey,LIC96341,ranbirmenon@example.net
+90,ST0090,"Sundaram, Shah and Om - Kanpur","H.No. 842, Natt Chowk
+Vasai-Virar-003233",Kanpur,Uttar Pradesh,288872,04308682343,SAP0090,RETAIL,North,Mall,686,C,Advaith Murty,yoshitanazareth@example.net,RSM5336,Manbir Nigam,kapurtanish@example.org,ASM4453,SRV885,28NTUAP9938J5Z8,05583219815,+913268164572,,Zehaan Narain,Oviya Shere,REG7,ST0090,Aradhana Nadig,LIC48985,nachiketdar@example.org
+91,ST0091,Mani-Bumb - Bhopal,"H.No. 38, Andra
+Gwalior-781167",Bhopal,Madhya Pradesh,619813,+910376096558,SAP0091,RETAIL,North,Street,2300,B,Laksh Randhawa,oliverjoshi@example.org,RSM8933,Isaiah Dara,lohit72@example.com,ASM8609,SRV308,20TEKWK6658M3Z6,07610293387,9530572743,,Harini Karnik,,REG4,ST0091,Chaaya Dalal,LIC71141,chasmum48@example.org
+92,ST0092,Sawhney-Randhawa - Chennai,"H.No. 719
+Cheema Zila, Imphal 662714",Chennai,Tamil Nadu,813850,+911793373220,SAP0092,OUTLET,West,Street,1077,A+,Yutika Deep,eesha03@example.com,RSM1829,Faqid Gulati,halderwarhi@example.net,ASM5754,SRV493,37TNHFK6123G3Z8,03502081431,+912109272420,,Vyanjana Sahota,Ekalinga Sundaram,REG5,ST0092,Ekaja Varghese,LIC75191,mukhopadhyaybalendra@example.net
+93,ST0093,"Choudhary, Bumb and Narasimhan - Mumbai","H.No. 84, Shah Chowk, Raipur 759580",Mumbai,Maharashtra,249337,1611821952,SAP0093,RETAIL,West,Standalone,1486,A,Ranveer Ravel,ayaanprabhakar@example.net,RSM6781,Jairaj Nagi,ekunda@example.com,ASM1797,SRV151,19PTUVP5681R1Z2,4465713767,01614688041,,Kamala Zacharia,Manya Prasad,REG6,ST0093,Jeevika Gupta,LIC62855,vdalia@example.net
+94,ST0094,Pant Group - Nagpur,"66, Cherian Street
+Khandwa-903383",Nagpur,Maharashtra,077489,06838743928,SAP0094,RETAIL,West,Mall,2835,C,Niharika Hayer,parmarazad@example.org,RSM4189,Yashvi Jha,sahotavritti@example.net,ASM6939,SRV666,19CMQOY5582T2Z3,3821714167,+915754733730,,Charita Nayar,Urmi Dada,REG6,ST0094,Qarin Sarkar,LIC83116,chhabrawishi@example.net
+95,ST0095,Mohan-Kata - Nagpur,"60, Gaba
+Avadi-678988",Nagpur,Maharashtra,383600,8802330614,SAP0095,FLAGSHIP,South,Standalone,2548,A+,Aradhana Bora,surnimrat@example.org,RSM1742,Pahal Johal,patiljoshua@example.org,ASM1637,SRV240,32KZPQO3440T9Z3,02388145750,09430364760,,Hamsini Bava,Bhavika Goel,REG3,ST0095,Rajeshri Bhatti,LIC61505,ekani40@example.net
+96,ST0096,Sarin Ltd - Lucknow,"H.No. 49
+Gupta Marg
+Srinagar 719716",Lucknow,Uttar Pradesh,685180,9891605638,SAP0096,OUTLET,Central,Standalone,2805,B+,Anay Varty,dsingh@example.com,RSM8780,Veer Mahajan,reyanshtiwari@example.com,ASM1272,SRV477,20VDNSJ1436T8Z5,+910723800951,09888715126,,Charles Sathe,Rushil Rama,REG10,ST0096,Wyatt Butala,LIC85711,vamakshibalakrishnan@example.com
+97,ST0097,Vyas PLC - Ahmedabad,"H.No. 62
+Bali Chowk, Rampur-212493",Ahmedabad,Gujarat,012689,03751919806,SAP0097,RETAIL,Central,Standalone,1198,C,Nimrat Parikh,sidhuhardik@example.net,RSM7229,Ekaraj D’Alia,yochanamenon@example.net,ASM3421,SRV941,31HBSWD4125A8Z6,8190781450,+919084249024,,Omkaar Tara,Lucky Halder,REG4,ST0097,Vamakshi Prasad,LIC63788,hboase@example.net
+98,ST0098,"Chatterjee, Krishnamurthy and Chhabra - Patna","53/553
+Sule, Buxar 078205",Patna,Bihar,719279,+919892017298,SAP0098,FRANCHISE,North,Street,2624,A,Charita Narang,luckybahri@example.com,RSM6325,Mahika Swamy,surasanya@example.net,ASM8837,SRV638,22KFORK9950L5Z8,07391036810,+916900713607,,Idika Srinivas,,REG9,ST0098,Maanas Mani,LIC49124,qshankar@example.net
+99,ST0099,Jayaraman PLC - Ahmedabad,"H.No. 537, Loke Path, Secunderabad-378964",Ahmedabad,Gujarat,002123,2369975536,SAP0099,OUTLET,East,Street,2502,B+,Isaac Kale,wadhwakavya@example.com,RSM8861,Vritti Balay,tsen@example.com,ASM6714,SRV673,35XIJDS9899M7Z6,+919652865093,09902606439,,Ubika Tripathi,Liam Ghosh,REG5,ST0099,Sanya Banik,LIC15513,qboase@example.net
+100,ST0100,Deo and Sons - Lucknow,"H.No. 037
+Menon Path, Morbi 659330",Lucknow,Uttar Pradesh,453995,7866789684,SAP0100,RETAIL,East,Standalone,1550,B,Arin Chowdhury,aroramason@example.net,RSM4505,Waida Sharaf,karansneha@example.net,ASM4310,SRV947,27IRWIE2789T4Z4,03928440073,+917004384068,2009-01-21,Shravya Mann,Pushti Shenoy,REG4,ST0100,Gagan Seth,LIC93616,alkasehgal@example.com
+101,ST0101,"Misra, Bajaj and Sawhney - Ahmedabad","07
+Behl Marg
+Jamnagar 128440",Ahmedabad,Gujarat,635104,07393245097,SAP0101,RETAIL,North,Standalone,1852,B,Harita Dube,varghesejeremiah@example.net,RSM2647,Tejas Khanna,zehaan05@example.org,ASM3252,SRV105,27FNUPP4267Y5Z6,00492019636,7557121012,,Kamala Bhatti,,REG2,ST0101,Harrison Purohit,LIC95498,ojas61@example.net
+102,ST0102,Kumer-Rajagopal - Ahmedabad,"90/144, Gulati Marg, Kolkata-027399",Ahmedabad,Gujarat,563141,05441840122,SAP0102,RETAIL,South,Standalone,1220,A+,Aditya Choudhry,dayalishaan@example.net,RSM7504,Max Singhal,faris51@example.com,ASM9116,SRV290,33JBAJS2758K5Z8,05275001974,09575999629,,Brinda Sankar,Amruta Yadav,REG8,ST0102,Sathvik Gara,LIC27589,hdeol@example.net
+103,ST0103,"Kale, Sengupta and Narang - Patna","23, Gupta, Phagwara-244550",Patna,Bihar,478894,9256894703,SAP0103,FRANCHISE,East,Street,961,B+,Radha Deep,guptaadvaith@example.net,RSM3662,Hredhaan Walia,vtandon@example.net,ASM8518,SRV763,18WFAXK5833S4Z3,5197473367,+918902227020,,Balhaar Mander,Wriddhish Sha,REG7,ST0103,Jagrati Nadig,LIC66059,tatapranit@example.com
+104,ST0104,"Palla, Varghese and Manne - Patna","508, Das Circle
+Panchkula-336315",Patna,Bihar,335673,+918200060413,SAP0104,OUTLET,North,Standalone,890,A,Nimrat Chaudhuri,ijayaacharya@example.com,RSM3303,Ladli Kala,orinder07@example.org,ASM8822,SRV431,17AIMHO5374K5Z1,+913156817292,+911790370300,,Peter Sharaf,Yashica Babu,REG4,ST0104,Rachita Devi,LIC18142,aachalnayak@example.com
+105,ST0105,"Bumb, Vyas and Doctor - Chennai","763
+Varkey Zila, Shahjahanpur 227389",Chennai,Tamil Nadu,860843,+912321509938,SAP0105,FRANCHISE,East,Street,2160,C,Veer Rai,samuelbutala@example.com,RSM6095,Gunbir Behl,tarachakrabarti@example.org,ASM2923,SRV754,19LTHHE8834E8Z6,1449962804,09641498212,,Pratyush Mander,Hemani Palla,REG8,ST0105,Jeet Saran,LIC80453,samesh48@example.net
+106,ST0106,Padmanabhan-Tailor - Pune,"72/50, Sura Circle
+Purnia 743036",Pune,Maharashtra,221423,+917342702447,SAP0106,FLAGSHIP,Central,Mall,2652,B,Wazir Nigam,virajbadal@example.net,RSM9653,Mohammed Seth,vpalla@example.net,ASM6927,SRV179,28DBRQG9792E3Z6,+919292264787,+918820210883,,Hritik Halder,Hemani Sant,REG4,ST0106,Guneet Mishra,LIC86434,yochana93@example.com
+107,ST0107,Gandhi Ltd - Visakhapatnam,"79/776
+Saraf Road
+Jehanabad 299308",Visakhapatnam,Andhra Pradesh,202371,+915679133723,SAP0107,RETAIL,Central,Standalone,727,B,Faris Bajaj,guneet72@example.org,RSM3161,Hiral Khurana,cbabu@example.net,ASM9409,SRV525,24SBROV6049X1Z7,+917723770702,08149178435,,Oni Dora,,REG4,ST0107,Anjali Brahmbhatt,LIC85800,kuruvillatripti@example.net
+108,ST0108,Dhawan LLC - Bangalore,"391, Barman Zila, Durgapur 809276",Bangalore,Karnataka,240751,04389563903,SAP0108,RETAIL,West,Shopping Complex,761,C,Chameli Sabharwal,karya@example.com,RSM1987,Imaran Grewal,kabirsandal@example.com,ASM2130,SRV583,11JNFYE7887L7Z8,3467997181,+914931007123,,Reyansh Dalal,Januja Walia,REG7,ST0108,Ranbir Prashad,LIC20518,wvarty@example.net
+109,ST0109,"Natt, Halder and Khalsa - Vadodara","72/91
+Edwin Marg
+Jaipur 719105",Vadodara,Gujarat,747488,+915871983419,SAP0109,FLAGSHIP,East,Mall,1231,C,Meera Pal,salvivinaya@example.org,RSM7439,Vanya Agrawal,vinayaminhas@example.org,ASM9664,SRV230,33HAYAJ8585V9Z7,7747778733,+916781567068,,Triveni Misra,Chatresh Sampath,REG4,ST0109,Tanvi Koshy,LIC70375,joshitristan@example.com
+110,ST0110,"Tella, Issac and Chatterjee - Nagpur","776, Sahota Nagar, Siliguri 996121",Nagpur,Maharashtra,067715,8996345290,SAP0110,FLAGSHIP,East,Street,962,A+,Andrew Vaidya,sanenoah@example.net,RSM7868,Wriddhish Konda,tanmayi21@example.net,ASM1256,SRV346,16CDTBO1797H1Z7,06696050485,1599899945,,Sathvik Bhattacharyya,Suhani Chokshi,REG1,ST0110,Xavier Shroff,LIC28367,bahadurjit17@example.net
+111,ST0111,"Murty, Mital and Ratta - Patna","H.No. 72
+Sandhu Road
+Ahmedabad 583559",Patna,Bihar,513409,07379584109,SAP0111,OUTLET,South,Shopping Complex,2865,C,Chasmum Kale,ishwar30@example.org,RSM6253,Tarak Madan,raaginiben@example.org,ASM4881,SRV409,14VQHNJ5508B9Z3,+917274757129,1637275518,,Varenya Basu,Edhitha Nazareth,REG8,ST0111,Pranav Behl,LIC16145,yatin41@example.org
+112,ST0112,Palla PLC - Nagpur,"20/069
+Soni Nagar, Bulandshahr 456333",Nagpur,Maharashtra,662580,08099681653,SAP0112,FRANCHISE,Central,Shopping Complex,2205,B,Yashica Bakshi,kiaansawhney@example.org,RSM3444,Naksh Shere,jackson31@example.org,ASM5913,SRV485,15YRPHH5927W3Z8,03049147329,+919266975983,,Chandani Tata,Megha Hans,REG7,ST0112,Zilmil Ganesan,LIC83044,dassavi@example.org
+113,ST0113,Cherian and Sons - Patna,"18, Bora Road, Ahmednagar 129941",Patna,Bihar,642367,+912680648009,SAP0113,FLAGSHIP,West,Street,1544,A,Yagnesh Rao,fitandatta@example.net,RSM6411,Ekbal Chana,osheth@example.net,ASM2295,SRV560,37LCRXG1844I7Z1,0129098376,04916431373,,Rudra Nadkarni,,REG10,ST0113,Aadi Srivastava,LIC98008,theodoregupta@example.net
+114,ST0114,Sidhu PLC - Vadodara,"09/975
+Badal Marg, Vijayawada-700955",Vadodara,Gujarat,689155,0824684593,SAP0114,FLAGSHIP,West,Street,1863,B+,Suhani Suri,zbhakta@example.org,RSM1251,Ridhi Ravi,girishtiwari@example.org,ASM4470,SRV294,33DXYPH4350M4Z9,+919801573927,1245925603,,Ekbal Bera,,REG8,ST0114,Fitan Shere,LIC79946,faras69@example.com
+115,ST0115,"Dora, Bumb and Chandra - Nagpur","79/320
+Merchant Ganj, Chennai 189099",Nagpur,Maharashtra,046749,03415438737,SAP0115,OUTLET,East,Shopping Complex,2600,B,Yashica Kapur,wakeeta78@example.com,RSM8635,Osha Singh,masonbalan@example.net,ASM2615,SRV922,33PYKGL6126N1Z4,+913692570681,+914499322696,,Dayita Madan,,REG9,ST0115,Harsh Mahajan,LIC86550,suhani20@example.net
+116,ST0116,Mukherjee Group - Thane,"879, Dani Ganj, Solapur-527500",Thane,Maharashtra,695659,4325919062,SAP0116,OUTLET,South,Street,1851,A,Devika Gupta,imaranaggarwal@example.org,RSM7223,Triya Doshi,laban27@example.org,ASM5026,SRV611,27UVKIY9005X8Z8,1946587868,03829025531,,Sanya Pandit,Maya Majumdar,REG3,ST0116,Neelima Lal,LIC28344,ayaantaneja@example.org
+117,ST0117,Rastogi Group - Vadodara,"H.No. 19
+Pandey Path, Kamarhati 781152",Vadodara,Gujarat,075974,08322710753,SAP0117,FRANCHISE,South,Mall,2646,A+,Siddharth Handa,chakradharkannan@example.net,RSM2217,Aashi Varghese,bhardwajekaraj@example.com,ASM1794,SRV882,10NEUHC3474A4Z9,08893914194,02530170495,,Gaurav Issac,,REG10,ST0117,Harini Grover,LIC73334,talwarfalguni@example.org
+118,ST0118,Lalla PLC - Visakhapatnam,"30/900, Bhasin, Baranagar 621584",Visakhapatnam,Andhra Pradesh,199988,+912564539362,SAP0118,RETAIL,North,Standalone,548,A+,Kalpit Sidhu,bhatiachavvi@example.com,RSM9673,Janaki Ahuja,gchana@example.net,ASM5501,SRV648,19AQWVN3937D2Z9,4816785655,01465201398,,Ira Ahluwalia,,REG9,ST0118,Damini Vaidya,LIC43084,girindra34@example.net
+119,ST0119,Gour-Bose - Nagpur,"32/86, Ghose Chowk
+Yamunanagar 401412",Nagpur,Maharashtra,950456,1863849251,SAP0119,OUTLET,West,Mall,2028,B,Vrinda Subramaniam,datejagvi@example.com,RSM8520,Hemal Tank,yyohannan@example.org,ASM4984,SRV813,17JVCUU1519C7Z7,01807986538,2607998861,,Indira Kaur,Wishi Shan,REG1,ST0119,Anthony Chandran,LIC32463,vritti95@example.net
+120,ST0120,Amble Inc - Bangalore,"17/90, Upadhyay Circle
+Arrah 844694",Bangalore,Karnataka,520131,04969710118,SAP0120,FRANCHISE,West,Shopping Complex,2817,A+,Yagnesh Sachdev,uppaldarika@example.org,RSM9653,Teerth Bhardwaj,anikapanchal@example.com,ASM1697,SRV335,16WSPIB2218V5Z9,02801111532,7510560625,,Yash Yogi,,REG6,ST0120,Balhaar Bansal,LIC12052,chanchal32@example.com
+121,ST0121,"Sharma, Khalsa and Loyal - Pune","H.No. 96
+Venkataraman Path, Pune-430451",Pune,Maharashtra,698808,+912917154853,SAP0121,FLAGSHIP,West,Mall,1725,A,Rehaan Kapur,siddharth54@example.org,RSM4939,Qadim Krishna,vartyryan@example.net,ASM7375,SRV793,27KMYXE2284Q6Z1,01752640361,8912857403,2022-05-18,Champak Misra,,REG2,ST0121,Hemal Borde,LIC54642,pkohli@example.com
+122,ST0122,Malhotra-Sidhu - Indore,"H.No. 159, Verma Circle, Salem 996005",Indore,Madhya Pradesh,840619,+919420437810,SAP0122,OUTLET,North,Shopping Complex,2345,B,Chasmum Soni,jhalakbansal@example.org,RSM4737,Meera Mall,jasongala@example.com,ASM6829,SRV666,22NFVSV7227C5Z4,8414551532,+912549601910,,Aadhya Natarajan,,REG3,ST0122,Balhaar Sur,LIC59807,shahrobert@example.net
+123,ST0123,"Bahl, Sandal and Parsa - Kolkata","H.No. 092
+Chad Road
+Purnia 274570",Kolkata,West Bengal,661269,8959640853,SAP0123,FRANCHISE,East,Shopping Complex,936,A+,Sathvik Goda,gandhidipta@example.org,RSM1085,Baljiwan Ravi,umangdeol@example.org,ASM6050,SRV555,21YIDEC4070N8Z9,+912943057861,2820394457,,Chaitanya Kata,Onveer Nagy,REG1,ST0123,Nicholas Bandi,LIC21746,tarak24@example.org
+124,ST0124,Sathe-Bhatnagar - Nagpur,"916
+Buch Zila, Raipur 776310",Nagpur,Maharashtra,336467,+916496153599,SAP0124,RETAIL,Central,Shopping Complex,2077,A+,Isaiah Varghese,dalaja00@example.org,RSM5781,Deepa Hora,surchandresh@example.com,ASM7779,SRV497,34CXRHS9537F7Z3,+912892539463,03072217770,,Hemal Sarma,Laksh Bansal,REG8,ST0124,Samarth Dhillon,LIC29127,narainlogan@example.com
+125,ST0125,Gera Group - Bangalore,"H.No. 365
+Bhavsar Ganj
+Coimbatore 736731",Bangalore,Karnataka,646839,+911595531357,SAP0125,FLAGSHIP,West,Shopping Complex,2224,B+,Ekavir Master,ayushbarad@example.net,RSM8933,Sachi Nayar,blalla@example.org,ASM2260,SRV469,18HXUPT4203O2Z3,+911483739959,6053894696,,Dalaja Wagle,Samesh Dewan,REG6,ST0125,Kritika Deo,LIC91289,xloyal@example.org
+126,ST0126,"Dugar, Dar and Prabhakar - Indore","18/456
+Palla Street
+Nadiad-745410",Indore,Madhya Pradesh,091535,+913318300013,SAP0126,OUTLET,West,Shopping Complex,2263,C,Arunima Goel,bassiom@example.net,RSM3230,Tanmayi Chanda,yuvrajbera@example.com,ASM5922,SRV428,29WGPKF7524K5Z8,01661431413,+919188732125,,Zinal Krishnamurthy,Geetika Ben,REG6,ST0126,Aarini Chandran,LIC59290,om03@example.com
+127,ST0127,"Kaur, Choudhury and Mitter - Jaipur","369
+Kannan, Berhampur 045745",Jaipur,Rajasthan,997045,08328387775,SAP0127,FRANCHISE,East,Mall,2809,A,Urmi Agarwal,viganamika@example.org,RSM9939,Lakshit Kar,cvohra@example.org,ASM3947,SRV798,34RAXOW4434O5Z2,+914921819222,04187016622,,Rachita Krishnamurthy,Ishwar Ranganathan,REG7,ST0127,Anusha Ravi,LIC98208,vincentsama@example.com
+128,ST0128,Saran and Sons - Visakhapatnam,"99
+Prabhakar, Hyderabad 311863",Visakhapatnam,Andhra Pradesh,000249,5243875552,SAP0128,FLAGSHIP,East,Street,1534,A,Banjeet Puri,sidhuzayyan@example.com,RSM7932,Abeer Pau,lsathe@example.net,ASM7176,SRV175,24TPSMR9300W7Z9,+913142525705,+913577348410,2025-03-21,Laban Barad,Daksha Randhawa,REG9,ST0128,Oeshi Morar,LIC87833,oviswanathan@example.com
+129,ST0129,Sharma and Sons - Bangalore,"22/004
+Tripathi Ganj
+Machilipatnam-407441",Bangalore,Karnataka,434152,8138041283,SAP0129,RETAIL,South,Shopping Complex,1181,C,Jairaj Kuruvilla,agastya48@example.org,RSM1725,Advay Toor,bhaktaadvika@example.net,ASM7547,SRV870,20ZNDAD5239H9Z9,+914090082997,3367120721,,Luke Tata,Ekiya Naik,REG4,ST0129,Anvi Balan,LIC68429,patrickdugar@example.net
+130,ST0130,"Sha, Bassi and Korpal - Nagpur","H.No. 06
+Rout Chowk, Pudukkottai 270009",Nagpur,Maharashtra,360099,+911125282746,SAP0130,FRANCHISE,West,Street,1912,A+,Zehaan Mohanty,gangulyvihaan@example.com,RSM8909,Manan Biswas,apadmanabhan@example.net,ASM2712,SRV402,23CDXEL6110K8Z4,4859348057,+919239282812,,Charles Bandi,Benjamin Dewan,REG2,ST0130,Wahab Mital,LIC67431,dugarhardik@example.net
+131,ST0131,Narang-Rege - Bhopal,"H.No. 81
+Garg Path
+Gwalior-772442",Bhopal,Madhya Pradesh,446424,+910711872210,SAP0131,OUTLET,North,Shopping Complex,683,A+,Krish Talwar,samarchauhan@example.net,RSM1370,Adweta Sunder,janipriya@example.net,ASM6620,SRV763,13VZFXH9454F9Z3,00797093209,+915181824209,,Rajata Comar,Balhaar Pai,REG8,ST0131,Sudiksha Nagar,LIC40389,egola@example.com
+132,ST0132,Deo Inc - Indore,"542
+Chahal Zila, Srikakulam 490601",Indore,Madhya Pradesh,848698,06377896921,SAP0132,FLAGSHIP,South,Standalone,2120,A+,Niharika Dalal,djani@example.com,RSM4232,Quincy Devan,kiaankothari@example.org,ASM8365,SRV706,23MAWGG5560Y2Z2,0710555723,+912279712439,,Odika Rege,Rohan Randhawa,REG6,ST0132,Dhriti Bains,LIC52727,sanayalalla@example.net
+133,ST0133,Pathak-Dhaliwal - Pune,"14/79, Chaudhary Marg
+Bongaigaon 867542",Pune,Maharashtra,900437,+912703364587,SAP0133,FRANCHISE,North,Shopping Complex,2504,C,Dipta Boase,jeet05@example.org,RSM6134,Bhavya Nori,kundaoeshi@example.org,ASM7367,SRV725,22SDLLO3826V5Z2,0409039630,+917374449415,,Girish Mitter,Vamakshi Chad,REG4,ST0133,Jagvi Ganesan,LIC50026,victor74@example.org
+134,ST0134,Raman and Sons - Chennai,"828, Singhal Nagar, Orai 628930",Chennai,Tamil Nadu,164233,09106425759,SAP0134,FLAGSHIP,East,Street,2592,B,Chandran Arora,wmittal@example.org,RSM7852,Amaira Sura,neel58@example.com,ASM3258,SRV688,22NFPUR3838R3Z8,01612678590,2928814982,,Kai Kunda,,REG8,ST0134,Gautami Sangha,LIC91187,pavanibandi@example.net
+135,ST0135,"Ranganathan, Patla and Bala - Delhi","H.No. 91
+Samra
+Bhilwara-643252",Delhi,Delhi,265160,0639538946,SAP0135,OUTLET,North,Standalone,1059,A,Warinder Dhawan,yohannanmitali@example.com,RSM7290,Ranveer Balakrishnan,utkarshnatt@example.net,ASM9281,SRV768,25NVPNW8272P3Z2,3574949169,0300585165,,Osha Kulkarni,Lakshit Dey,REG4,ST0135,Tanvi Bedi,LIC48284,vyasojas@example.org
+136,ST0136,"Krishna, Sarma and Seth - Delhi","11, Pau Ganj, Morena 080995",Delhi,Delhi,590503,03386860164,SAP0136,OUTLET,South,Shopping Complex,1188,B,Yashodhara Sarkar,yaminidhingra@example.net,RSM9115,Vasana Varughese,jmallick@example.net,ASM9369,SRV215,28DIYRL9880Y1Z8,02552970191,05595227237,,Qasim Raman,Udarsh Kohli,REG2,ST0136,Jai Sampath,LIC95678,esachdev@example.net
+137,ST0137,"Kohli, Palla and Golla - Ahmedabad","H.No. 17, Gala Chowk, Coimbatore-399148",Ahmedabad,Gujarat,988254,5148722202,SAP0137,OUTLET,North,Standalone,1576,B+,Hemang Iyer,jmodi@example.com,RSM2425,Omya Om,darika77@example.com,ASM8193,SRV986,13YZHGZ6744W7Z3,+917637654690,2759804195,,Ayushman Lad,Zilmil Ramaswamy,REG4,ST0137,Jairaj Suri,LIC17780,hayreojas@example.org
+138,ST0138,Varty Ltd - Nagpur,"H.No. 54
+Shroff Ganj, Faridabad 402706",Nagpur,Maharashtra,983464,02834312454,SAP0138,OUTLET,Central,Street,1825,B+,Balvan Dube,isaiahgolla@example.com,RSM5740,Nandini Krish,eacharya@example.com,ASM5380,SRV978,26VDEYZ7743B5Z3,09553925270,+917560999537,,Vinaya Nagarajan,,REG3,ST0138,Aarnav Ray,LIC52217,subramanianfrederick@example.org
+139,ST0139,"Sarraf, Kala and Chadha - Ahmedabad","541, Mander Nagar
+Medininagar-980121",Ahmedabad,Gujarat,423460,07981398508,SAP0139,FRANCHISE,West,Street,2865,B+,Jackson Sawhney,swamyalexander@example.net,RSM7786,Suhani Dutta,anjalisaini@example.com,ASM7146,SRV562,12UZYCM9447X5Z6,+911781832455,+915733890737,,Lavanya Borde,Vincent Roy,REG10,ST0139,Aachal Malhotra,LIC10324,ahujapeter@example.com
+140,ST0140,Mann Group - Bangalore,"H.No. 812, Mittal Circle
+Jalna 444791",Bangalore,Karnataka,512248,4850751062,SAP0140,FRANCHISE,East,Mall,2689,B,Rushil Dash,wnarang@example.net,RSM4568,Yoshita Bhat,gkuruvilla@example.org,ASM8039,SRV944,16PIKJK9967S3Z8,08306018381,00724533737,,Charan Bhandari,Victor Kala,REG1,ST0140,Aradhana Puri,LIC16021,settyraksha@example.net
+141,ST0141,"Arora, Chaudhari and Sandal - Chennai","63, Gulati, Gangtok-026482",Chennai,Tamil Nadu,614925,+913660027646,SAP0141,FRANCHISE,North,Mall,1147,B,Elijah Bhakta,omody@example.org,RSM8479,Avni Shere,zmukhopadhyay@example.org,ASM1011,SRV538,16WEUJF5489C6Z5,+919268795967,+912569572827,1977-12-04,Faraj Lad,Ranbir Majumdar,REG3,ST0141,Kritika Tiwari,LIC16787,bhardwajhemang@example.org
+142,ST0142,"Sastry, Cheema and Bhatia - Indore","H.No. 43, Bhavsar Nagar, Tiruvottiyur-681586",Indore,Madhya Pradesh,951578,+918740937718,SAP0142,OUTLET,South,Standalone,873,A+,Veer Lal,bgill@example.com,RSM1017,Abdul Dash,uvarghese@example.org,ASM4496,SRV588,12ESHQV8291A1Z6,+913375411458,03171420442,,Bhavani Chandra,Wazir Shankar,REG7,ST0142,Christopher Batra,LIC27324,rachitsingh@example.com
+143,ST0143,Jani Ltd - Visakhapatnam,"50/96, Trivedi Path
+Jamnagar 100927",Visakhapatnam,Andhra Pradesh,612431,02081409389,SAP0143,RETAIL,South,Standalone,865,A+,Xavier Dhillon,gsama@example.com,RSM2690,Wriddhish Mander,gsidhu@example.net,ASM6133,SRV476,19EMYYE3340C9Z1,5366161009,5512776959,,Advik Hayer,,REG6,ST0143,Triya Sibal,LIC37925,qasimkannan@example.net
+144,ST0144,Chakrabarti-Vyas - Kolkata,"740, Bakshi Marg
+Surendranagar Dudhrej 502861",Kolkata,West Bengal,062453,+919896149770,SAP0144,FRANCHISE,Central,Standalone,1389,A+,Bhavya Yogi,baralteerth@example.com,RSM2646,Turvi Jani,agrawalkala@example.net,ASM3293,SRV870,13SXMLN6152Z3Z4,04782948058,08951467129,,Maanav Tiwari,,REG9,ST0144,Sara Dara,LIC88774,sehgalzinal@example.com
+145,ST0145,"Tailor, Bhakta and Morar - Lucknow","63/00
+Khalsa Marg
+Kalyan-Dombivli-959732",Lucknow,Uttar Pradesh,022819,08821782240,SAP0145,RETAIL,East,Street,2620,C,Rudra Buch,azachariah@example.net,RSM9348,Janani Ganesh,mohantywahab@example.com,ASM4090,SRV865,22JUBZZ4921P7Z2,3463731287,+914742656630,,Theodore Saxena,Ojasvi Ramaswamy,REG2,ST0145,Advay Thakkar,LIC79243,lsarma@example.net
+146,ST0146,"Dixit, Krishnan and Buch - Mumbai","019
+Mall Ganj
+Etawah 022483",Mumbai,Maharashtra,634168,+912037511812,SAP0146,OUTLET,East,Street,2084,C,Triveni Sabharwal,yugsane@example.net,RSM7895,Vrishti Bhardwaj,vyanjanalad@example.net,ASM6986,SRV659,31FYPYC1273S2Z1,1628170125,+911752679317,,Neel Lall,,REG1,ST0146,Lajita Lall,LIC62163,somanekaraj@example.net
+147,ST0147,"Gola, Kulkarni and Sarma - Patna","H.No. 079
+Jain Ganj, Malda 685395",Patna,Bihar,884612,03797254200,SAP0147,OUTLET,Central,Standalone,2234,B,Tanvi Kuruvilla,khuranaguneet@example.com,RSM2350,Unnati Madan,ubains@example.org,ASM9791,SRV650,29EICJC9377G3Z9,+915936490279,4574097503,,Jasmit Koshy,Yamini Venkatesh,REG2,ST0147,Viraj Patel,LIC50654,manthan40@example.net
+148,ST0148,Barad LLC - Thane,"466
+Bora Marg
+Bathinda 356994",Thane,Maharashtra,709976,03609160152,SAP0148,FLAGSHIP,North,Street,853,B,Balveer Grover,triveninarain@example.net,RSM2900,Niharika Tiwari,oeshi39@example.org,ASM8428,SRV726,29BJVXV3877D1Z3,+915914316927,+917761193065,,Anya Dave,,REG6,ST0148,Ekansh Misra,LIC78551,tsrivastava@example.net
+149,ST0149,Butala-Narang - Patna,"19/63, Ramachandran Zila, Kalyan-Dombivli 206419",Patna,Bihar,330897,+911689430423,SAP0149,OUTLET,South,Shopping Complex,1019,B+,Rushil Pillai,jmurthy@example.com,RSM2934,Samuel Banerjee,sarkarishwar@example.com,ASM1480,SRV443,35NIQCI2262P8Z9,08167797804,07996994646,,Advaith Saraf,Sanya Basak,REG10,ST0149,Tanveer Karpe,LIC31873,jeevika32@example.net
+150,ST0150,"Sood, Dixit and Misra - Nagpur","78
+Ganguly Ganj, Rohtak 008966",Nagpur,Maharashtra,362393,6121168948,SAP0150,FLAGSHIP,East,Mall,2850,A+,Nikita De,smitter@example.org,RSM4742,Naveen Nanda,janakiapte@example.com,ASM9336,SRV102,11AHBPL7274E3Z1,8672563019,8940873498,,Libni Mander,Ronith Rattan,REG7,ST0150,Ridhi Narula,LIC39427,ucchaldua@example.net
+151,ST0151,Dada-Natt - Kanpur,"545
+Prabhakar Path
+Jehanabad 970931",Kanpur,Uttar Pradesh,859221,+917975771358,SAP0151,FLAGSHIP,West,Shopping Complex,1611,A+,Omisha Mander,yatin80@example.org,RSM7108,Wridesh Sheth,faras12@example.org,ASM2956,SRV614,31BFHZQ1752M2Z8,6268517059,06283093823,,Azaan Bal,Gaurangi Venkatesh,REG5,ST0151,Utkarsh Sunder,LIC52899,ishanimittal@example.com
+152,ST0152,Balan LLC - Bangalore,"H.No. 60
+Dhar Path, Muzaffarpur 120198",Bangalore,Karnataka,452131,08103255728,SAP0152,FRANCHISE,North,Shopping Complex,1321,B+,Falguni Srivastava,talwarlohit@example.net,RSM5979,Dakshesh Korpal,atharv09@example.net,ASM4974,SRV575,21SPYYG9954Y4Z3,2442520832,8990424844,2013-06-22,Amol Chana,Baljiwan Barman,REG4,ST0152,Rachit Chhabra,LIC80981,bbarad@example.net
+153,ST0153,Mutti PLC - Nagpur,"06, Sharaf, Bharatpur 829219",Nagpur,Maharashtra,382098,6285018887,SAP0153,RETAIL,East,Mall,2041,B+,Hardik Hari,kalakari@example.com,RSM2703,Yachana Deep,aishaniprakash@example.net,ASM4361,SRV642,17NPBEW5584C1Z4,+911441395104,9169797889,,Jai Jayaraman,Zehaan Oza,REG6,ST0153,Harita Dasgupta,LIC70091,charluke@example.net
+154,ST0154,"Tailor, Oak and Gaba - Bangalore","H.No. 541
+Vyas Marg, Bilaspur 609298",Bangalore,Karnataka,993280,+919768652397,SAP0154,RETAIL,Central,Street,2115,A+,Yashvi Sandal,pdhingra@example.net,RSM2020,Vedhika Walia,rbaral@example.net,ASM8126,SRV778,14HJIKZ7438W6Z6,01930934884,5321754622,,Baghyawati Baria,,REG4,ST0154,Tamanna Boase,LIC27840,nwali@example.org
+155,ST0155,Ganguly Group - Chennai,"51/676
+Tata Street, Uluberia 674339",Chennai,Tamil Nadu,342897,+917847323290,SAP0155,FLAGSHIP,North,Street,2341,B,Mohini Kapadia,vsaini@example.org,RSM6145,Jeet Joshi,tanay92@example.net,ASM7660,SRV223,27LYGOJ8591I2Z2,+915601517348,+915856816448,,Max Deo,Gagan Chada,REG10,ST0155,Ucchal Chand,LIC15286,choprawarda@example.net
+156,ST0156,Manda Inc - Pune,"16/908, Memon Marg, Dhule-004690",Pune,Maharashtra,454554,8116935469,SAP0156,OUTLET,South,Mall,1516,B+,Jairaj Borde,dattawarhi@example.org,RSM7492,Raghav Shroff,cnarasimhan@example.net,ASM9412,SRV150,31JIFAM8408R9Z4,+916503630863,00364352900,1972-10-27,Manan Mukhopadhyay,,REG3,ST0156,Baljiwan Kari,LIC25919,rishisankaran@example.org
+157,ST0157,Anne Group - Mumbai,"95
+Mandal Ganj, Nanded 871803",Mumbai,Maharashtra,135677,2600295898,SAP0157,RETAIL,South,Street,1311,B,Bhavya Gola,varenyasathe@example.org,RSM7098,Osha Bera,ekaraj92@example.com,ASM2376,SRV696,28ICACG8265Z3Z2,02231091146,+919701799419,,Idika Dewan,Avni Ghosh,REG6,ST0157,Rushil Dugal,LIC26059,januja58@example.com
+158,ST0158,Sabharwal-Seth - Delhi,"57/46
+Vaidya Zila, Etawah 990239",Delhi,Delhi,936912,0582168717,SAP0158,FRANCHISE,North,Street,2850,B,Chandresh Kala,vkothari@example.org,RSM7471,Mugdha Kalla,falak38@example.org,ASM9128,SRV130,22VNFLG4066I5Z8,02583449004,+913131364666,,Daksha Anand,,REG10,ST0158,Chaitaly Narayan,LIC90868,ryankonda@example.org
+159,ST0159,Wagle Inc - Ahmedabad,"14/42, Hegde Marg
+Kulti-471827",Ahmedabad,Gujarat,098668,2213133575,SAP0159,OUTLET,West,Standalone,2755,B,Priya Dar,henrysrinivas@example.org,RSM1999,Bhavini Deo,rajeshri04@example.net,ASM2437,SRV386,22ENGUZ9614H9Z1,0022960858,4074381149,,Finn Borra,Max Gulati,REG6,ST0159,Turvi Baria,LIC72873,maanav41@example.org
+160,ST0160,Kant-Pau - Vadodara,"57/505
+Rau Marg
+Karimnagar-031176",Vadodara,Gujarat,352607,07046865764,SAP0160,FRANCHISE,East,Shopping Complex,2090,B+,Advaith Thaker,ydhar@example.net,RSM3946,Girindra Kade,palabdul@example.org,ASM1427,SRV426,29HAZYI1959Z8Z9,+912905582474,05718152621,,Manbir Sridhar,Anamika Devi,REG4,ST0160,Ijaya Amble,LIC30922,jagat52@example.net
+161,ST0161,Sarkar Inc - Chennai,"60/841
+Varughese, Warangal 857768",Chennai,Tamil Nadu,857056,+919602765491,SAP0161,FLAGSHIP,South,Shopping Complex,2685,A+,Abdul Swaminathan,udyati48@example.com,RSM4594,Mitesh Jhaveri,hrege@example.net,ASM7363,SRV463,36FFHSK6878S1Z6,06415569394,+914712838271,,Rayaan Reddy,Mason Purohit,REG10,ST0161,Arunima Dhillon,LIC34672,okade@example.net
+162,ST0162,Shanker-Raval - Visakhapatnam,"H.No. 24, Sandhu Zila, Muzaffarnagar-153967",Visakhapatnam,Andhra Pradesh,466665,+914801768999,SAP0162,OUTLET,South,Standalone,655,A+,Rajata Memon,zgera@example.com,RSM1920,Karan Bhavsar,ksaran@example.net,ASM4811,SRV716,17AQPAK4300Z3Z6,04275141251,+911554975525,,Nitesh Bhatnagar,Parth Prashad,REG6,ST0162,Sachi Dash,LIC17806,eta11@example.org
+163,ST0163,Mallick-Rajan - Mumbai,"H.No. 669, Mandal Chowk, Gopalpur-811516",Mumbai,Maharashtra,561685,+918946014665,SAP0163,FLAGSHIP,Central,Street,954,C,Aarush Garde,saanvi19@example.net,RSM6978,Nidra Balan,janujaamble@example.net,ASM2188,SRV482,32VMSDK5944K3Z3,+916172334431,03868490256,,Lopa Naik,Pratyush Ganesan,REG8,ST0163,Diya Srinivasan,LIC95089,aramesh@example.net
+164,ST0164,Dora-Mitter - Kanpur,"80/25, Singhal Marg, Indore-415704",Kanpur,Uttar Pradesh,800451,1887221072,SAP0164,FLAGSHIP,Central,Shopping Complex,1414,C,Rudra Sampath,eshana20@example.net,RSM3872,Ryan Banik,aarush19@example.net,ASM7199,SRV414,33WJEFX1029W7Z1,0994424219,3254531926,,Faris Varma,Zilmil Kapadia,REG10,ST0164,Nicholas Wali,LIC38953,triyaedwin@example.org
+165,ST0165,"Goyal, Nazareth and Raval - Chennai","H.No. 33
+Lata Path, Narasaraopet-093486",Chennai,Tamil Nadu,566059,+918086756142,SAP0165,FRANCHISE,South,Shopping Complex,818,A,Ojas Mukhopadhyay,sachdevyahvi@example.net,RSM6682,Triveni Sethi,luthrahiral@example.com,ASM6234,SRV271,30CWVUX6500O1Z5,07740958902,03598058098,,Advika Nori,Ishita Dar,REG6,ST0165,Turvi Kata,LIC43640,leelagara@example.com
+166,ST0166,Morar-Kala - Chennai,"H.No. 524, Sule Road, South Dumdum-572286",Chennai,Tamil Nadu,644399,+912371139946,SAP0166,RETAIL,North,Standalone,2294,B,Indrajit Pau,kurianneha@example.net,RSM3725,Yuvraj Sem,saanvi60@example.org,ASM7783,SRV604,22LRMDP4695F8Z2,09615760076,3365097508,,Manbir Divan,,REG1,ST0166,Agastya Padmanabhan,LIC51774,watika17@example.net
+167,ST0167,"Kalita, Tailor and Natarajan - Jaipur","41/39
+Swaminathan Ganj
+Shivpuri-223002",Jaipur,Rajasthan,571480,03498461637,SAP0167,RETAIL,North,Shopping Complex,1196,B,Neha Salvi,manehitesh@example.com,RSM3636,Shivani Sridhar,lallabhavna@example.com,ASM2228,SRV660,12KTTPW1507N3Z7,+912863935171,3577508437,,Zayyan Radhakrishnan,,REG4,ST0167,Nirja Raj,LIC34901,sai76@example.org
+168,ST0168,"Randhawa, Prasad and Warrior - Thane","94
+Choudhury Zila
+Siwan 119120",Thane,Maharashtra,386281,01873760171,SAP0168,OUTLET,East,Shopping Complex,1472,A+,Chaitanya Comar,pranav81@example.net,RSM1813,Jackson Sule,oliver43@example.net,ASM7437,SRV685,27PEBLA8005C5Z8,+913203297149,07015647498,,Lila Andra,,REG3,ST0168,Dhruv Dutta,LIC93648,peter68@example.net
+169,ST0169,Patil and Sons - Lucknow,"552, Din Ganj
+Satna-447762",Lucknow,Uttar Pradesh,373843,+912681519661,SAP0169,RETAIL,West,Mall,1763,B,Aadhya Contractor,bdube@example.net,RSM8715,Yasti Sama,choudharyaradhana@example.net,ASM9013,SRV776,18CURMF7078M6Z3,+916856449446,06561617848,,Chasmum Tiwari,,REG8,ST0169,Omaja Jaggi,LIC44524,yagnesh73@example.net
+170,ST0170,Behl-Magar - Ahmedabad,"296, Sankar Chowk
+Sonipat-260792",Ahmedabad,Gujarat,686166,+917992362418,SAP0170,OUTLET,Central,Mall,1119,A+,Raksha Borra,purohitfrederick@example.com,RSM2404,Gagan Manne,ronithchaudhari@example.net,ASM6632,SRV927,27NYSHR1999M9Z7,2559488991,1668808641,,Yadavi Gandhi,Zinal Halder,REG8,ST0170,Aayush Chauhan,LIC85066,okibe@example.org
+171,ST0171,"Kala, Raj and Khatri - Ahmedabad","891, Ratta Road, Amritsar 797404",Ahmedabad,Gujarat,137471,02410980526,SAP0171,FRANCHISE,East,Mall,2117,A+,Lopa Kurian,hpatel@example.com,RSM9226,Samesh Varty,osibal@example.org,ASM9467,SRV919,28VTEDY8357F3Z4,9937628713,4238895176,,Charita Kar,,REG7,ST0171,Oscar Hegde,LIC20271,pantsachi@example.org
+172,ST0172,Chhabra-Vohra - Thane,"80/127, Badami Marg, Coimbatore 570170",Thane,Maharashtra,384177,+919929604249,SAP0172,FLAGSHIP,South,Shopping Complex,1809,A+,Bhavika Atwal,pillaimason@example.net,RSM2425,Advay Pillay,latahamsini@example.com,ASM7358,SRV669,22RKIQO1202Z9Z7,08878061558,6587338112,,Bhavika Mahajan,,REG10,ST0172,Lakshit Thaman,LIC87061,jvohra@example.com
+173,ST0173,"Bala, Balay and Kant - Chennai","15/586, Tella Marg, Imphal-488974",Chennai,Tamil Nadu,279859,07855382359,SAP0173,RETAIL,Central,Mall,1671,C,Jasmit Ramachandran,horaturvi@example.com,RSM6633,Jairaj Hans,nazarethvasatika@example.com,ASM7732,SRV370,22UPSTP1613F5Z7,09229856920,06299329910,,Patrick Tata,Sachi Nanda,REG7,ST0173,Agastya Nagarajan,LIC15083,ishaanchakrabarti@example.com
+174,ST0174,Balakrishnan and Sons - Indore,"130
+Gopal Street
+Nagaon 730431",Indore,Madhya Pradesh,991015,9270136170,SAP0174,OUTLET,South,Mall,2446,B+,Timothy Dasgupta,ctailor@example.net,RSM7102,Hiral Mammen,chaudhryaarini@example.com,ASM1331,SRV445,36ZJJIP2609H3Z5,00824268831,00130263776,,Hemang Bhavsar,Anusha Natt,REG6,ST0174,Ubika Yogi,LIC45313,priyarege@example.com
+175,ST0175,Char Group - Thane,"05/575, Narang Ganj
+Bhimavaram-408581",Thane,Maharashtra,782797,+913915543368,SAP0175,RETAIL,South,Standalone,1365,B,Peter Butala,ekala@example.com,RSM8937,Irya Dua,hamsini90@example.com,ASM9462,SRV988,21BQZFC6097W9Z7,5510505829,08130152444,,Triveni Apte,Mitesh Dara,REG10,ST0175,Anya Cherian,LIC13794,amritaamble@example.com
+176,ST0176,Nadig-Mittal - Hyderabad,"04/25, Mittal, Bettiah-456180",Hyderabad,Telangana,698999,01681992064,SAP0176,FLAGSHIP,South,Mall,1521,A+,Lakshit Singh,ekapadboase@example.net,RSM8478,Jyoti Mannan,ikhare@example.net,ASM1828,SRV469,32GILOQ7503U2Z1,+912830306129,05987339982,,Chandran Saini,Netra Dugar,REG8,ST0176,Tara Kala,LIC33276,falan26@example.net
+177,ST0177,Chokshi-Venkatesh - Visakhapatnam,"80/416
+Kalita Nagar
+Bally 855340",Visakhapatnam,Andhra Pradesh,937028,8253373768,SAP0177,OUTLET,East,Street,1559,A+,Ekantika Kunda,ekantika80@example.com,RSM5670,Sanya Kanda,kumerjai@example.com,ASM1449,SRV495,11FSYGH4688V4Z5,4120935601,5020831948,,Anay Sura,Arunima Rama,REG1,ST0177,Ishaan Wali,LIC72140,harrisonkale@example.net
+178,ST0178,"Issac, Luthra and Nayak - Kolkata","40/025, Chhabra
+Shimla 641137",Kolkata,West Bengal,546483,04488767764,SAP0178,FLAGSHIP,Central,Mall,1416,B+,Rehaan Naidu,csandhu@example.org,RSM6004,Leena Khanna,kbhalla@example.com,ASM5511,SRV533,22LOIGO5950V9Z7,07029329148,+916996156356,,Zehaan Som,,REG6,ST0178,Chandani Venkatesh,LIC83591,reyansh49@example.net
+179,ST0179,Hegde-Cherian - Lucknow,"85/913, Goel Ganj
+Ramgarh-783183",Lucknow,Uttar Pradesh,191644,00578226023,SAP0179,OUTLET,North,Standalone,761,B+,Ucchal Hari,uganesh@example.com,RSM5529,Abha Kothari,sanghagauri@example.org,ASM6327,SRV982,18IUWUJ4086E9Z4,8251177556,7410912504,,Garima Dave,Sachi Lalla,REG10,ST0179,Watika Gopal,LIC62965,tailorowen@example.net
+180,ST0180,Iyengar and Sons - Kanpur,"436
+Bail Chowk
+Nagaon-681272",Kanpur,Uttar Pradesh,531077,0887868798,SAP0180,FLAGSHIP,North,Standalone,1710,B+,Banjeet Bhatti,aryatheodore@example.org,RSM7857,Daksh Dhar,riaratti@example.com,ASM7628,SRV497,33BSWSG6622X4Z9,+914989022516,+913167670068,,Tanvi Kale,Elijah Kanda,REG6,ST0180,Bhavna Ratti,LIC76494,srinivasadvika@example.com
+181,ST0181,Dada Ltd - Lucknow,"181
+Varkey Road, Patna-522857",Lucknow,Uttar Pradesh,723663,+913778747316,SAP0181,FLAGSHIP,Central,Street,1703,A+,Sarthak Patla,isaiah05@example.org,RSM8713,Vidhi Bhalla,xmunshi@example.org,ASM3096,SRV858,18XZRYF6499U2Z4,6802469777,05709278961,,Upkaar Mutti,Nidra Jain,REG5,ST0181,Liam Dey,LIC65112,bpandey@example.com
+182,ST0182,Pau Inc - Kanpur,"95/843
+Chauhan Path, Nandyal-496073",Kanpur,Uttar Pradesh,418800,+916264774744,SAP0182,OUTLET,East,Shopping Complex,2399,A+,Zinal Rao,nihal25@example.org,RSM8709,Zilmil Konda,kibeyamini@example.org,ASM1879,SRV987,30SSTCP4187Q2Z7,06553721671,+911080869926,,Jackson Dani,Dhriti Jani,REG3,ST0182,Warinder Dewan,LIC28004,uanne@example.org
+183,ST0183,"Mani, Contractor and Loyal - Pune","H.No. 47, Sabharwal Chowk, Sangli-Miraj & Kupwad-784145",Pune,Maharashtra,341612,03526819088,SAP0183,OUTLET,West,Standalone,1086,B+,Hemang Bandi,garora@example.net,RSM3954,Chavvi Panchal,santurvi@example.org,ASM2324,SRV599,20UFKUB1077O5Z4,08834862443,4367778498,,Dipta Nair,,REG3,ST0183,Harsh Raj,LIC74169,wchoudhry@example.org
+184,ST0184,"Golla, Vig and Gill - Bangalore","86/53, Basak
+Vijayawada-354308",Bangalore,Karnataka,419664,+918117450807,SAP0184,FLAGSHIP,Central,Standalone,2258,B,Ekansh Kalita,nborde@example.net,RSM8029,Vedika Bhatt,reva06@example.net,ASM8821,SRV492,10BRGXL1230K9Z4,01213768087,0550224751,1997-01-21,Ojas Choudhry,,REG4,ST0184,Aryan Wason,LIC39657,ukrish@example.com
+185,ST0185,Lata Group - Nagpur,"503
+Raghavan Street
+Adoni 844777",Nagpur,Maharashtra,927008,+910071443359,SAP0185,OUTLET,South,Mall,2071,C,Lila Rajan,tanejalakshmi@example.com,RSM6015,Vrinda Shukla,mcherian@example.com,ASM3736,SRV166,36BJJOX9524T9Z6,07015421685,+919749798923,,Sachi Gill,Tejas Talwar,REG3,ST0185,Ayushman Bhalla,LIC54922,balasubramanianvidhi@example.org
+186,ST0186,Ramesh LLC - Visakhapatnam,"H.No. 40, Ramaswamy Nagar, Ambarnath-075159",Visakhapatnam,Andhra Pradesh,779444,+910033624026,SAP0186,OUTLET,South,Street,2152,A+,Balveer Kalla,ckumar@example.org,RSM4742,Gavin Loke,udant86@example.org,ASM4675,SRV844,14GXASQ3768D6Z1,1980679888,7360200461,,Teerth Venkatesh,Niharika Morar,REG9,ST0186,Sanya Sami,LIC91675,simonseth@example.org
+187,ST0187,"Nagarajan, Bhardwaj and Contractor - Delhi","H.No. 83, Dara Zila
+Miryalaguda 699929",Delhi,Delhi,345779,09432347388,SAP0187,RETAIL,North,Mall,697,A+,Aadhya Hegde,mangalayush@example.com,RSM7828,Chakradev Nair,sachipatla@example.net,ASM8279,SRV489,13RIPWE4366W1Z5,+910511011052,+912856632251,,Daksha Swamy,,REG9,ST0187,Zilmil Yohannan,LIC45386,gjohal@example.net
+188,ST0188,Aggarwal-Balay - Kolkata,"38/34
+Chad
+Ghaziabad 387580",Kolkata,West Bengal,622122,03054926215,SAP0188,FRANCHISE,North,Mall,1657,A+,Zarna Sura,kundasiya@example.org,RSM2741,Baghyawati Atwal,bediekaja@example.net,ASM9154,SRV303,29GYIQG6864W7Z5,+917444924462,08885546690,,Omya Mahajan,Zilmil Jain,REG4,ST0188,Harshil Badal,LIC73001,pushtidave@example.com
+189,ST0189,Choudhry LLC - Kanpur,"H.No. 378, Narayan Ganj
+Mathura 488356",Kanpur,Uttar Pradesh,891953,08265103373,SAP0189,FLAGSHIP,North,Mall,864,A+,Chaaya Varma,ishanisidhu@example.org,RSM9095,Kevin Taneja,liam82@example.org,ASM3443,SRV192,34QCXXD5192U4Z8,08967446336,+915664610098,,Megha Hans,,REG8,ST0189,Gautami Walia,LIC16564,samarpatla@example.org
+190,ST0190,Kakar-Vyas - Chennai,"06
+Lanka Street
+Guna 563669",Chennai,Tamil Nadu,960957,02020243547,SAP0190,FLAGSHIP,North,Shopping Complex,1975,B+,Faraj Natt,nakul49@example.org,RSM7979,Ladli Narayanan,latavivaan@example.com,ASM2898,SRV197,37YBAEV3793K6Z8,07752744610,+911595895893,,Bhavani Wagle,,REG2,ST0190,Krisha Karpe,LIC58840,patrickdara@example.net
+191,ST0191,Radhakrishnan-Subramanian - Kanpur,"428
+Chana Chowk, Allahabad-003173",Kanpur,Uttar Pradesh,242236,+913718003485,SAP0191,FLAGSHIP,North,Standalone,2139,B,Ati Toor,balasubramanianchameli@example.net,RSM5453,Henry Chaudhuri,ldara@example.com,ASM7319,SRV806,37PZNUZ3732D3Z1,+910059397547,2702080201,,Jeevika Char,Jhalak Dutta,REG2,ST0191,Rudra Chandra,LIC64529,balihemal@example.com
+192,ST0192,"Bala, Kala and Bansal - Visakhapatnam","222, Rout
+Mirzapur 521264",Visakhapatnam,Andhra Pradesh,416268,+918206093996,SAP0192,FRANCHISE,South,Standalone,1968,C,Vrinda Muni,gbalakrishnan@example.net,RSM1472,Kashish Sarma,chakrabortysudiksha@example.net,ASM3140,SRV594,25DNOBC5286U6Z1,+919524306470,+915971354247,,Andrew Manda,Aarnav Kara,REG10,ST0192,Ojas Boase,LIC84057,goswamiriya@example.org
+193,ST0193,Rama-Merchant - Ahmedabad,"79/984
+Golla, Shivpuri 531871",Ahmedabad,Gujarat,669093,+913574190334,SAP0193,OUTLET,Central,Mall,2272,A,Dakshesh Ganesh,tchander@example.net,RSM8895,Henry Borah,harinakshi59@example.com,ASM6664,SRV779,31UMERT1894A3Z9,+919963711441,4562522124,,Aadi Sharma,Maanav Arora,REG3,ST0193,Rayaan Setty,LIC19812,pranavzacharia@example.com
+194,ST0194,Mandal PLC - Visakhapatnam,"H.No. 115, Bhattacharyya Chowk
+Secunderabad 944758",Visakhapatnam,Andhra Pradesh,012236,+912540277767,SAP0194,OUTLET,South,Shopping Complex,1639,A+,Priya Krish,xnarasimhan@example.org,RSM9305,Reva Parsa,yashodharabalasubramanian@example.com,ASM4648,SRV663,30MMHCO8277Z8Z2,+914384143362,00872993366,,Sanya Toor,Jeevika Joshi,REG2,ST0194,Harish Nadkarni,LIC75191,charvirajagopalan@example.org
+195,ST0195,"Thaman, Gade and Nanda - Mumbai","42/79, Walia Street
+Ratlam 794627",Mumbai,Maharashtra,042153,+915911468812,SAP0195,RETAIL,West,Standalone,646,C,Vedant Bawa,leelakala@example.com,RSM9996,Charan Bains,edixit@example.net,ASM1002,SRV945,12ZTTUJ9328R4Z8,+919571932985,+910776716654,,Upasna Peri,Chatresh Dora,REG1,ST0195,Oni Vaidya,LIC39218,idikamadan@example.net
+196,ST0196,Oak PLC - Bhopal,"019
+Hegde Path, Barasat 078233",Bhopal,Madhya Pradesh,895658,06385356827,SAP0196,OUTLET,Central,Standalone,1988,B,Mekhala Dar,leenapall@example.net,RSM2868,Ria Walla,damini99@example.com,ASM2596,SRV877,31HAKLU5783R9Z6,0299552998,4338428938,,Naveen Dewan,,REG3,ST0196,Vrinda Gala,LIC74542,ksinha@example.com
+197,ST0197,Gala Ltd - Kolkata,"H.No. 992, Palla Chowk
+Patna-888791",Kolkata,West Bengal,723288,04641493751,SAP0197,FRANCHISE,North,Shopping Complex,1302,A,Hema Narang,gourekalinga@example.org,RSM2978,Aarini Sathe,krishonveer@example.org,ASM7437,SRV320,24ZGWKD7790B2Z8,7218494397,00948560931,,Ira Roy,Anmol Kanda,REG9,ST0197,Ucchal Manne,LIC27647,danielijah@example.org
+198,ST0198,"Dora, Manne and Basak - Visakhapatnam","80/47
+Misra Circle, Jabalpur-300801",Visakhapatnam,Andhra Pradesh,609128,03516833203,SAP0198,RETAIL,Central,Mall,2766,B,Jagrati Radhakrishnan,unnatimajumdar@example.net,RSM8912,Rishi Nagi,bhandarithomas@example.org,ASM9328,SRV899,15WSFXE2696M6Z9,1983560127,6745841967,,Aryan Sama,Chaaya Raval,REG10,ST0198,Yuvraj Shere,LIC42537,devanshgaba@example.com
+199,ST0199,Ghosh-Ahluwalia - Jaipur,"H.No. 239
+Gandhi Zila
+Firozabad-478297",Jaipur,Rajasthan,175638,04967405971,SAP0199,FRANCHISE,East,Shopping Complex,2354,A,Simon Brahmbhatt,ttandon@example.org,RSM3263,Farhan Dubey,damyantibhalla@example.net,ASM7762,SRV716,32XQJWR6143W9Z4,2373932846,9894489810,,Forum Palan,Osha Salvi,REG5,ST0199,Krishna Acharya,LIC99995,rattanathan@example.org
+200,ST0200,"Basu, Khare and Sarna - Nagpur","588
+Mukherjee Path
+Narasaraopet-774995",Nagpur,Maharashtra,307860,06989149948,SAP0200,FLAGSHIP,South,Shopping Complex,972,B+,Sneha Ramaswamy,bbahri@example.com,RSM8870,Anamika Dhaliwal,zansidasgupta@example.net,ASM7839,SRV790,33RJNZA9564D1Z7,9760716252,9271693809,,Aarush Upadhyay,Tanay Oza,REG4,ST0200,Zaid Kapadia,LIC44993,jeevika37@example.org
+201,ST0201,Merchant-Dugar - Hyderabad,"H.No. 749, Sampath Nagar
+Kolhapur 088707",Hyderabad,Telangana,798042,+914942156037,SAP0201,OUTLET,East,Street,754,B+,Daniel Nadkarni,rachita53@example.com,RSM4342,Mekhala Aggarwal,harish36@example.net,ASM9866,SRV133,21ODTVX4675X9Z7,5029593518,3097423923,,Gauri Lala,Omaja Badami,REG5,ST0201,William Patel,LIC97096,mgulati@example.net
+202,ST0202,"Som, Mane and Prabhu - Delhi","034, Chauhan Circle
+Faridabad 025615",Delhi,Delhi,434310,05907750838,SAP0202,FRANCHISE,West,Standalone,1780,C,Girish Bains,usethi@example.org,RSM1881,Amruta Prabhu,bailchaman@example.net,ASM1212,SRV861,18GTYOH7025Y9Z4,+918296843917,6088285430,,Jai Jain,Upma Kaur,REG5,ST0202,Pranit Saran,LIC68827,geetika89@example.net
+203,ST0203,"Bhargava, Shenoy and Deo - Hyderabad","74/684
+Mane Nagar
+North Dumdum 810406",Hyderabad,Telangana,478322,5248918794,SAP0203,RETAIL,South,Street,2604,A+,Siya Ganesh,gbala@example.net,RSM7180,Geetika Chana,viraj18@example.org,ASM1665,SRV538,18RIEFS5178A6Z8,08466788425,+916649984407,,Kalpit Raval,,REG3,ST0203,Daksh Kulkarni,LIC52287,urmi28@example.org
+204,ST0204,Pradhan LLC - Delhi,"H.No. 74, Suresh
+Ranchi-732123",Delhi,Delhi,812233,0368308769,SAP0204,OUTLET,West,Shopping Complex,798,B+,Ekaraj Ahuja,ekbal60@example.com,RSM9608,Panini Sankar,dayamaiwason@example.com,ASM4603,SRV288,26CZQFN9897R7Z2,+917813099713,7263862993,,Radhika Deo,Anita Gill,REG6,ST0204,Yagnesh Natt,LIC53393,gdatta@example.com
+205,ST0205,"Morar, Krish and Kannan - Nagpur","H.No. 52
+Dani Marg, Durg-442652",Nagpur,Maharashtra,430801,+912624688767,SAP0205,OUTLET,South,Standalone,2799,A+,Kamya Ranganathan,mcheema@example.com,RSM2879,Faras Kant,samartharya@example.net,ASM6668,SRV556,17UTTHB6258M2Z7,3449205320,04873138707,,Timothy Sandal,Nicholas Mall,REG1,ST0205,Garima Palla,LIC77746,theodore22@example.com
+206,ST0206,"Hegde, Dar and Nagarajan - Nagpur","89/43, Gokhale Ganj, Raipur 100836",Nagpur,Maharashtra,898192,05700684295,SAP0206,FRANCHISE,West,Mall,1714,A,Rachita Mander,zachariahtanvi@example.org,RSM6248,Aarav Sachdeva,chadpanini@example.com,ASM9419,SRV184,13FYRRA2072G4Z7,08598019865,+914418746692,,Raagini Ganguly,,REG7,ST0206,Kabir Dixit,LIC94746,liamnayak@example.com
+207,ST0207,Issac-Mohan - Bangalore,"H.No. 137, Sodhi Path
+Nizamabad-102300",Bangalore,Karnataka,731627,03110484646,SAP0207,FLAGSHIP,North,Standalone,1858,A+,Hitesh Garde,asaini@example.org,RSM2433,Om Sani,ishanigulati@example.com,ASM2200,SRV155,15ZIRCS4729I7Z7,2836006362,7312842474,,Geetika Prashad,Rudra Sami,REG6,ST0207,Xiti Sule,LIC12213,laban33@example.net
+208,ST0208,"Shankar, Nagarajan and Bumb - Indore","H.No. 107, Ganesh Street, Bangalore 691954",Indore,Madhya Pradesh,442968,1528827559,SAP0208,RETAIL,Central,Mall,759,C,Jhalak Jha,surachandani@example.org,RSM1745,Mugdha Chad,krisha52@example.net,ASM2189,SRV466,26DJZVJ2417J8Z7,+917789792291,+914758178138,,Ethan Sampath,Pranav Ramaswamy,REG8,ST0208,Dayamai Deep,LIC30489,ysrivastava@example.com
+209,ST0209,"Wason, Bedi and Bera - Vadodara","05/235, Nath Road, Tezpur-293138",Vadodara,Gujarat,921014,2147257219,SAP0209,FLAGSHIP,South,Standalone,2735,B+,Zilmil Krish,brajagopalan@example.org,RSM3360,Naveen Goel,sudiksha35@example.org,ASM5883,SRV793,35XULAR3316D1Z1,+916846652159,0751339103,,Panini Bandi,Kavya Murthy,REG9,ST0209,Libni Ganguly,LIC21157,falan38@example.com
+210,ST0210,"Joshi, Tailor and Chander - Lucknow","26/16
+Minhas Ganj, Kochi-598610",Lucknow,Uttar Pradesh,006641,08125095772,SAP0210,FLAGSHIP,East,Street,2190,C,Sudiksha Lanka,tripathiaashi@example.net,RSM3333,Urishilla Kala,regedakshesh@example.com,ASM3637,SRV288,17TIGDF1891Y9Z8,09858453507,04312397773,,Madhavi Butala,,REG2,ST0210,Nidra Rana,LIC42858,brijesh38@example.org
+211,ST0211,Nagarajan Group - Chennai,"H.No. 615
+Balan Circle
+Dibrugarh-079286",Chennai,Tamil Nadu,489127,1010289702,SAP0211,FLAGSHIP,Central,Standalone,1855,B+,Pallavi Butala,daksh91@example.com,RSM3100,Urvashi Dass,chaaya55@example.com,ASM4842,SRV202,19TCGKP8383K5Z3,07814274055,0283854644,,Dhriti Chana,Yochana Dugal,REG6,ST0211,Chatura Dara,LIC66139,upasna96@example.org
+212,ST0212,"Sibal, Raval and Dugar - Hyderabad","72/694, Narasimhan Road, Bhiwandi-367462",Hyderabad,Telangana,302535,09189313901,SAP0212,RETAIL,East,Street,1407,B,Aayush Sibal,krishnanvansha@example.com,RSM5533,Bhanumati Venkatesh,tarachandran@example.org,ASM6889,SRV237,31XKPOO6877Y5Z8,+919903821822,+918243512418,,Anay Narayan,,REG10,ST0212,Farhan Ramaswamy,LIC20744,oeshi60@example.net
+213,ST0213,Merchant and Sons - Jaipur,"07, Nanda Circle
+Bhilwara 780340",Jaipur,Rajasthan,040612,+910200814124,SAP0213,FLAGSHIP,Central,Street,1578,A+,Dalbir Vasa,sai78@example.com,RSM2235,Ekantika Srinivasan,ngrover@example.net,ASM1305,SRV969,26UASSM4485B9Z5,2457664647,6989061463,,Logan Nadig,Vedant Bhatnagar,REG8,ST0213,Qushi Sarma,LIC95709,bhanumatipal@example.org
+214,ST0214,"Chaudhry, Gopal and Ganesan - Kolkata","01/15
+Mody Road, Bhusawal-889610",Kolkata,West Bengal,524467,04457199179,SAP0214,OUTLET,West,Street,2915,B+,Karan Pandey,ekantabrahmbhatt@example.com,RSM3193,Patrick Saxena,nathanielbora@example.org,ASM8613,SRV613,26CMLQA4913Z3Z9,+911923161605,+916362861374,,Vasatika Hari,,REG10,ST0214,Bakhshi Brahmbhatt,LIC84162,harrisonreddy@example.org
+215,ST0215,"Kumer, Shere and Maharaj - Kolkata","72, Raman Street
+Bikaner 072339",Kolkata,West Bengal,215808,8472828544,SAP0215,FRANCHISE,East,Mall,1396,B,Manan Mani,janani65@example.org,RSM4796,Jeet Savant,savantshivani@example.org,ASM2029,SRV370,21HBVGQ6918M8Z8,8024175388,01609157925,,Hema Tiwari,,REG6,ST0215,Dalbir Kumer,LIC23529,darika06@example.org
+216,ST0216,Palla Inc - Patna,"18/194
+Radhakrishnan Marg, Saharsa-434470",Patna,Bihar,210356,+912507260572,SAP0216,OUTLET,East,Street,2042,B,Kalpit Karnik,ymukherjee@example.org,RSM6985,Girish Pall,jhatejas@example.net,ASM2275,SRV629,18MHQML6653P8Z1,5466932275,+916098128427,,Saanvi Shah,,REG3,ST0216,Anjali Prabhu,LIC40145,neelimaedwin@example.net
+217,ST0217,Devi Ltd - Bangalore,"469
+Chaudry Street
+Guwahati-783627",Bangalore,Karnataka,010093,06429776322,SAP0217,OUTLET,South,Street,1265,A,Fariq Bhavsar,hariyahvi@example.org,RSM6934,Girindra Chakraborty,enarain@example.net,ASM2938,SRV776,17NZKXD8889V8Z8,03142553356,08596157971,,Pratyush Kaur,,REG7,ST0217,Vincent Chandra,LIC12942,manderubika@example.net
+218,ST0218,Dasgupta LLC - Ahmedabad,"H.No. 183, Gola Chowk, Bangalore-530229",Ahmedabad,Gujarat,916199,+919682340818,SAP0218,RETAIL,South,Street,1051,C,Lopa Venkataraman,walidalbir@example.net,RSM1642,Anika Grewal,ikbalsawhney@example.net,ASM3406,SRV157,15IFQMT1305X5Z2,05903707280,08979741554,,Forum Gade,Brijesh Oommen,REG8,ST0218,Tanay Magar,LIC73133,ekaninagar@example.net
+219,ST0219,Sachar Ltd - Hyderabad,"70, Sabharwal Marg
+Bhilwara-316353",Hyderabad,Telangana,679182,+911414550508,SAP0219,FLAGSHIP,West,Street,2886,A,Chaitaly Bala,vnarayanan@example.net,RSM9369,Vidhi Goswami,girindra17@example.net,ASM5333,SRV271,33VKOTS2127H7Z7,09343476453,6002783451,,Faqid Borde,,REG9,ST0219,Yasti Yohannan,LIC76107,avnivyas@example.net
+220,ST0220,Pau Group - Thane,"H.No. 80
+Jhaveri Nagar
+Satara 693362",Thane,Maharashtra,453668,+918383754790,SAP0220,FLAGSHIP,Central,Mall,1226,B,Pranit Jaggi,dubeavni@example.org,RSM1639,Indira Gara,chandran19@example.net,ASM9706,SRV615,34DCPVE9835A7Z9,+915344483102,5799916829,,Samar Lal,Ryan Sahota,REG9,ST0220,Girik Dugal,LIC66224,lila04@example.net
+221,ST0221,Agrawal PLC - Ahmedabad,"573, Ramanathan Marg, Singrauli 163807",Ahmedabad,Gujarat,586472,+915728629312,SAP0221,FRANCHISE,West,Shopping Complex,2912,C,Indrajit Dyal,kbora@example.com,RSM2600,Aadhya Kar,naveen20@example.org,ASM7971,SRV237,18PYHCJ9908N5Z4,5647325881,+916602913552,1996-03-30,Tarak Shankar,Aditya Badal,REG1,ST0221,Aadi Kale,LIC85757,falguni65@example.net
+222,ST0222,Raghavan PLC - Patna,"25/276
+Chawla Chowk
+Bhiwani 657760",Patna,Bihar,846970,5990399489,SAP0222,RETAIL,Central,Mall,2036,A,Chandran Raja,lakshbahl@example.org,RSM6175,Wriddhish Batra,sehgallakshit@example.com,ASM7698,SRV470,13ENUSI5281R7Z6,+915453241833,00263344427,,Sara Jaggi,Barkha Vora,REG7,ST0222,Atharv Palan,LIC36698,schad@example.com
+223,ST0223,Saran Inc - Thane,"H.No. 27
+Srivastava Road, Noida-945776",Thane,Maharashtra,407429,+916244686401,SAP0223,FRANCHISE,South,Shopping Complex,2790,C,Lila Pant,chakradevverma@example.org,RSM8925,Bimala Mittal,amaira60@example.com,ASM5157,SRV414,28LYWMX3262V2Z4,8033901196,03105625221,,Peter Sha,Nachiket Dayal,REG3,ST0223,Ranveer Sami,LIC23143,ishitakrishnan@example.org
+224,ST0224,Rama Ltd - Pune,"48, Bumb
+Serampore-413699",Pune,Maharashtra,802070,8117378160,SAP0224,FRANCHISE,East,Mall,1158,B,Vasana Sengupta,keyaborde@example.net,RSM1086,Vamakshi Khatri,chavvi52@example.org,ASM2492,SRV943,14PTNCC5310H6Z2,8313274844,8680798916,,Rajeshri Barman,Samar Chaudry,REG7,ST0224,Anirudh Choudhry,LIC90473,gopalkashish@example.net
+225,ST0225,Sahota PLC - Patna,"H.No. 145, Mane Nagar
+Baranagar-569140",Patna,Bihar,101953,+910248451679,SAP0225,OUTLET,Central,Mall,1217,B,Libni Wason,edhitha86@example.net,RSM8192,Mekhala Borde,rachitareddy@example.com,ASM1175,SRV306,37VZQJG1550Z9Z9,2734767978,04517915670,,Madhavi Thaker,Warhi Varkey,REG1,ST0225,Devika Sandal,LIC57151,bandinitesh@example.net
+226,ST0226,"Jaggi, Karnik and Devan - Ahmedabad","95/52, Manda Road, Anantapuram-347765",Ahmedabad,Gujarat,379409,04486836331,SAP0226,RETAIL,South,Mall,1630,B,Ekaraj Koshy,behlbhavini@example.net,RSM6785,Gaurangi Iyengar,widishapatla@example.org,ASM7474,SRV515,28GQAXW2124C9Z5,06356955555,06993081322,,Kritika Balay,Pavani Narayan,REG10,ST0226,Kabir Sagar,LIC55625,ronithrege@example.com
+227,ST0227,"Korpal, Natt and Rama - Nagpur","06
+Chokshi Marg
+Ichalkaranji 857154",Nagpur,Maharashtra,905139,09709782054,SAP0227,OUTLET,South,Street,2362,B,Frado Kadakia,riyachada@example.org,RSM1076,Michael Murty,enaik@example.com,ASM5277,SRV279,23QDRCQ5821K2Z9,00907276439,+912937297244,,Ganga Trivedi,Dominic Boase,REG10,ST0227,Robert Naik,LIC42786,aaurora@example.com
+228,ST0228,Hari LLC - Bhopal,"H.No. 290, Prabhakar Path, Asansol-592654",Bhopal,Madhya Pradesh,773374,01524692304,SAP0228,FRANCHISE,Central,Standalone,1496,B+,Sai Lata,kabir55@example.org,RSM8517,Vedant Lall,aradhanasami@example.com,ASM8548,SRV700,37APDIC7269U4Z4,+914122913221,4727652477,,Anay Pant,Guneet Badal,REG6,ST0228,Gavin Gandhi,LIC77699,anirudh82@example.com
+229,ST0229,Dalal Group - Vadodara,"H.No. 83, Yohannan Zila
+Bihar Sharif 707549",Vadodara,Gujarat,455873,5156440785,SAP0229,RETAIL,East,Street,1676,A+,Saanvi Thakkar,yadavibakshi@example.com,RSM7536,Bhavika Konda,nimrat53@example.com,ASM6603,SRV177,27FPKLG5408F4Z8,06097616097,2115088550,,Udyati Bhatia,,REG4,ST0229,Naveen Dasgupta,LIC44787,borraharsh@example.net
+230,ST0230,Parikh-Kuruvilla - Pune,"H.No. 64, Kamdar Ganj
+Bhagalpur 332987",Pune,Maharashtra,978290,04747798517,SAP0230,FLAGSHIP,South,Street,1958,A,Shaurya Panchal,peter52@example.org,RSM2747,Priya Kurian,darika04@example.org,ASM2964,SRV180,31VPTAY9871B8Z6,00393266361,3679734526,,Qarin Kota,Jeevika Malhotra,REG10,ST0230,Hamsini Mohanty,LIC46009,mramakrishnan@example.com
+231,ST0231,"Sengupta, Basu and Gokhale - Visakhapatnam","27, Dalal Zila
+Ambala 586361",Visakhapatnam,Andhra Pradesh,054023,1622269616,SAP0231,FLAGSHIP,Central,Shopping Complex,2129,A,Daniel Rai,dominicnatarajan@example.org,RSM3101,Chaman Ahluwalia,rsharma@example.com,ASM1887,SRV638,35NPRBQ6689M3Z8,+917180790144,9571015622,,Dayita Kar,Kala Chanda,REG8,ST0231,Aryan Prabhakar,LIC51373,noahperi@example.org
+232,ST0232,"Ghosh, Minhas and Comar - Mumbai","78
+Kala Marg
+Aurangabad-412089",Mumbai,Maharashtra,348223,5619106615,SAP0232,RETAIL,South,Standalone,2879,A+,Gopal Kapur,jgaba@example.com,RSM6331,Tanvi Gera,yagneshloyal@example.org,ASM6924,SRV727,37IFRIH5413P6Z6,5557331935,4347061867,,Chaman Datta,Oeshi Kumar,REG7,ST0232,Netra Pillai,LIC58799,samar70@example.net
+233,ST0233,Patla-Amble - Nagpur,"69/01, Ganguly Marg, Tezpur-238195",Nagpur,Maharashtra,973248,06814831217,SAP0233,FRANCHISE,East,Standalone,1236,C,Nachiket Shetty,dayamai46@example.org,RSM3148,Saanvi Bose,hsaran@example.com,ASM4744,SRV933,13XIZHR8081M4Z3,01902431065,+914544695629,,Aarav Chand,Yuvraj Devi,REG8,ST0233,Rachit Mangal,LIC11276,zbatta@example.org
+234,ST0234,Date LLC - Hyderabad,"H.No. 527
+Dua Ganj, Kota 740851",Hyderabad,Telangana,062686,8856284563,SAP0234,FRANCHISE,West,Street,2617,C,Indali Ramakrishnan,balvanapte@example.org,RSM6172,Dayita Mital,fchoudhary@example.com,ASM8972,SRV407,18RSBMD3676B4Z5,6749882058,+917969640989,,Tanish Kari,Veda Hari,REG8,ST0234,Dipta Ray,LIC53864,chanchalbutala@example.org
+235,ST0235,"Dave, Murty and Bal - Jaipur","H.No. 25, Kara Circle
+Coimbatore 946889",Jaipur,Rajasthan,568169,05706559770,SAP0235,OUTLET,East,Shopping Complex,1909,A+,Nathaniel Nadig,godarayaan@example.net,RSM7746,Chameli Sharma,npandit@example.com,ASM2986,SRV459,37VTGSS9821F5Z6,1654491694,5221053682,,Shaurya Narain,Victor Kashyap,REG8,ST0235,Vedant Jhaveri,LIC20277,mlal@example.org
+236,ST0236,"Om, Krishnamurthy and Kuruvilla - Indore","16
+Manne Marg
+Pallavaram 211973",Indore,Madhya Pradesh,135303,8154727222,SAP0236,OUTLET,West,Street,1186,B+,Mitesh Balakrishnan,kpandit@example.org,RSM7911,Ucchal Dewan,hemamaster@example.net,ASM7631,SRV969,12CFKHK6191U5Z5,3213517127,08137915121,,Sneha Suri,Yadavi Kurian,REG8,ST0236,Aarnav Dhar,LIC57600,saranyahvi@example.org
+237,ST0237,Singhal PLC - Patna,"358, Vohra Chowk
+Bardhaman-164888",Patna,Bihar,953341,+915558640097,SAP0237,FRANCHISE,West,Street,1253,A+,Manan Kohli,arunima74@example.com,RSM3048,Darika Chakraborty,surianya@example.org,ASM4844,SRV777,18XWXCG3734M2Z2,06438984311,01957660701,1981-10-27,Oviya Brar,Chatresh Varty,REG9,ST0237,Ubika Chaudhuri,LIC17055,zarnapalla@example.net
+238,ST0238,Ravel Group - Mumbai,"H.No. 980, Balakrishnan Street, Pune 662816",Mumbai,Maharashtra,241063,+913086893345,SAP0238,FRANCHISE,Central,Mall,925,B+,Shivansh Vaidya,girindra44@example.com,RSM3544,Wridesh Wason,umander@example.net,ASM2381,SRV770,22JHHXJ8260U3Z3,+919005011620,4368761360,,Krisha Banerjee,,REG1,ST0238,Rohan Agate,LIC96972,lekhachaudhuri@example.net
+239,ST0239,Maharaj LLC - Nagpur,"039, Yadav Street
+Saharsa-509456",Nagpur,Maharashtra,535743,+919071184060,SAP0239,OUTLET,West,Standalone,2714,B+,Ekansh Rastogi,hemanginimanne@example.com,RSM9987,Gagan Narang,hkulkarni@example.net,ASM8288,SRV238,32RFSTO8126Q9Z5,05707419007,+916632721255,,Rachita Soni,Panini Saran,REG4,ST0239,Qabil Ben,LIC21738,devpurohit@example.org
+240,ST0240,"Dewan, Goel and Tripathi - Bhopal","34/47
+Misra Zila
+Bhiwandi-812038",Bhopal,Madhya Pradesh,649113,06456821298,SAP0240,OUTLET,East,Standalone,1564,A,Warjas Pal,kamyavarghese@example.com,RSM5973,Bhanumati Swaminathan,lgara@example.net,ASM1172,SRV100,26YELJP9767A8Z8,1670618447,+915105759718,,Tanay Dash,Benjamin Dyal,REG5,ST0240,Pranav Dani,LIC88250,chanakya64@example.com
+241,ST0241,"Hayre, Kapadia and Kunda - Ahmedabad","94
+Sura Nagar, Raipur-931612",Ahmedabad,Gujarat,346353,+915625746091,SAP0241,RETAIL,Central,Shopping Complex,1272,B,Devansh Nayak,andrew53@example.org,RSM8161,Lopa Dhillon,charitasama@example.com,ASM7467,SRV355,15WXUMM4614I2Z7,1435928987,0076672663,,Ucchal Mahal,Chandresh Chanda,REG10,ST0241,Chaaya Sani,LIC99737,onkarsha@example.com
+242,ST0242,"Virk, Hora and Bali - Jaipur","21/322, Anand Circle
+Durgapur 571072",Jaipur,Rajasthan,797436,0202487961,SAP0242,OUTLET,Central,Shopping Complex,2191,A,Atharv Shanker,sparsa@example.com,RSM2121,Falguni Zachariah,umangdeep@example.com,ASM3988,SRV239,19DUOTO5458W8Z4,+913435423571,+914251005844,,Gautam Suri,,REG9,ST0242,Luke Saini,LIC12900,qasim37@example.org
+243,ST0243,Tak Inc - Hyderabad,"474
+Dhillon Circle, Jalandhar 138965",Hyderabad,Telangana,304503,+915588982878,SAP0243,RETAIL,East,Shopping Complex,1012,B,Om Lal,ssaxena@example.net,RSM1134,Yashodhara Halder,anyasaini@example.org,ASM4814,SRV192,14APGKN6104Z8Z6,02568380840,05828534975,,Ayaan Sarraf,Meghana Parekh,REG6,ST0243,Anvi Raja,LIC20515,vbhattacharyya@example.com
+244,ST0244,Murty Inc - Kolkata,"02/38, Natarajan Circle, Tezpur-057111",Kolkata,West Bengal,056107,+913191890562,SAP0244,RETAIL,East,Standalone,792,C,Wakeeta Lata,jprabhakar@example.net,RSM8702,Priya Chowdhury,abhimanyu88@example.net,ASM3975,SRV296,36IMADY5078M8Z4,+919831021176,04762614052,,Samar Ray,,REG8,ST0244,Chanakya Bandi,LIC22315,zashildatta@example.org
+245,ST0245,Sarna-Karpe - Patna,"H.No. 962, Das Nagar
+Bulandshahr 225718",Patna,Bihar,158075,+915401089256,SAP0245,FLAGSHIP,West,Standalone,1778,B+,Gunbir Dyal,chaitanya58@example.org,RSM3598,Oliver Sama,chamangandhi@example.com,ASM1691,SRV862,27QDIPU5895G6Z1,02489507033,1770308894,,Falak Ben,,REG2,ST0245,Xalak Koshy,LIC40928,sethranveer@example.net
+246,ST0246,Dhar-Krishnamurthy - Thane,"41/71
+Khurana Ganj
+Machilipatnam 515531",Thane,Maharashtra,063763,7113661915,SAP0246,OUTLET,North,Street,1630,C,Krisha Chahal,chasmumtoor@example.com,RSM2960,Amaira Keer,joshimeghana@example.org,ASM7484,SRV908,17ABSZW8786W3Z6,05330634377,+910260534006,,Ronith Chokshi,,REG8,ST0246,Yashasvi Ganesh,LIC21980,dubeydalaja@example.org
+247,ST0247,"Savant, Brar and Bhavsar - Kanpur","02/77
+Guha Street, Secunderabad-432642",Kanpur,Uttar Pradesh,806513,+917221618085,SAP0247,RETAIL,North,Shopping Complex,1130,C,Charvi Sarma,edatta@example.net,RSM2759,Pahal Varkey,karaazad@example.com,ASM3061,SRV599,17KRZUY6690Z8Z4,08145377661,0925219044,2009-04-02,Vaishnavi Nanda,Daniel Parmar,REG3,ST0247,Krishna Mittal,LIC42859,ravaljanani@example.org
+248,ST0248,Radhakrishnan and Sons - Delhi,"H.No. 39, Kumer Ganj, Delhi-191517",Delhi,Delhi,101995,09860961353,SAP0248,FRANCHISE,West,Shopping Complex,2723,B,Aarnav Mitter,wbahri@example.com,RSM4109,Gautami Sunder,jdubey@example.com,ASM4057,SRV656,21KXOIT3627C9Z3,03593552671,06607556688,,Radhika Grover,Ekiya Ray,REG9,ST0248,Bhavika Goda,LIC58118,routisha@example.org
+249,ST0249,Mall-Talwar - Bhopal,"609, Raj Road
+Raiganj 663136",Bhopal,Madhya Pradesh,908118,+918793229594,SAP0249,RETAIL,Central,Standalone,1259,A+,Neel Sant,qtandon@example.com,RSM6965,Yutika Kohli,frederickhegde@example.org,ASM4912,SRV428,33CVRMG9586V8Z9,+918374954780,+917713626329,,Sachi Saran,,REG7,ST0249,Abha Pandey,LIC94004,aradhana18@example.net
+250,ST0250,"Borra, Raju and Thakur - Kanpur","06/359, Edwin Nagar, Sikar-791157",Kanpur,Uttar Pradesh,359157,05760250168,SAP0250,RETAIL,North,Mall,679,A,Ekbal Pillai,chatura48@example.org,RSM3926,Gaurika Thakur,deepa88@example.com,ASM1512,SRV306,13PGDBS7366V8Z9,+910362719578,3844378276,,Chameli Desai,Yasti Pandit,REG1,ST0250,Utkarsh Memon,LIC58018,guneet77@example.com
+251,ST0251,Goda-Ramachandran - Ahmedabad,"41/51, Sheth Circle
+Nanded 421818",Ahmedabad,Gujarat,097649,8403792144,SAP0251,RETAIL,North,Street,2512,A+,Logan Chokshi,hemangvarkey@example.net,RSM8668,Gabriel Bava,chandavanya@example.org,ASM1994,SRV469,27XNLZW1955T5Z9,8546223865,+919720328818,2016-06-16,Samaksh Konda,,REG5,ST0251,Kritika Parmer,LIC20215,chandani06@example.org
+252,ST0252,Nadig and Sons - Pune,"152
+Hegde Nagar
+South Dumdum 122232",Pune,Maharashtra,288132,07045482839,SAP0252,RETAIL,North,Street,2677,B,Zansi Patil,ipalla@example.org,RSM4104,Vamakshi Chauhan,oscarchana@example.org,ASM4164,SRV638,31HSUFR7802X2Z6,+917287234722,+914458459015,,Ekanta Brar,Aarnav Gala,REG7,ST0252,Lohit Mittal,LIC23644,turvivasa@example.com
+253,ST0253,Prasad-Shroff - Hyderabad,"57, Saxena Zila, Guna 777303",Hyderabad,Telangana,172789,05318231388,SAP0253,FLAGSHIP,Central,Standalone,2567,B+,Janya Gera,leenabala@example.net,RSM3591,Zaid Sami,gangulybishakha@example.net,ASM9747,SRV714,24LKRKL7755Y7Z6,6634485940,9675534397,,Yuvraj Dara,Hemangini Krish,REG4,ST0253,Kritika Arora,LIC59160,hlad@example.net
+254,ST0254,Wali-Devan - Vadodara,"H.No. 59
+Gade Marg
+Chittoor-222544",Vadodara,Gujarat,072333,+915881919908,SAP0254,OUTLET,East,Standalone,2332,B,Nisha Kothari,tanejajairaj@example.net,RSM1003,Vasana Murthy,robert25@example.net,ASM1567,SRV391,29AQEJA5920H4Z6,8461546208,+913478981034,1988-05-25,Rishi Khatri,Nidra Sami,REG5,ST0254,Oscar Mani,LIC82569,qchatterjee@example.net
+255,ST0255,Buch-Mahal - Patna,"22, Chauhan Ganj, Sambhal-391134",Patna,Bihar,398456,+911200136905,SAP0255,FLAGSHIP,North,Mall,2385,B+,Rachit Vala,chakradhardua@example.net,RSM3557,Darika Malhotra,kaiagrawal@example.net,ASM3267,SRV371,21SHHIZ5920C7Z4,05652506274,+917572777129,,Netra Nagi,Yauvani Khanna,REG8,ST0255,Pushti Hayre,LIC32662,girishdugal@example.net
+256,ST0256,Barad-Dhar - Visakhapatnam,"H.No. 79
+D’Alia Zila, Ahmednagar-910947",Visakhapatnam,Andhra Pradesh,975709,4245125773,SAP0256,RETAIL,Central,Shopping Complex,653,C,Balhaar Dewan,watika02@example.com,RSM7251,Sanaya Kala,amrita08@example.org,ASM2285,SRV898,11YKLNN2974Y4Z1,+917344913167,2851555916,,Nathaniel Bajaj,Anika Mangat,REG1,ST0256,Urishilla Madan,LIC49948,anshoza@example.net
+257,ST0257,Lalla Inc - Patna,"H.No. 776
+Madan Path, Orai-282680",Patna,Bihar,122041,+910447323471,SAP0257,RETAIL,East,Street,1838,C,Harinakshi Ram,henry70@example.org,RSM4617,Mugdha Buch,kashvi52@example.org,ASM3509,SRV151,31XMOYT9269C4Z7,03447968952,5621281822,,Chakradhar Virk,Sachi Ramaswamy,REG3,ST0257,Anmol Mukhopadhyay,LIC54062,mtailor@example.com
+258,ST0258,Maharaj-Varma - Bangalore,"46
+Sodhi, Gorakhpur 221385",Bangalore,Karnataka,685713,2760619763,SAP0258,FRANCHISE,Central,Mall,2745,B,Neha Sahota,suhani93@example.com,RSM5301,Lakshit Kota,kantjanani@example.com,ASM2393,SRV508,26NYWEY3209P9Z4,8944292019,0298899892,,Abha Ahluwalia,Netra Chaudhry,REG4,ST0258,Aahana Choudhury,LIC83553,jaikunda@example.com
+259,ST0259,Bhattacharyya-Hans - Patna,"H.No. 02
+Dutt Street
+Rewa-823535",Patna,Bihar,407313,01108445855,SAP0259,FLAGSHIP,South,Mall,1590,B,Geetika Sibal,solankijairaj@example.com,RSM6298,Anya Kata,daryoshita@example.com,ASM2467,SRV215,31NNLLG6254L1Z5,0257085416,5974857922,,Dhriti Balan,Panini Bahl,REG8,ST0259,Pallavi Subramaniam,LIC91681,waliarudra@example.net
+260,ST0260,Som Group - Kolkata,"H.No. 20, Sastry Nagar
+Agartala-464316",Kolkata,West Bengal,000308,3248224417,SAP0260,FRANCHISE,North,Street,1317,B+,Tanay Guha,zinalgole@example.net,RSM3555,Dev Vig,ebalay@example.org,ASM2405,SRV215,33BHTEJ1225K2Z5,+911726843078,5126663771,,Yadavi Grewal,,REG4,ST0260,Aadi Bala,LIC80517,anmolbala@example.org
+261,ST0261,"Chaudhry, Balasubramanian and Suri - Pune","47/802
+Arya Zila, Chandrapur 687432",Pune,Maharashtra,746590,+916069827555,SAP0261,FLAGSHIP,Central,Shopping Complex,2747,B,Abeer Chana,jagdishnadig@example.com,RSM3315,Yahvi Cheema,naidukiaan@example.net,ASM1301,SRV485,28VQBIF1984J4Z5,4511908558,+911377094837,2000-06-13,Isha Mangal,Manbir Garde,REG1,ST0261,Krishna Upadhyay,LIC18729,raisneha@example.com
+262,ST0262,Srivastava and Sons - Indore,"83/589
+Devi, Jabalpur-656978",Indore,Madhya Pradesh,574027,03385750428,SAP0262,OUTLET,East,Mall,578,B+,Rehaan Mani,hemangmuni@example.net,RSM7332,Ucchal Bandi,megha47@example.org,ASM4787,SRV489,26WDKPT9709C3Z4,+917152597129,06717779445,,Bimala Sawhney,Noah Pillai,REG1,ST0262,Aarini Chahal,LIC15210,csama@example.com
+263,ST0263,Yogi Group - Ahmedabad,"10/407, Deep Ganj, Visakhapatnam-445592",Ahmedabad,Gujarat,810881,05200513038,SAP0263,OUTLET,East,Standalone,2111,A,Eshana Mukhopadhyay,chandranprabhakar@example.net,RSM1301,Vasudha Joshi,chandani85@example.net,ASM6681,SRV800,21LUJHQ5519Z1Z5,+917466164749,1440765770,,Darsh Minhas,Ganga Hari,REG1,ST0263,Qadim Bose,LIC82737,indrajitkulkarni@example.com
+264,ST0264,Sane-Dara - Jaipur,"H.No. 24
+Mallick Nagar
+Thrissur 826521",Jaipur,Rajasthan,378379,+914685532400,SAP0264,FLAGSHIP,South,Shopping Complex,2109,A,Tanay Balasubramanian,inaya18@example.org,RSM2438,Niharika Arora,arajagopalan@example.org,ASM7262,SRV633,31TUVHN4938S3Z7,00240225719,05361313083,,Barkha Memon,Reva Lal,REG6,ST0264,Fariq Narasimhan,LIC68873,qtiwari@example.com
+265,ST0265,Rajagopalan and Sons - Vadodara,"382
+Saini Chowk
+Bellary 904534",Vadodara,Gujarat,091467,4499829854,SAP0265,FLAGSHIP,South,Street,2879,C,Jeevika Badami,norigauri@example.net,RSM4314,Akshay Gala,pbalay@example.com,ASM3262,SRV416,32WQENY3378U3Z6,02037051295,+917173348283,1971-06-18,Gavin Dutta,Yatan Khatri,REG2,ST0265,Oliver Kari,LIC34134,amaira02@example.org
+266,ST0266,"Thaker, Sethi and Sinha - Kanpur","123
+Datta Ganj
+Vijayawada-632739",Kanpur,Uttar Pradesh,864632,+913999653583,SAP0266,FLAGSHIP,North,Shopping Complex,2195,B,Bakhshi Natarajan,urviratta@example.org,RSM5970,Yasti Bhandari,kalpitmadan@example.net,ASM8258,SRV863,36UXIEY4079D3Z3,5063395881,05534987656,2024-05-14,Rajeshri Saha,Harshil Amble,REG10,ST0266,Yashawini Sodhi,LIC44978,reyanshbiswas@example.org
+267,ST0267,Soman-Manda - Ahmedabad,"74/05, Savant
+Tiruvottiyur 913589",Ahmedabad,Gujarat,113577,06406751213,SAP0267,FLAGSHIP,South,Mall,1971,A+,Dipta Hayre,hchhabra@example.com,RSM8808,Osha Mahajan,libni18@example.com,ASM3196,SRV614,37TPWUL4014M8Z8,5028363127,6369080417,,Shivansh Chahal,,REG1,ST0267,Anamika Sheth,LIC63554,raghavangaurangi@example.com
+268,ST0268,"Purohit, Chaudry and Pall - Mumbai","H.No. 41
+Chakrabarti Zila
+Bhusawal 797385",Mumbai,Maharashtra,557267,02899772497,SAP0268,OUTLET,West,Street,1330,A,Laksh Lalla,bakhshipatla@example.com,RSM2083,Nitesh Wable,pranitthaker@example.com,ASM3901,SRV549,37TPWKO5043N7Z1,9001813236,+915048464340,,Yuvraj Saraf,Sarthak Kara,REG6,ST0268,Ojasvi Kannan,LIC61662,bathurmi@example.net
+269,ST0269,"Brahmbhatt, Menon and Chauhan - Vadodara","H.No. 89, Kuruvilla Path, Ratlam 599663",Vadodara,Gujarat,675830,+915774529583,SAP0269,RETAIL,Central,Mall,2349,B,Siddharth Chahal,irya05@example.org,RSM1694,Viraj Narasimhan,ayush21@example.org,ASM5025,SRV631,27MXBRM9456Y1Z4,+915828117614,07428084333,,Dominic Hari,Ladli Bhagat,REG5,ST0269,Widisha Krishna,LIC47475,lchopra@example.com
+270,ST0270,Bahl LLC - Bhopal,"71, Muni
+Hajipur 254035",Bhopal,Madhya Pradesh,864992,3079675233,SAP0270,FLAGSHIP,West,Shopping Complex,723,C,Gautam Luthra,dhriti81@example.com,RSM3330,Chavvi Dugal,shravya20@example.net,ASM8595,SRV949,30OCXQD3945Y9Z3,06714341930,+916548574570,,Anamika Sodhi,Lavanya Sarna,REG1,ST0270,Veer Chokshi,LIC33445,saumyatandon@example.org
+271,ST0271,"Lad, Deol and Dass - Bhopal","96/15
+Yohannan Circle, Sri Ganganagar 087763",Bhopal,Madhya Pradesh,438755,2619695941,SAP0271,FLAGSHIP,West,Mall,1524,B+,Oeshi Som,veertrivedi@example.com,RSM3686,Madhav Chadha,kkuruvilla@example.com,ASM3024,SRV193,13WOULC9582W7Z9,02795654897,+918418872731,,Krishna Hans,,REG9,ST0271,Oeshi Mandal,LIC59886,nmangal@example.org
+272,ST0272,Bhakta Group - Delhi,"05/67, Tata Path
+Surat-255601",Delhi,Delhi,448616,01206343376,SAP0272,FLAGSHIP,East,Street,1164,A,Jagvi Memon,boradominic@example.net,RSM3930,Zilmil Pandit,devidaniel@example.com,ASM1840,SRV529,19JXYOJ3960D3Z4,3201575876,0055604745,1981-05-16,Chandresh Mallick,Sanaya Mani,REG1,ST0272,Balhaar Gokhale,LIC70115,aarnav66@example.net
+273,ST0273,"Balasubramanian, Mangal and Chandra - Visakhapatnam","H.No. 98
+Ray Chowk
+Srinagar-565855",Visakhapatnam,Andhra Pradesh,723801,+919684992617,SAP0273,FRANCHISE,Central,Mall,2990,B,Ayaan Vohra,dborde@example.org,RSM4897,Charan Kota,saumya19@example.com,ASM4553,SRV702,31PONOC1107H9Z5,1337205542,8047802054,,Sudiksha Golla,Aahana Sanghvi,REG4,ST0273,Chatresh D’Alia,LIC16411,rajeshri92@example.net
+274,ST0274,Bhattacharyya LLC - Hyderabad,"397, Sant Path, Gaya-986351",Hyderabad,Telangana,084632,3377243436,SAP0274,FLAGSHIP,North,Shopping Complex,650,A,Qabil Arora,msarma@example.org,RSM1531,Lohit Bhatia,pnaidu@example.com,ASM5889,SRV439,12BDNFF5659T9Z3,02060030813,02450485799,,Vritti Varughese,Vanya Dey,REG6,ST0274,Noah Vaidya,LIC14697,anamika11@example.com
+275,ST0275,Kar-Mannan - Bangalore,"H.No. 67
+Sood Circle, Bhalswa Jahangir Pur-088920",Bangalore,Karnataka,765542,+916844637513,SAP0275,OUTLET,East,Shopping Complex,2052,A+,Saumya Rastogi,vivaansant@example.com,RSM8001,Advik Dora,iratti@example.com,ASM2063,SRV399,25EDWIK9635N9Z4,+910573083848,+913419673891,,Arya Walla,Gaurav Chad,REG2,ST0275,Isaac Dalal,LIC84890,kalitapavani@example.net
+276,ST0276,Sibal Inc - Patna,"H.No. 56, Sawhney Ganj, Khammam 035330",Patna,Bihar,369041,+910246562767,SAP0276,RETAIL,West,Shopping Complex,2249,C,Megha Dani,vinaya25@example.org,RSM6185,Bhanumati Mani,jagratijayaraman@example.net,ASM5254,SRV638,28TLETS9132Q8Z8,02409117083,+916255339302,,Girindra Kadakia,Saksham Dora,REG4,ST0276,Lopa Bassi,LIC48074,zpatla@example.org
+277,ST0277,"Nagar, Chad and Vala - Pune","83, Pradhan Marg, Kolhapur 866797",Pune,Maharashtra,402259,+912490864123,SAP0277,RETAIL,North,Mall,2404,A+,Daniel Badal,satheindrajit@example.com,RSM4396,Andrew Kota,garima48@example.com,ASM7793,SRV523,11KLRZU4478A4Z5,+911937135532,6659688127,,Zayan Srivastava,,REG5,ST0277,Keya Bains,LIC76412,bina77@example.com
+278,ST0278,Chandran LLC - Vadodara,"47
+Shenoy Zila, Jamalpur-002916",Vadodara,Gujarat,661632,5252500509,SAP0278,OUTLET,North,Mall,1865,B+,Tejas Taneja,pateljagdish@example.com,RSM7488,Harita Gupta,idhar@example.net,ASM1477,SRV952,15GKKVP8774Z1Z3,+910700347656,8777275130,,Akshay Bajaj,Rajeshri Boase,REG9,ST0278,Ladli Desai,LIC53923,mradhakrishnan@example.com
+279,ST0279,Chander-Gade - Bhopal,"17/08, Shere Zila, Kottayam 801905",Bhopal,Madhya Pradesh,677801,2707887679,SAP0279,FRANCHISE,North,Shopping Complex,2814,B+,Fiyaz Ratti,yashvitripathi@example.org,RSM9779,Lajita Hayer,opandya@example.com,ASM1306,SRV313,28VKZZL2084E5Z1,9906715952,2384134962,,Lakshmi Upadhyay,Neel Som,REG9,ST0279,Azaan Hayer,LIC31753,deepa19@example.com
+280,ST0280,Walia-Soni - Indore,"239, Singhal Street, Chennai 882935",Indore,Madhya Pradesh,689649,09413583676,SAP0280,FLAGSHIP,Central,Mall,1762,B+,Kiaan Narayanan,ngara@example.com,RSM1518,Caleb Choudhry,warhi57@example.net,ASM5448,SRV523,12PHLOJ4541Q5Z3,07720041521,+917317844924,,Ubika Maharaj,Ubika More,REG4,ST0280,Arunima Shroff,LIC22137,obarad@example.org
+281,ST0281,Bajwa and Sons - Bhopal,"H.No. 418, Badami Road
+Bijapur 789466",Bhopal,Madhya Pradesh,499860,09438651731,SAP0281,RETAIL,West,Street,1279,B+,Gautami Oak,raghavanlila@example.net,RSM8921,Arjun Bhatti,rajeshri90@example.com,ASM9579,SRV417,34KEYDQ3174G1Z8,7692769161,05503772474,,Faraj Rao,Megha Dube,REG2,ST0281,Farhan Koshy,LIC10538,charan35@example.org
+282,ST0282,Devan-Wagle - Lucknow,"223, Wali Zila
+Sultan Pur Majra-076637",Lucknow,Uttar Pradesh,000091,+916674304577,SAP0282,RETAIL,Central,Mall,1865,B,Manya Patil,bhatmeghana@example.org,RSM1755,Sneha Boase,ekbal30@example.net,ASM2689,SRV633,34VXJAS6114U4Z6,03350938946,+912794784092,,Manthan Menon,,REG9,ST0282,Dipta Tripathi,LIC51831,khoslaaadhya@example.com
+283,ST0283,Krish Group - Bhopal,"93, Choudhury Chowk, Korba-185729",Bhopal,Madhya Pradesh,802284,+911330758825,SAP0283,RETAIL,East,Street,1145,B+,Yadavi Sachar,leela76@example.com,RSM2875,Leena Edwin,gautami21@example.org,ASM1249,SRV737,27QDGRL6218I3Z5,+911269152874,6623434774,,Gagan Sharaf,,REG5,ST0283,Champak Palla,LIC90381,atara@example.org
+284,ST0284,Bail and Sons - Kanpur,"H.No. 083
+Sahni Ganj
+Madurai 503369",Kanpur,Uttar Pradesh,890282,08090383391,SAP0284,FRANCHISE,North,Street,618,B,Prisha Atwal,aradhana65@example.net,RSM1826,Ekiya Sarna,raagini09@example.com,ASM2735,SRV492,11CNMFW8304T6Z5,06312480722,08257990916,,Jackson Mani,,REG9,ST0284,Yahvi Johal,LIC20295,mitali19@example.org
+285,ST0285,Mistry and Sons - Bhopal,"039
+Bains Marg
+Khandwa 003213",Bhopal,Madhya Pradesh,478065,08845840326,SAP0285,FLAGSHIP,North,Standalone,898,B,Gaurika Chaudhary,tanvibali@example.org,RSM6085,Azaan Sachdev,triyabalasubramanian@example.net,ASM8625,SRV581,17HETIL7423F6Z6,+916702936798,01137766256,,Garima Tara,,REG8,ST0285,Faqid Oommen,LIC24796,ykant@example.org
+286,ST0286,"Dube, Ratta and Dua - Nagpur","459, Bhalla Marg, Vijayanagaram 948869",Nagpur,Maharashtra,761303,1159635277,SAP0286,FRANCHISE,West,Street,1656,B+,Wridesh Mukhopadhyay,reva12@example.org,RSM3087,Vansha Narayan,vrishtimishra@example.org,ASM9322,SRV205,22WZDKR2162Z5Z9,1080849724,5783290719,,Jackson Mallick,Watika Manne,REG4,ST0286,Barkha Radhakrishnan,LIC91379,wridesh01@example.com
+287,ST0287,Rao-Oza - Ahmedabad,"H.No. 67, Lall Ganj, Dhanbad 292251",Ahmedabad,Gujarat,355634,00158766284,SAP0287,FLAGSHIP,West,Standalone,770,B+,Gabriel Kapadia,gayathrisachdeva@example.com,RSM4411,Megha Choudhary,patlamaanav@example.com,ASM8063,SRV903,23SZKRW4869F2Z8,03791126529,9736942057,,Upasna Thakkar,Vasatika Balasubramanian,REG6,ST0287,Ganga Raju,LIC82756,garatanish@example.com
+288,ST0288,Sur-Hans - Chennai,"74
+Kamdar Path
+Bathinda 914060",Chennai,Tamil Nadu,702742,+918933114485,SAP0288,FRANCHISE,South,Shopping Complex,2162,A+,Baljiwan Bhakta,perilavanya@example.org,RSM2781,Urvi Tank,bosevihaan@example.org,ASM7208,SRV435,25UVBCG3276S1Z3,02359231291,+911779571250,,Sanaya Sethi,Gayathri Shetty,REG5,ST0288,Dalbir Sur,LIC61115,hpau@example.org
+289,ST0289,Sethi-Sahni - Bhopal,"H.No. 717, Mane Chowk
+Ramgarh 806707",Bhopal,Madhya Pradesh,831264,09627459088,SAP0289,FLAGSHIP,South,Shopping Complex,1727,C,Chakradev Agrawal,manyakeer@example.org,RSM5989,Fitan Yogi,lchauhan@example.com,ASM8122,SRV835,21CSATQ7622E5Z1,+910276170705,+911441744794,,Faraj Chad,Amrita Bhatti,REG1,ST0289,Dakshesh Choudhury,LIC10110,owensahota@example.org
+290,ST0290,Sibal Group - Vadodara,"H.No. 95, Reddy Nagar, Tadipatri 418998",Vadodara,Gujarat,961863,04164632348,SAP0290,OUTLET,North,Shopping Complex,627,A,Ojasvi Modi,jananibahri@example.net,RSM8073,Manthan Parmar,rsengupta@example.org,ASM7459,SRV740,20WMMMN9931G3Z8,+911882192460,7215684391,,Leena Banerjee,Fiyaz Upadhyay,REG6,ST0290,Tripti Reddy,LIC64687,chakradevmaster@example.org
+291,ST0291,Lala-Dash - Kolkata,"92
+Devan Road, Durg-350988",Kolkata,West Bengal,468409,07722097660,SAP0291,OUTLET,South,Street,547,A+,Ekbal Karan,kwalla@example.net,RSM1257,Ikbal Kade,niharika44@example.com,ASM3359,SRV838,25VNECE7813O7Z3,9504635662,04320843878,,Indrajit Prasad,Yamini Nagar,REG8,ST0291,Amruta Setty,LIC60425,beratristan@example.net
+292,ST0292,Sem PLC - Nagpur,"32/206, Om Path, Surat-897373",Nagpur,Maharashtra,363434,1514882428,SAP0292,FLAGSHIP,South,Standalone,2976,A+,Hamsini Purohit,smore@example.org,RSM9161,Eiravati Muni,dhaliwalurvi@example.org,ASM4878,SRV829,26INRSL1548B8Z6,08483863737,7349792730,,Ridhi Gokhale,Madhavi Parikh,REG2,ST0292,Garima Karnik,LIC28623,rajeshrimadan@example.net
+293,ST0293,Sachar Inc - Patna,"61/336, Vasa Zila, Raipur 546945",Patna,Bihar,497214,04888243754,SAP0293,OUTLET,West,Mall,2643,C,Ubika Hegde,oeshiupadhyay@example.com,RSM2449,Ekansh Upadhyay,mohammed67@example.org,ASM5017,SRV583,30XVVCV9834Z5Z1,00067668496,4076558270,,Frederick Ravel,Ojasvi Subramanian,REG1,ST0293,Lakshit Rege,LIC71455,divanbrinda@example.com
+294,ST0294,Sahni-Dasgupta - Bhopal,"25/857, Prabhu Circle, Rajahmundry-141879",Bhopal,Madhya Pradesh,151423,6279113874,SAP0294,FRANCHISE,Central,Shopping Complex,2224,B+,Dalaja Bava,patiladya@example.org,RSM5827,Alka Kala,omeshana@example.net,ASM5738,SRV271,11WTXJX5267B8Z3,05455725318,+918945847222,,Triya Patil,Ekapad Sekhon,REG5,ST0294,Barkha Basu,LIC91830,kshanker@example.net
+295,ST0295,"Srinivasan, Gulati and Ganesan - Mumbai","85
+Rau Path, Vijayawada-463586",Mumbai,Maharashtra,531388,+919355774359,SAP0295,OUTLET,West,Mall,1019,C,Mahika Bhatt,vbarman@example.net,RSM2259,Vyanjana Hayer,sarinsachi@example.net,ASM5552,SRV358,14TIIIA2827T3Z3,4249027602,+913728537667,,Onveer Aggarwal,Jackson Devi,REG3,ST0295,Maya Ahuja,LIC44242,nrattan@example.com
+296,ST0296,Dhar and Sons - Ahmedabad,"62/79
+Mandal Chowk
+Adoni-635016",Ahmedabad,Gujarat,725655,04596261310,SAP0296,FRANCHISE,South,Mall,1904,A+,Aarna Nagar,arunima36@example.net,RSM3376,Krish Raman,ymander@example.org,ASM3525,SRV957,25YNYMH8211X3Z4,+911402470154,02033758030,,Tara Gill,Patrick Hegde,REG1,ST0296,Atharv Srinivasan,LIC94182,msridhar@example.net
+297,ST0297,D’Alia LLC - Jaipur,"711, Dhawan Path, Bhalswa Jahangir Pur-397261",Jaipur,Rajasthan,379653,2856558320,SAP0297,RETAIL,North,Street,2400,B,Eta Chacko,yatan17@example.com,RSM8802,Gaurang Swaminathan,seshadriupkaar@example.org,ASM5937,SRV587,33YRHMV7390P5Z3,+916224263823,09794764703,,Udant Sidhu,Harita Shroff,REG5,ST0297,Januja Mody,LIC68827,vasudhachandran@example.com
+298,ST0298,"Barad, Rau and Kaul - Indore","05/07
+Pradhan Marg
+Shimoga-270539",Indore,Madhya Pradesh,232433,7857752488,SAP0298,OUTLET,Central,Mall,898,C,Ansh Sodhi,sai99@example.net,RSM6797,Ikshita Prasad,barkhakamdar@example.org,ASM8074,SRV725,30IKIIZ2610I7Z8,5417711748,02778451881,,Shivani Naik,Naksh Nanda,REG10,ST0298,Fariq Parmer,LIC35549,psom@example.net
+299,ST0299,Sankar LLC - Patna,"H.No. 10
+Ray Circle, Sagar 182453",Patna,Bihar,058969,9672734196,SAP0299,OUTLET,South,Shopping Complex,2743,A+,Gabriel Om,qbhavsar@example.net,RSM1138,Lajita Kuruvilla,kai21@example.org,ASM2113,SRV112,23DQDVO6759H5Z5,5640882052,+911368525292,,Harrison Rattan,,REG2,ST0299,Hema Zachariah,LIC17455,bbajaj@example.net
+300,ST0300,Divan Inc - Pune,"14/94, Golla Nagar, Durgapur-092309",Pune,Maharashtra,151100,04645111167,SAP0300,RETAIL,North,Mall,2976,A,Faris Ghose,indrajit27@example.org,RSM7159,Chaman Merchant,udyatisaran@example.org,ASM4027,SRV213,32FIJOV2240U8Z5,04861548568,1947210802,,Anirudh Salvi,Radha Bhardwaj,REG6,ST0300,Zayan Sampath,LIC43729,swadhwa@example.org
+301,ST0301,Buch LLC - Hyderabad,"H.No. 745, Grewal Zila, Morena 710059",Hyderabad,Telangana,820859,+911424514843,SAP0301,RETAIL,East,Mall,2067,B,Kevin Kibe,nathaniel36@example.net,RSM6450,Dayamai Mall,ekalinga21@example.net,ASM1984,SRV364,36IFOCP4287T7Z3,04757303635,9081863852,,Jyoti Mahajan,,REG9,ST0301,Faraj Sinha,LIC66525,tellajai@example.org
+302,ST0302,Reddy PLC - Pune,"26/78
+Jaggi Ganj, Bikaner-448496",Pune,Maharashtra,732025,02153726467,SAP0302,RETAIL,West,Shopping Complex,923,A+,Laban Aurora,basuindali@example.com,RSM2194,Sanya Chandran,krishnarattan@example.com,ASM2153,SRV685,33IYOAP3438U1Z1,9222262164,+918482018014,,Zayan Ramachandran,,REG6,ST0302,Mohini Bhatti,LIC61292,isaachari@example.net
+303,ST0303,Kala Ltd - Mumbai,"17/26, Bath Circle, Vijayanagaram 402884",Mumbai,Maharashtra,108641,+913358676822,SAP0303,FRANCHISE,West,Standalone,2154,A+,Daniel Subramaniam,kalasamesh@example.org,RSM9849,Wyatt Sheth,qkoshy@example.com,ASM4700,SRV103,22WYPDS9770L6Z5,1421421634,1005499992,,Rushil Tripathi,Hemal Palan,REG2,ST0303,Rayaan Chopra,LIC57887,unarang@example.com
+304,ST0304,"Natarajan, Saran and Kari - Vadodara","H.No. 65
+Modi Zila, Gopalpur 624514",Vadodara,Gujarat,938508,+916724692623,SAP0304,OUTLET,North,Standalone,1687,A,Maanas Sangha,veda28@example.com,RSM3893,Hitesh Choudhury,maxnarayan@example.net,ASM1644,SRV493,31GJWMD6886P2Z8,+915124207883,4051001771,,Osha Sharaf,,REG4,ST0304,Akshay Pal,LIC13324,korpalcharvi@example.com
+305,ST0305,Rama-Nagar - Ahmedabad,"H.No. 718, Mutti Zila, Nashik 272539",Ahmedabad,Gujarat,667772,6767553889,SAP0305,FRANCHISE,West,Mall,2714,B+,Sai Bhatia,riya37@example.net,RSM9186,Ishwar Brar,zaitraraval@example.com,ASM9748,SRV954,35OABKB6533Z1Z7,5788362805,02532611824,,Azaan Uppal,Onveer Walla,REG9,ST0305,Gautam Dar,LIC70079,vsaxena@example.net
+306,ST0306,Dhar-Kibe - Vadodara,"64/85, Atwal Path
+Miryalaguda 497303",Vadodara,Gujarat,049751,05115317971,SAP0306,FLAGSHIP,Central,Street,795,A+,Riya Padmanabhan,yagnesh50@example.org,RSM3319,Isha Bhalla,smerchant@example.net,ASM9010,SRV769,10PTBHW3138A3Z1,9817108460,4035317197,,Darsh Edwin,Madhavi Hegde,REG2,ST0306,Aarav Viswanathan,LIC69793,sarafqasim@example.com
+307,ST0307,Ramakrishnan-Tella - Hyderabad,"35
+Kashyap Chowk
+Deoghar-046809",Hyderabad,Telangana,124924,9453183074,SAP0307,RETAIL,North,Mall,2536,C,Vanya Kapadia,yvohra@example.net,RSM4613,Arjun Kunda,diptakalla@example.net,ASM2033,SRV923,16NKZXV7586K2Z9,5102307776,0882736639,,Pahal Krishnan,Adya Madan,REG4,ST0307,Rishi Oak,LIC15975,indira97@example.org
+308,ST0308,Bakshi Inc - Hyderabad,"15/498, Pall Street, Tirupati 249532",Hyderabad,Telangana,812716,+912910171467,SAP0308,OUTLET,North,Mall,1621,A,Yutika Chandra,arunima51@example.net,RSM7801,Udant Dugar,waida35@example.net,ASM3753,SRV813,21RFOHS1666E2Z7,09150821337,+919729375033,,Benjamin Chaudhry,,REG8,ST0308,Yamini Warrior,LIC20580,oscar75@example.net
+309,ST0309,"Pandey, Devi and Mohan - Mumbai","533
+Doctor
+Mangalore-802646",Mumbai,Maharashtra,889960,07204931044,SAP0309,RETAIL,South,Mall,2931,B+,Yashica Bassi,abhimanyubal@example.com,RSM7819,Wishi Karpe,kdutt@example.net,ASM8798,SRV808,14GEUIQ8379N4Z3,09731372926,02074563491,,Fitan Boase,,REG3,ST0309,Samaksh Pingle,LIC75521,sarrafsanya@example.org
+310,ST0310,"Manne, Sengupta and Sura - Bangalore","11/70, Dubey Nagar, Akola 342302",Bangalore,Karnataka,602852,+913234973141,SAP0310,OUTLET,East,Standalone,518,C,Urmi Bhatti,jaiborde@example.net,RSM4860,David Ranganathan,narasimhanjacob@example.net,ASM4144,SRV220,26DTLYR9315H8Z4,3954307340,6140704364,,Ekansh Balakrishnan,,REG3,ST0310,Finn Pai,LIC99816,krishnaavi@example.net
+311,ST0311,Raja Inc - Visakhapatnam,"H.No. 05
+Rajagopalan Marg, Saharsa 883114",Visakhapatnam,Andhra Pradesh,793306,+914122844895,SAP0311,FRANCHISE,South,Street,676,A+,Laksh Narula,khareoni@example.org,RSM6966,Gopal Bhasin,randhawadominic@example.com,ASM5670,SRV314,23IKTZY8424B2Z1,8482828852,+914135305640,,Qasim Kapadia,,REG1,ST0311,Darpan Mangat,LIC73577,vyanjana24@example.net
+312,ST0312,Manda-Menon - Patna,"52, Mody Zila, Sambalpur-721855",Patna,Bihar,896805,+918134226038,SAP0312,RETAIL,North,Street,2321,C,Garima Jani,lakshmikaran@example.com,RSM6340,Jack Virk,zdas@example.com,ASM7865,SRV303,33VKHYD6343H2Z4,09480041807,02766610311,,Ishita Sampath,Darsh Ramaswamy,REG7,ST0312,Hemangini Mukherjee,LIC38922,abhiram66@example.com
+313,ST0313,Chad-Dube - Bangalore,"48/081
+Kashyap Path, Noida 021241",Bangalore,Karnataka,033590,+913759609349,SAP0313,FRANCHISE,Central,Standalone,722,B,Gayathri Seshadri,uparmar@example.net,RSM3374,Varenya Oza,zaitra46@example.net,ASM4541,SRV724,24FMLEO4181U6Z5,09062788757,+911951948189,,Chatura Chauhan,,REG10,ST0313,Bachittar Naik,LIC17818,bachittarboase@example.org
+314,ST0314,Ranganathan Group - Jaipur,"04/33
+Parmer Circle, Hazaribagh 170498",Jaipur,Rajasthan,473645,4699221437,SAP0314,FLAGSHIP,North,Standalone,2378,B,Priya Wagle,nagarchameli@example.org,RSM3804,Aahana Sahni,daksheshrastogi@example.net,ASM6629,SRV325,19TFZZU3784S9Z4,+911607093220,+917252059047,1979-09-24,Triveni Raj,Ekansh Tak,REG8,ST0314,Farhan Nagi,LIC38369,goyalagastya@example.org
+315,ST0315,Sathe PLC - Visakhapatnam,"H.No. 009
+Bajwa, Machilipatnam 703124",Visakhapatnam,Andhra Pradesh,455183,0912528548,SAP0315,FRANCHISE,East,Mall,2253,A,Lila Peri,indirakade@example.net,RSM5060,David Garg,wardadyal@example.com,ASM6362,SRV544,28HSESA7844B1Z8,+918723394339,+910641759683,,Max Rama,Zilmil Mohanty,REG7,ST0315,Ishanvi Krishnan,LIC79615,koshylipika@example.net
+316,ST0316,Rama-Chahal - Indore,"H.No. 835, Bajwa Chowk, Patiala-612317",Indore,Madhya Pradesh,151474,5063498457,SAP0316,FRANCHISE,North,Standalone,2528,A,Ekiya Krishna,nihal19@example.org,RSM2361,Warinder Comar,hiral22@example.org,ASM1203,SRV809,33NGELJ4916U2Z1,03146150218,7963779576,,Vaishnavi Bose,Oliver Varkey,REG8,ST0316,Nandini Iyer,LIC84760,krishnanchanakya@example.org
+317,ST0317,"Bahl, Chopra and Narayan - Mumbai","H.No. 85
+Atwal Circle
+Kochi 754320",Mumbai,Maharashtra,852197,+915369438134,SAP0317,FRANCHISE,West,Street,2160,A,Bhavani Sani,edhitharandhawa@example.com,RSM7068,Aryan Sura,rborra@example.net,ASM8607,SRV820,30AUCMW6454Q1Z5,+917534433721,+919763023795,,Adweta Golla,,REG10,ST0317,Ganga Khosla,LIC81098,lrattan@example.net
+318,ST0318,Sood-Kapadia - Pune,"633, Pathak, Bhilwara-997330",Pune,Maharashtra,571014,+911248037757,SAP0318,RETAIL,Central,Shopping Complex,724,C,Dominic Tailor,tandonrachita@example.org,RSM6963,Maanav Kari,gsaraf@example.org,ASM1844,SRV213,22LOTBL7003F9Z2,01124520792,04551130737,,Girik Raval,Samuel Krishna,REG3,ST0318,Urishilla Grewal,LIC53899,dayalchandani@example.com
+319,ST0319,Butala PLC - Ahmedabad,"16/30, Tank Ganj
+Bhind 421649",Ahmedabad,Gujarat,682867,+917352157637,SAP0319,RETAIL,West,Street,1423,B+,Matthew Subramaniam,ronithvaidya@example.org,RSM6778,Anusha Kalita,voragagan@example.net,ASM5380,SRV615,31NIBCL6656O8Z9,8069120948,04190245403,,Karan Acharya,,REG9,ST0319,Jeremiah Mukhopadhyay,LIC98907,brijeshdugar@example.org
+320,ST0320,Vohra-Bali - Vadodara,"01
+Kashyap Path
+Proddatur 604858",Vadodara,Gujarat,775194,04470697765,SAP0320,OUTLET,West,Shopping Complex,768,A,Samuel Vasa,tswamy@example.com,RSM8501,Aditya Goda,chamelikala@example.com,ASM2430,SRV182,22FJCDF5521D3Z8,+912629633370,00949599831,,Abha Sampath,,REG1,ST0320,Onveer Dhar,LIC48426,kalitadhruv@example.com
+321,ST0321,"Chawla, Thaker and Bera - Thane","H.No. 485, Saini Chowk
+Gangtok-775218",Thane,Maharashtra,806393,04369427768,SAP0321,FLAGSHIP,West,Shopping Complex,2220,B,Oni Kala,tthaman@example.net,RSM1351,Kalpit Mistry,balhaarkrishna@example.net,ASM5776,SRV293,12AZHQU6503N6Z6,01544822257,+910014937446,,Janani Mandal,Elijah Guha,REG9,ST0321,Wakeeta Bhagat,LIC81888,nikita75@example.com
+322,ST0322,Kuruvilla-Atwal - Bhopal,"558
+Butala Street
+Kozhikode-330576",Bhopal,Madhya Pradesh,971068,+914174250350,SAP0322,FRANCHISE,East,Street,1755,A,Lajita Babu,rbanerjee@example.com,RSM5259,Faras Shah,raggarwal@example.org,ASM4715,SRV595,21JYBEL5659O3Z3,+912452926430,4951492007,,Hiral Samra,,REG3,ST0322,Wakeeta Sangha,LIC97340,ksinghal@example.com
+323,ST0323,"Mishra, Bhatnagar and Mangal - Kolkata","54/604
+Kar Road
+Jalandhar 125732",Kolkata,West Bengal,803389,02298902340,SAP0323,FLAGSHIP,South,Mall,668,B+,Dhriti Tiwari,apteaarini@example.org,RSM3072,Manya Narasimhan,sarinpatrick@example.org,ASM8223,SRV366,21FGRWB6192L3Z6,8494884638,+914457214634,,Pahal Nagar,Anita Kara,REG9,ST0323,Dayita Venkataraman,LIC49526,prakashcharan@example.com
+324,ST0324,Tella-Mani - Chennai,"36/14, Jayaraman
+Srikakulam-774153",Chennai,Tamil Nadu,018927,7157637479,SAP0324,RETAIL,West,Standalone,1095,B,Avni Dora,pbalay@example.net,RSM6246,Raghav Buch,vansha95@example.com,ASM3556,SRV104,33RQKUW5842P5Z3,+918080685597,3519360063,,Chatresh Morar,Caleb Kuruvilla,REG8,ST0324,Rachana Nayak,LIC54392,jainsathvik@example.com
+325,ST0325,Thaman PLC - Chennai,"H.No. 276, Sahni Street, Purnia 424180",Chennai,Tamil Nadu,000141,+914908868471,SAP0325,FRANCHISE,North,Street,2756,A+,Guneet Kothari,tellaelijah@example.net,RSM6047,Waida Chanda,saanvijaggi@example.net,ASM1406,SRV511,29HOLCK1901T4Z9,+914818009539,+910914603160,,Omya Gupta,Daniel Bajaj,REG5,ST0325,Hardik Mangal,LIC35652,dhingraoviya@example.org
+326,ST0326,"Sha, Pau and Chadha - Mumbai","H.No. 550, Seshadri Ganj, Gaya-230358",Mumbai,Maharashtra,395007,07721103414,SAP0326,RETAIL,Central,Standalone,857,C,Yagnesh Batra,keerrayaan@example.net,RSM7462,Girik Sachar,ybalakrishnan@example.net,ASM4185,SRV602,20TTQBV6915M3Z7,4199229656,+919675905232,,Vihaan Biswas,Mohammed Mannan,REG5,ST0326,Aadi Ramakrishnan,LIC55209,yochana91@example.com
+327,ST0327,Kuruvilla-Ganesan - Nagpur,"10/00, Din Street
+Ujjain-536043",Nagpur,Maharashtra,844518,+911526416642,SAP0327,OUTLET,West,Mall,1383,B,Zilmil Sood,nitesh20@example.net,RSM7809,Ekapad Mannan,qkhanna@example.org,ASM8249,SRV395,15ZXNXN3286S2Z3,+919845271433,07047285300,,Lajita Bhatnagar,Gaurang Pandey,REG9,ST0327,Lohit Wali,LIC53963,jnadkarni@example.net
+328,ST0328,Munshi-Mander - Bangalore,"H.No. 97
+Kibe Road, Tiruchirappalli 778265",Bangalore,Karnataka,489963,9216469100,SAP0328,FRANCHISE,North,Mall,2177,B+,Indrajit Mukhopadhyay,nitesh74@example.org,RSM7791,Vasudha Natarajan,basakhemal@example.org,ASM3865,SRV669,24WSYEG4047M5Z9,+912978148295,+918705617651,,Pranav Prakash,Chandani Mallick,REG5,ST0328,Dalbir Sankaran,LIC86704,tanaykale@example.net
+329,ST0329,"Pingle, Vohra and Bhat - Lucknow","71/59, Chakraborty Nagar, Tirupati 387220",Lucknow,Uttar Pradesh,885078,09910002205,SAP0329,FRANCHISE,Central,Standalone,1419,A+,Ekani Dar,nbrar@example.net,RSM1040,Amrita Jha,bhasinfrederick@example.com,ASM3523,SRV368,19UUPDU5713N3Z8,+917258508437,+914374345526,,Sathvik Sachar,Darsh Wali,REG1,ST0329,Lucky Sridhar,LIC25644,kritikamaster@example.net
+330,ST0330,Chandran and Sons - Jaipur,"H.No. 37, Ghose Chowk, Varanasi-786568",Jaipur,Rajasthan,954796,6600733044,SAP0330,FRANCHISE,North,Shopping Complex,2880,B,Warda Jani,tripathiharinakshi@example.com,RSM8144,Netra Kumar,santinaya@example.org,ASM5225,SRV743,31PWDLQ1287I3Z1,1803299888,+912192161984,,Yashvi Bala,Jeevika Master,REG3,ST0330,Harinakshi Edwin,LIC56843,joshua27@example.net
+331,ST0331,Bawa PLC - Hyderabad,"480
+Khanna Chowk, Motihari 821774",Hyderabad,Telangana,501787,00070249791,SAP0331,RETAIL,East,Shopping Complex,2218,B+,Nakul Sunder,nsen@example.org,RSM1798,Vedhika Chanda,otak@example.net,ASM5749,SRV398,26UCQGY4002Y2Z3,6878523577,3968365969,,Faqid Swamy,Tarak Guha,REG5,ST0331,Bhavna Varkey,LIC45580,sastryhemani@example.com
+332,ST0332,"Singh, Mohan and Arora - Nagpur","817
+Bahri Ganj, Madhyamgram-696627",Nagpur,Maharashtra,274291,+916549698447,SAP0332,RETAIL,Central,Shopping Complex,1088,A+,Jairaj Jain,vaggarwal@example.com,RSM3243,Onveer Choudhury,shivani07@example.com,ASM9489,SRV388,21YPNKF2678G3Z9,00461766133,08081717450,,Aarini Shankar,,REG9,ST0332,Rachita Subramanian,LIC90403,ladlikaran@example.net
+333,ST0333,"Iyer, Oommen and Ganguly - Patna","786
+Bhatt Marg
+Secunderabad 368469",Patna,Bihar,477715,+913534661784,SAP0333,RETAIL,West,Standalone,812,A+,Jeet Shanker,devansh40@example.org,RSM3150,Omaja Dada,pooja48@example.com,ASM1284,SRV591,21JWLEO9570Y6Z3,+918075267560,01042486383,,Oeshi Oak,,REG2,ST0333,Dalbir Andra,LIC39144,avibrahmbhatt@example.org
+334,ST0334,Mander PLC - Kolkata,"H.No. 692
+Bora Zila
+Jorhat-064243",Kolkata,West Bengal,259408,07233990246,SAP0334,FLAGSHIP,South,Shopping Complex,1013,A,Nidra Lala,toommen@example.org,RSM3133,Janaki De,pillailekha@example.net,ASM2287,SRV535,32YZDCA8934Y7Z1,7811818699,00370065101,,Eta Chander,,REG9,ST0334,Pooja Golla,LIC87748,gardevrinda@example.net
+335,ST0335,"Patil, Dara and Krishnan - Delhi","28/474
+Shenoy Street, Kolkata 142527",Delhi,Delhi,705882,4567775199,SAP0335,FRANCHISE,North,Shopping Complex,677,A+,Irya Madan,buchyash@example.net,RSM5942,Lekha Chopra,mitalisalvi@example.com,ASM1168,SRV872,13ZDTGS4277F6Z1,0672021975,+915396562061,1974-05-17,Laksh Buch,Jasmit Patil,REG5,ST0335,Ayush Mane,LIC85989,rpradhan@example.com
+336,ST0336,Sanghvi-Iyer - Nagpur,"713
+Batra Circle
+Bhavnagar-902043",Nagpur,Maharashtra,343806,+914304480798,SAP0336,OUTLET,South,Street,2568,C,Vedant Sidhu,fvarma@example.org,RSM2119,Farhan Naik,suriabeer@example.com,ASM2623,SRV939,28YAQGW4138J3Z9,04182732982,7394984507,1987-09-03,Vasatika Nagar,Bakhshi Bhatia,REG4,ST0336,Lakshmi Johal,LIC76085,joshijagvi@example.net
+337,ST0337,Ganguly and Sons - Visakhapatnam,"H.No. 447, Radhakrishnan Zila, Patiala-952219",Visakhapatnam,Andhra Pradesh,496054,3548420619,SAP0337,OUTLET,Central,Street,2300,A+,Amara Kaul,daveyauvani@example.net,RSM3963,Joshua Vasa,ishitakanda@example.net,ASM6813,SRV488,23GQHND6149D8Z2,9045411756,+914416660558,,Mohini Boase,Pooja Bhagat,REG6,ST0337,Ekaraj Mohanty,LIC47784,champak14@example.net
+338,ST0338,Verma Inc - Vadodara,"H.No. 826
+Gara Road
+Rourkela-341170",Vadodara,Gujarat,079344,+916493117719,SAP0338,RETAIL,North,Shopping Complex,2522,A+,Bhavani Thaman,onigam@example.net,RSM7304,Omaja Pillai,sgole@example.org,ASM5646,SRV567,29XJVOH7672J7Z4,07602657711,01368522041,,Hitesh Memon,Sachi Deshmukh,REG8,ST0338,Zaid Contractor,LIC99015,anirudh54@example.net
+339,ST0339,Johal Group - Nagpur,"910, Kurian Marg, Serampore-070563",Nagpur,Maharashtra,730339,1751235916,SAP0339,FLAGSHIP,North,Standalone,930,B,Aditya Yohannan,wahabchandra@example.net,RSM8177,Abhiram Solanki,uchar@example.net,ASM9563,SRV774,31CDEMM2666X3Z2,1483194840,8715033649,,Niharika Rajagopalan,,REG4,ST0339,Caleb Pandey,LIC87982,yochana68@example.com
+340,ST0340,Grover Inc - Indore,"59/86
+Mander Ganj
+Katni-163999",Indore,Madhya Pradesh,879062,+919566644649,SAP0340,RETAIL,South,Standalone,2544,B+,Aryan Luthra,tanveer23@example.com,RSM5472,Advaith Deol,rudragola@example.com,ASM7557,SRV464,25VTMPQ5569E8Z2,07180895486,0760899209,,Oviya Sehgal,Mohammed Radhakrishnan,REG4,ST0340,Jai Dass,LIC92361,jagatkapadia@example.com
+341,ST0341,Acharya Ltd - Kolkata,"H.No. 680, Chanda Path
+Aligarh-096082",Kolkata,West Bengal,444946,02188391966,SAP0341,RETAIL,North,Mall,779,B,Nitara Keer,gangadhawan@example.com,RSM1438,Anika Bassi,muniojasvi@example.com,ASM3934,SRV491,29VKEJT2578Y2Z9,+914327547844,3333712677,,Balendra Tailor,Ishanvi Devi,REG4,ST0341,Azad Gala,LIC48477,teerthkrishna@example.org
+342,ST0342,"Kala, Shan and Divan - Visakhapatnam","29/707
+Srinivas Chowk, Shahjahanpur-621939",Visakhapatnam,Andhra Pradesh,396604,01587578218,SAP0342,FRANCHISE,Central,Shopping Complex,2721,B+,Charvi Warrior,dayita93@example.org,RSM9856,Idika Comar,ekapad57@example.com,ASM9955,SRV118,34BNDMO6153M8Z8,+914870059263,9730004562,1977-08-29,Arjun Ahluwalia,,REG5,ST0342,Bhavini Soni,LIC31514,tgulati@example.org
+343,ST0343,Singh-Rastogi - Visakhapatnam,"373
+Kunda Circle, Bijapur-688293",Visakhapatnam,Andhra Pradesh,258088,04016021329,SAP0343,FRANCHISE,South,Shopping Complex,2093,B,Anvi Dutta,hardikdixit@example.org,RSM2792,Qadim Date,ykaul@example.org,ASM9037,SRV775,27VRSPP3560Q1Z7,+911470873996,+915837376600,,Pahal Nadkarni,Reva Sur,REG7,ST0343,Vritti De,LIC90863,kperi@example.org
+344,ST0344,Rattan-Borde - Nagpur,"H.No. 40
+Wali Marg
+Ghaziabad-729831",Nagpur,Maharashtra,030795,+914960285534,SAP0344,OUTLET,East,Mall,615,C,Harrison Johal,chackoxiti@example.org,RSM1739,Pallavi Parekh,imaran88@example.net,ASM3100,SRV957,21LZXSA6591M2Z7,3896955334,+918374229040,,Abdul Rege,Upadhriti Samra,REG6,ST0344,Sachi Kashyap,LIC17398,brinda58@example.org
+345,ST0345,Sen Inc - Ahmedabad,"H.No. 160, Kalita Chowk, Secunderabad 530505",Ahmedabad,Gujarat,304863,+919497322886,SAP0345,FLAGSHIP,South,Shopping Complex,2927,A+,Garima Mander,sathvikmagar@example.org,RSM2073,Eesha Chauhan,buchlakshit@example.com,ASM5995,SRV217,20FARKB8551V7Z9,00490434940,05489402148,,Liam Devi,,REG8,ST0345,Tara Dalal,LIC87068,gangulyridhi@example.org
+346,ST0346,Chana-Sabharwal - Mumbai,"H.No. 094
+Rana Ganj
+Muzaffarpur-176057",Mumbai,Maharashtra,666609,+917486307960,SAP0346,OUTLET,West,Standalone,1820,C,Urvashi Bora,oscarcherian@example.org,RSM2601,Faraj Bath,vinaya66@example.com,ASM9001,SRV202,32VGKPQ6563F5Z6,05120779862,+914592557680,,Anirudh Nadig,,REG2,ST0346,Yachana Konda,LIC80232,zdoctor@example.org
+347,ST0347,"Sood, Merchant and Manda - Pune","87/960
+Edwin Road
+Sambhal-220495",Pune,Maharashtra,389484,+916261016387,SAP0347,OUTLET,East,Mall,1717,C,Nilima Merchant,vamakshi62@example.com,RSM7586,Hema Maharaj,fpant@example.org,ASM4700,SRV739,33CWSDS6518I2Z9,03984753366,5386758994,,Yochana Sen,,REG2,ST0347,Joshua Rege,LIC95398,pratyush19@example.net
+348,ST0348,"Dhar, Taneja and Parmar - Lucknow","H.No. 350
+Choudhry Path, Nagercoil 403750",Lucknow,Uttar Pradesh,212051,2759040243,SAP0348,OUTLET,West,Shopping Complex,1319,B,Simon Shere,yashasvi13@example.net,RSM7591,Jhalak Bhatia,arjun19@example.com,ASM5116,SRV739,26OVYRF1304U9Z3,5001397884,+916306451592,,Anjali Chadha,,REG8,ST0348,Damyanti Nath,LIC45118,bdubey@example.com
+349,ST0349,Saran LLC - Vadodara,"34, Goswami Path, Hapur 801118",Vadodara,Gujarat,499067,+911067348577,SAP0349,FRANCHISE,Central,Mall,2639,A,Ridhi Srivastava,kharejeevika@example.com,RSM6968,Ubika Padmanabhan,jagratichacko@example.net,ASM8577,SRV251,17EXVYJ8133N6Z2,1765039490,01404915861,,Imaran Jayaraman,Noah Murty,REG5,ST0349,Faqid Mand,LIC47623,jhalakranganathan@example.com
+350,ST0350,Bali LLC - Hyderabad,"H.No. 22, Bali Street, Hubli–Dharwad-653110",Hyderabad,Telangana,381427,04484309054,SAP0350,OUTLET,Central,Street,2162,A,Tanveer Shanker,hkulkarni@example.org,RSM2860,Aadi Tata,khannacharles@example.net,ASM3456,SRV296,10HZJOP8145N1Z4,+912092863368,+911288141668,,Kavya Kothari,,REG5,ST0350,Kevin Saha,LIC46408,nikita09@example.org
+351,ST0351,"Banik, Garg and Krishnan - Vadodara","H.No. 986
+Mittal Circle, Sambhal-143108",Vadodara,Gujarat,730035,+912492544756,SAP0351,FLAGSHIP,North,Standalone,581,A+,Hemang Radhakrishnan,devanutkarsh@example.com,RSM2375,Charita Luthra,ymore@example.org,ASM6143,SRV716,19CNLVV2479M3Z4,+919920290432,+916924534490,,Onkar Kuruvilla,Dalaja Iyer,REG2,ST0351,Jeremiah Vohra,LIC78414,tandonchatresh@example.com
+352,ST0352,Dar-Bansal - Patna,"25
+Arya Road
+Amravati 697491",Patna,Bihar,660984,+916495043359,SAP0352,OUTLET,West,Mall,1475,C,Tripti Deshpande,urvichakrabarti@example.org,RSM3003,Abdul Nagy,naveensavant@example.com,ASM6134,SRV437,36SXMZX4865N4Z3,+916997221245,+910443309193,,Keya Dara,,REG5,ST0352,Fitan Lad,LIC67602,naikgavin@example.org
+353,ST0353,Sastry PLC - Thane,"H.No. 760, Bala Marg, Thiruvananthapuram 447055",Thane,Maharashtra,586141,+915837054932,SAP0353,OUTLET,Central,Mall,2508,C,Bachittar Soman,rohannaidu@example.com,RSM7139,Upasna Sachdev,bsinghal@example.org,ASM2850,SRV424,27NPVHI3374L8Z6,04218112108,+910067996923,,Nimrat Comar,,REG10,ST0353,Yashoda Merchant,LIC14562,gmand@example.com
+354,ST0354,Mammen LLC - Delhi,"76/13
+Dugar Road, Ambala 334739",Delhi,Delhi,409864,08454569195,SAP0354,FLAGSHIP,East,Standalone,1766,B+,Hemani Saha,mohanudarsh@example.org,RSM2999,Wazir Mitter,samarthuppal@example.org,ASM9763,SRV987,17OMAMI5929C4Z5,+911622150280,06868050585,,Chaman Hayre,Dayita Ramachandran,REG8,ST0354,Kala Raghavan,LIC92752,tanejagunbir@example.com
+355,ST0355,Chahal-Sodhi - Kanpur,"95
+Zachariah Circle, Ratlam-738650",Kanpur,Uttar Pradesh,754571,02885034030,SAP0355,FRANCHISE,North,Shopping Complex,828,B,Shivani Chawla,widishavaidya@example.org,RSM8718,Oni Wadhwa,ogaba@example.org,ASM7765,SRV961,20WNDFW5275Q2Z6,1131994091,5261818784,,Pranav Dubey,Mugdha Bhardwaj,REG9,ST0355,Hritik Nayak,LIC52830,garima79@example.org
+356,ST0356,Butala-Dass - Bhopal,"H.No. 21
+Mahajan Path, Nadiad 024738",Bhopal,Madhya Pradesh,329177,7187701596,SAP0356,RETAIL,North,Street,2316,A,Amruta Maharaj,qadimdugar@example.org,RSM1050,Idika Badami,hardik02@example.net,ASM7564,SRV304,30JKSCD3585H9Z3,+919345470940,0800033291,,Gauri Goel,Barkha Dara,REG6,ST0356,Bhavika Sachdev,LIC69177,yamini92@example.org
+357,ST0357,Cherian Inc - Visakhapatnam,"H.No. 83, Khalsa Nagar
+Jamshedpur-171362",Visakhapatnam,Andhra Pradesh,744426,07933391063,SAP0357,FLAGSHIP,East,Street,2929,B+,Netra Sen,unnatibumb@example.org,RSM5616,Ubika Chakrabarti,balcharita@example.com,ASM4254,SRV186,23LFMMS4677A1Z9,1984717661,7716276286,,Wyatt Kalla,Kashish Mohan,REG2,ST0357,Chatresh Balasubramanian,LIC70610,ekiyachaudhry@example.org
+358,ST0358,Basu-Master - Pune,"48/78, Din Marg, Nagercoil-837941",Pune,Maharashtra,149228,07683217619,SAP0358,OUTLET,South,Mall,2142,C,Aahana Gulati,vrishtibalan@example.net,RSM8027,Upma Ganesh,hnarasimhan@example.org,ASM5262,SRV252,12LFSDA9615N8Z8,09799555828,+918731737507,,Samesh More,Oeshi Mitra,REG4,ST0358,Ekavir Gaba,LIC44891,sodhikiaan@example.net
+359,ST0359,"Rajagopalan, Sem and Dyal - Lucknow","709, Talwar Zila, Udaipur-317811",Lucknow,Uttar Pradesh,565172,+912001199907,SAP0359,FRANCHISE,West,Street,2266,A,Saksham Sarna,morejacob@example.org,RSM4531,Matthew Butala,vbarman@example.org,ASM5636,SRV844,31GNFNZ3391A5Z5,+913245125686,+915017064635,,Chasmum Boase,Fariq Sahni,REG4,ST0359,Kalpit Jhaveri,LIC58449,balankrishna@example.org
+360,ST0360,Sarna Inc - Bhopal,"84, Suri Marg, Srinagar-954168",Bhopal,Madhya Pradesh,261560,0741197522,SAP0360,RETAIL,North,Standalone,1045,B+,Dakshesh Chhabra,udyati70@example.com,RSM7513,Aishani Natarajan,haritalata@example.org,ASM4476,SRV830,22WNXTI2196D9Z1,+918272846731,03408021385,1981-12-27,Luke Ben,Zinal Sani,REG8,ST0360,Manya Wali,LIC56439,yashoda61@example.net
+361,ST0361,Parmar Group - Delhi,"749
+Venkatesh Path
+Kozhikode 410594",Delhi,Delhi,191422,05382601967,SAP0361,RETAIL,East,Standalone,1739,B,Maanav Ghose,fmody@example.org,RSM7076,David Ramesh,basakfrado@example.net,ASM3166,SRV672,11SFIFQ9074K8Z3,6244518371,4616516409,1987-08-06,Widisha Chaudhry,Amrita Choudhry,REG7,ST0361,Chakrika Shah,LIC28585,deoharrison@example.com
+362,ST0362,Bakshi-Chaudhari - Jaipur,"90/64
+Nayar Street, Jorhat 161591",Jaipur,Rajasthan,556118,01162413671,SAP0362,RETAIL,East,Mall,1023,B,Raagini Ganesan,birijaya@example.com,RSM5603,Chavvi Wali,chargaurika@example.org,ASM6907,SRV540,19ITYIQ6128N3Z6,7874380505,09317363726,,Umang Bail,Ijaya Mall,REG3,ST0362,Chanakya Soman,LIC82833,sridharvictor@example.net
+363,ST0363,"Kata, Rajagopalan and Mani - Bhopal","H.No. 951
+Mahal Path, Siwan-446055",Bhopal,Madhya Pradesh,849482,06482747326,SAP0363,RETAIL,South,Street,723,A,Jalsa Madan,oliver76@example.com,RSM4000,Daksh Kade,esubramaniam@example.net,ASM1587,SRV581,18FWOND9108B8Z6,+915576943678,01963884218,,Rachita Pathak,Abhiram Bala,REG8,ST0363,Kavya Tata,LIC74616,rameshaashi@example.com
+364,ST0364,Kapadia Group - Chennai,"54/61
+Sanghvi Ganj, Ranchi-837137",Chennai,Tamil Nadu,991425,+913231451752,SAP0364,FLAGSHIP,North,Shopping Complex,883,A,Aishani Lall,bhandariubika@example.com,RSM5654,Yutika Jayaraman,bhargavavedika@example.com,ASM3959,SRV954,15XQISV4479S1Z9,03577040550,06656705397,,Lipika Lal,,REG2,ST0364,Chakrika Balan,LIC42264,yashvi68@example.com
+365,ST0365,Randhawa-Pandey - Visakhapatnam,"571
+Raval Chowk
+Sri Ganganagar-987815",Visakhapatnam,Andhra Pradesh,425519,4125767809,SAP0365,RETAIL,East,Mall,1664,A+,Nathan Sekhon,gautamprabhu@example.com,RSM7458,Girish Dora,lukesaxena@example.net,ASM7120,SRV704,13KEACO8861O5Z1,1640797657,03723294666,,Sai Dugal,,REG10,ST0365,Max Dora,LIC69388,aahanadeo@example.net
+366,ST0366,Munshi-Vyas - Kanpur,"H.No. 078
+Nair Road
+Katni 905343",Kanpur,Uttar Pradesh,314626,+911080395917,SAP0366,FLAGSHIP,South,Mall,1658,B+,Nisha Handa,ranbir71@example.org,RSM1909,Radha Agarwal,mahikabumb@example.net,ASM2158,SRV660,29MCMIF4933Y7Z2,+914434631775,7513951406,1973-06-12,Kamala Kar,,REG7,ST0366,Anthony Ahuja,LIC62742,sathechaitaly@example.net
+367,ST0367,Iyer and Sons - Lucknow,"H.No. 90, Dave Ganj
+Nellore-131729",Lucknow,Uttar Pradesh,290399,03139279089,SAP0367,FLAGSHIP,North,Shopping Complex,2510,B,Indira Deo,amritasibal@example.net,RSM6080,Inaya Shetty,zilmilsinghal@example.com,ASM3151,SRV467,31DLQGP8298M8Z5,4208484925,+914192013572,,Ucchal Pall,Nachiket Tailor,REG7,ST0367,Nidhi Bose,LIC58265,balendrajayaraman@example.com
+368,ST0368,Bobal Ltd - Hyderabad,"94/30
+Bhat Zila, Rampur 890976",Hyderabad,Telangana,745610,+919958176588,SAP0368,FRANCHISE,West,Mall,665,C,Suhani Maharaj,deepa93@example.com,RSM6599,Umang Badal,manyabhatti@example.net,ASM8594,SRV792,17UVWEP9638U9Z2,+914752139173,+911009379685,,Zinal Lall,Ekantika Bhargava,REG8,ST0368,Radhika Mahal,LIC49373,mahika25@example.com
+369,ST0369,Toor-Dar - Kolkata,"64/92, Barad Marg, Silchar 156950",Kolkata,West Bengal,385141,08137616054,SAP0369,FLAGSHIP,East,Street,2642,B,Nirja Krishna,nchaudry@example.org,RSM5841,Mason Kari,isaac83@example.com,ASM1781,SRV664,12BQDQN7766D8Z5,01669165581,6872087223,,Kritika Shanker,Keya Koshy,REG9,ST0369,Arin Khatri,LIC12132,ganeshgeetika@example.org
+370,ST0370,"Tailor, Wagle and Sheth - Chennai","12/265
+Raghavan Marg
+Chinsurah-629082",Chennai,Tamil Nadu,682240,7226134897,SAP0370,FRANCHISE,South,Street,2109,A+,Henry Jhaveri,vkalita@example.net,RSM2364,Prisha Mohanty,uwagle@example.net,ASM7819,SRV997,32JKSXO8371T5Z6,+911279826869,+914778297485,,Ayush Khalsa,Wyatt Mannan,REG3,ST0370,Oni Narain,LIC37665,nigamnimrat@example.net
+371,ST0371,"Bora, Babu and De - Hyderabad","39/644
+Narang
+Alwar 078838",Hyderabad,Telangana,712294,4665738246,SAP0371,RETAIL,Central,Shopping Complex,935,B,Mohammed Sibal,bsood@example.com,RSM9755,Ekantika Malhotra,aradhana64@example.com,ASM1293,SRV105,22DAFUP8539W7Z8,06542324696,08662403526,,Ethan Mistry,Yug Kapadia,REG10,ST0371,Yuvraj Kade,LIC57281,farya@example.net
+372,ST0372,Palla-Deshpande - Indore,"22/900
+Sachdev Ganj, Aizawl-726512",Indore,Madhya Pradesh,241857,7227097337,SAP0372,OUTLET,North,Street,1053,A+,Mugdha Sankaran,kuriangarima@example.net,RSM4126,Parth Sarin,iyengarriya@example.net,ASM2833,SRV935,10WGAGP3378U4Z7,+911868014061,1547850523,,Nitesh Shankar,Matthew Kurian,REG9,ST0372,Omya Andra,LIC35023,khayer@example.com
+373,ST0373,"Hayre, Sheth and Tella - Bangalore","75/154, Chaudhari Nagar
+Hapur 337516",Bangalore,Karnataka,739459,00425932876,SAP0373,OUTLET,West,Street,2441,B,Maya Madan,siyachada@example.org,RSM1357,Faraj Balay,ekani32@example.org,ASM2908,SRV270,14XWOPP1321O4Z4,1559797834,+914744881626,,Farhan Raj,Bhavani Natt,REG7,ST0373,Alka Jaggi,LIC16674,chandranpahal@example.net
+374,ST0374,"Mane, Murty and Balakrishnan - Kanpur","H.No. 369, Singhal Ganj
+Munger 306338",Kanpur,Uttar Pradesh,046592,2305014412,SAP0374,RETAIL,North,Standalone,2202,B,Lekha Krishnan,keerqushi@example.org,RSM5764,Lakshmi Padmanabhan,lavanyabajwa@example.com,ASM1606,SRV599,22PQSXT8993H1Z9,04695479949,5161296684,2001-06-15,Abeer Karpe,Vyanjana Hora,REG9,ST0374,Anita Sahni,LIC18324,jeremiah14@example.net
+375,ST0375,"Borra, Din and Dhillon - Jaipur","864, Pant Road, Hyderabad-546205",Jaipur,Rajasthan,967176,4867419084,SAP0375,FRANCHISE,West,Mall,2526,C,Benjamin Natt,kuruvillaria@example.net,RSM6681,Varenya Pillay,ekanibatra@example.net,ASM8345,SRV814,23AFJXG8688L8Z4,07335132345,+914166898241,,Vedhika Lalla,Zehaan Dhar,REG6,ST0375,Charles Babu,LIC88918,xkakar@example.org
+376,ST0376,Bedi Inc - Bhopal,"12/799
+Panchal Chowk
+Raipur 943555",Bhopal,Madhya Pradesh,036853,+912606365773,SAP0376,FLAGSHIP,East,Standalone,2207,B+,Anthony Mandal,banjeetsrinivas@example.com,RSM8738,Jhalak Dash,lbath@example.org,ASM3654,SRV736,16JWXCV8911E3Z4,+916448932248,5229644096,,Dipta Ray,Rehaan Devan,REG7,ST0376,Zehaan Hans,LIC74713,bmallick@example.org
+377,ST0377,Bumb Ltd - Lucknow,"H.No. 831, Dubey Path, Kirari Suleman Nagar-864605",Lucknow,Uttar Pradesh,851959,2905703165,SAP0377,FLAGSHIP,South,Mall,574,B+,William Salvi,zdave@example.org,RSM5273,Eta Upadhyay,btrivedi@example.com,ASM6849,SRV793,15FQBZC6533N2Z4,3492176991,3540816138,,Harish Lad,,REG5,ST0377,Krish Kala,LIC54606,kashyapindrajit@example.net
+378,ST0378,"Karan, Bajwa and Agate - Nagpur","H.No. 18
+Bhatti Road
+Bidar 422479",Nagpur,Maharashtra,555285,+915168398063,SAP0378,RETAIL,Central,Shopping Complex,1119,C,Udarsh Rau,alkalala@example.net,RSM2706,Jeremiah Lad,meerapandey@example.net,ASM1826,SRV548,35OYDDZ2669R1Z9,06829120486,5637094579,,Sai Seth,Alexander Date,REG4,ST0378,Jacob Chander,LIC57400,wahab27@example.com
+379,ST0379,Mody-Sachar - Hyderabad,"H.No. 74, Ganguly Road, Jabalpur-764884",Hyderabad,Telangana,933707,+910902882485,SAP0379,OUTLET,West,Standalone,906,A,Amara Chaudhari,unni95@example.com,RSM6959,Radha Parmer,sarmakabir@example.org,ASM6482,SRV938,14DGONY1107H8Z6,7400212406,8145606476,,Upkaar Mane,,REG5,ST0379,Veda Singhal,LIC58815,swamygirik@example.com
+380,ST0380,Goel-Madan - Thane,"531, Johal Circle
+Adoni 596124",Thane,Maharashtra,388124,0193388775,SAP0380,OUTLET,South,Street,2669,B,Shivansh Din,bailluke@example.net,RSM4738,Sathvik Nayak,oscartandon@example.net,ASM3260,SRV921,23NNOQZ6927A8Z3,4405214991,06400645199,,Tanish Krishna,Darpan Jhaveri,REG9,ST0380,Daniel Korpal,LIC19120,perimanbir@example.org
+381,ST0381,"Badami, Rajan and Ravi - Bangalore","H.No. 455, Shan Street, Deoghar 655453",Bangalore,Karnataka,315851,01622471876,SAP0381,OUTLET,East,Standalone,1173,B,Dalbir Mammen,jacob03@example.net,RSM2007,Yatin Wason,christopher97@example.com,ASM7443,SRV877,11VUESB9516J7Z7,8186784923,03437869644,,Siddharth Gala,Ishita Wadhwa,REG5,ST0381,Yamini Garg,LIC51116,raghavanyoshita@example.net
+382,ST0382,Chaudhry-Atwal - Nagpur,"34/04, Minhas Marg, Guna-483637",Nagpur,Maharashtra,406801,04236411384,SAP0382,RETAIL,East,Street,2154,B,Meera Tailor,ishitanagy@example.org,RSM4360,Bhavya Ratta,wazirlall@example.com,ASM9919,SRV739,35TUOWL7627Y4Z5,+918753056861,03405095434,2009-08-17,Madhav Kar,Aryan Nagar,REG7,ST0382,Keya Wagle,LIC26515,indirabhatti@example.com
+383,ST0383,Dewan-Issac - Patna,"H.No. 421, Talwar Marg
+Tirupati 337642",Patna,Bihar,432451,+919512091288,SAP0383,OUTLET,South,Mall,2595,C,Gauri Gole,jagdish01@example.net,RSM6115,Darika Dugar,manannagarajan@example.net,ASM9541,SRV448,34UFAAZ9846S5Z4,08178966419,4919502285,,Anamika Koshy,Ryan Dhaliwal,REG7,ST0383,Utkarsh Rattan,LIC76227,nayaklogan@example.net
+384,ST0384,Kibe Inc - Chennai,"H.No. 39, Rattan Chowk, Amaravati-335438",Chennai,Tamil Nadu,387578,+915704305722,SAP0384,RETAIL,East,Shopping Complex,2578,B+,Pallavi Dhillon,battachaaya@example.net,RSM3028,Ojas Kapoor,igandhi@example.com,ASM1782,SRV874,30DOJSX1085O6Z4,3615319676,8868233614,,Vaishnavi Chokshi,Yahvi Oommen,REG10,ST0384,Nihal Puri,LIC92279,dayalmohammed@example.com
+385,ST0385,Munshi Inc - Vadodara,"775
+Taneja Path
+Pondicherry-088978",Vadodara,Gujarat,917630,2937556597,SAP0385,FLAGSHIP,East,Shopping Complex,1665,C,Isaac Dora,qnaik@example.net,RSM3293,Upadhriti Iyengar,lallvidhi@example.net,ASM7187,SRV632,33HDKQS4154Y6Z8,+916596151073,+919011108850,1986-01-16,Vrishti Sura,Siya Venkataraman,REG7,ST0385,Mohammed Mital,LIC20740,murthyirya@example.com
+386,ST0386,"Doshi, Ben and Jain - Bangalore","20, Parikh Road
+Tirupati 839114",Bangalore,Karnataka,901999,+917895063345,SAP0386,RETAIL,West,Street,2450,A,Tanay Guha,balakrishnanikshita@example.org,RSM8309,Jagvi Rama,amritasaxena@example.com,ASM2279,SRV478,31QMSRQ7468I8Z7,+910684659316,+919580759875,,Dalaja Sachar,Ucchal Dua,REG8,ST0386,Vrishti Balay,LIC64646,brinda15@example.net
+387,ST0387,Suresh-Saraf - Hyderabad,"H.No. 144
+Talwar Ganj, Arrah-012506",Hyderabad,Telangana,324946,9132161204,SAP0387,FLAGSHIP,Central,Street,2485,B,Vasana Tank,vigmitali@example.com,RSM3119,Jagdish Walla,shenoyanay@example.org,ASM9408,SRV983,26DWGOP1534X3Z9,6741856735,09474862391,,Ishwar Randhawa,Girish Sahota,REG10,ST0387,Ira Srinivasan,LIC63558,pahal14@example.net
+388,ST0388,"Dugal, Lad and Chaudhary - Chennai","H.No. 86
+Muni
+Chittoor-244922",Chennai,Tamil Nadu,300627,+916711331415,SAP0388,RETAIL,East,Shopping Complex,664,C,Upma Mistry,calebarora@example.net,RSM3511,Chaitaly Dube,trivediqarin@example.net,ASM2929,SRV480,19LJJPA3340E7Z1,9929684650,+916692132326,,Ladli Dhawan,Kiaan Palla,REG5,ST0388,Udant Chawla,LIC38256,ishwar47@example.org
+389,ST0389,"Brar, Sandhu and Madan - Hyderabad","26, Sidhu Nagar
+Panihati-210838",Hyderabad,Telangana,487743,+917011566725,SAP0389,FRANCHISE,North,Mall,2742,B+,Teerth Sen,kevinlala@example.com,RSM2106,Vanya Modi,varenya14@example.net,ASM1732,SRV527,25SJSOK7181P3Z3,09393082505,0468230722,,Abdul Chander,Oni Boase,REG8,ST0389,Samar Nazareth,LIC97453,mammenneelima@example.com
+390,ST0390,Narang Ltd - Bhopal,"731, Narain Path, Durg-131313",Bhopal,Madhya Pradesh,598493,3707313208,SAP0390,FLAGSHIP,East,Mall,2177,B,Hitesh Prakash,charan12@example.com,RSM4814,Triya Bedi,iraval@example.net,ASM7478,SRV447,27BVOXI2450F1Z5,+915028736102,+919402626119,,Bhanumati Venkatesh,,REG9,ST0390,Ikbal Dutt,LIC21161,mitali37@example.com
+391,ST0391,"Chandra, Sathe and Gulati - Pune","51/457, Kulkarni Nagar, Howrah-205349",Pune,Maharashtra,392392,1528610390,SAP0391,RETAIL,Central,Street,2449,C,Fiyaz Kohli,ekbal50@example.org,RSM1305,Adya Sanghvi,jbajaj@example.net,ASM2970,SRV774,27FAIZG5018W8Z2,1546600153,+916330967573,,Madhavi Agrawal,Omya Dutta,REG7,ST0391,Warinder Raghavan,LIC87187,bhatzehaan@example.org
+392,ST0392,Vyas PLC - Delhi,"H.No. 73, Bose Circle
+Maheshtala-958318",Delhi,Delhi,679052,04065115884,SAP0392,FRANCHISE,North,Shopping Complex,2290,A,Faras Sabharwal,avninaik@example.net,RSM7798,Aarnav Mane,mekhalasheth@example.net,ASM1394,SRV980,26KMICD2627R3Z5,05289804821,+919343747066,,Raghav Biswas,,REG2,ST0392,Ayush Parikh,LIC30214,lmukhopadhyay@example.net
+393,ST0393,"Mohan, Deo and Gera - Lucknow","H.No. 51
+Baria Path
+Rourkela-549603",Lucknow,Uttar Pradesh,345346,04746666085,SAP0393,FRANCHISE,South,Mall,1832,A,Triya Badami,dominic59@example.org,RSM1445,Krishna Magar,warda55@example.com,ASM1958,SRV405,22DKENK5225M2Z1,2425856825,+917475382628,,Anusha Baria,Saumya Wadhwa,REG10,ST0393,Advik Dubey,LIC40997,soniqushi@example.org
+394,ST0394,"Nadkarni, Rajagopalan and Dhar - Visakhapatnam","H.No. 047, Shetty Nagar
+Purnia-633954",Visakhapatnam,Andhra Pradesh,082780,+914228061028,SAP0394,FRANCHISE,North,Shopping Complex,748,B+,Nitesh Khare,narasimhanyashoda@example.com,RSM8615,Ryan Toor,sulekaran@example.org,ASM7669,SRV167,25ANUHA5409R2Z4,+918202466747,3209209798,,Harshil Yadav,Om Nanda,REG3,ST0394,Unnati Sachdev,LIC49926,lbarad@example.com
+395,ST0395,Mody-Sule - Thane,"H.No. 15
+Nazareth Nagar, Jaunpur-369055",Thane,Maharashtra,575991,+918531584365,SAP0395,FRANCHISE,North,Street,1083,B+,Amaira Majumdar,dkaran@example.net,RSM9854,Amaira Kulkarni,kalasarthak@example.com,ASM3755,SRV900,17RNROB1016O5Z3,07010565820,+911872710368,2021-03-03,Idika Patla,Warda Kunda,REG8,ST0395,Advay Ranganathan,LIC45822,ethanramachandran@example.com
+396,ST0396,Dey-Lalla - Jaipur,"85, Om Road, Machilipatnam-478571",Jaipur,Rajasthan,106299,3699151401,SAP0396,FRANCHISE,East,Street,2896,C,Omya Cherian,bhatiashivani@example.net,RSM5609,Lipika Jayaraman,omdeol@example.com,ASM1745,SRV265,33RSCJC7476W2Z3,+912145981266,08775386182,,Tarak Dutta,Omkaar Chacko,REG7,ST0396,Urvashi Mangat,LIC37636,ramanraghav@example.net
+397,ST0397,Varghese Inc - Patna,"H.No. 00
+Bahl Path, Fatehpur-704231",Patna,Bihar,432554,+916255404200,SAP0397,OUTLET,East,Shopping Complex,2354,B+,Wridesh Mahal,sachisavant@example.org,RSM5029,Sai Deol,idikaseshadri@example.com,ASM6269,SRV449,16OTKAW3190U1Z8,06787259672,09816059282,1979-11-12,Vinaya Sarna,,REG3,ST0397,Rajata Palan,LIC64154,pillaywilliam@example.com
+398,ST0398,Sama LLC - Vadodara,"H.No. 72, Mannan Nagar
+Bhimavaram 153787",Vadodara,Gujarat,083839,8965782628,SAP0398,FRANCHISE,West,Mall,817,C,Qadim Badami,anita04@example.com,RSM1507,Ekapad Dara,chandreshhayre@example.org,ASM8293,SRV788,13LMTLM3903Y1Z2,+910624715193,04858150970,,Kamala Chopra,Tamanna Raj,REG8,ST0398,Azad Tata,LIC11227,aachal01@example.org
+399,ST0399,Parmer-Merchant - Ahmedabad,"285
+Kala Path
+Kirari Suleman Nagar-808472",Ahmedabad,Gujarat,845497,03044217491,SAP0399,RETAIL,East,Shopping Complex,1284,A+,Chakradhar Rajagopalan,mohammedatwal@example.org,RSM5967,Shravya Nagar,zseshadri@example.com,ASM4623,SRV339,25LBIPW4425A4Z7,+915857523449,7201564117,,Viraj Kala,,REG9,ST0399,Janani Oak,LIC74751,brinda56@example.net
+400,ST0400,Kothari-Talwar - Hyderabad,"70/509
+Chopra Nagar
+Naihati 818602",Hyderabad,Telangana,981722,+910822788228,SAP0400,FLAGSHIP,Central,Street,767,C,Girik Chahal,saisaran@example.org,RSM3101,Laksh Varghese,niteshbhalla@example.com,ASM2065,SRV230,18SHQXZ5494G1Z9,00689664101,1064165670,,Bhavna Mutti,Gabriel Seshadri,REG8,ST0400,Benjamin Sankaran,LIC10256,hitesh51@example.net
+401,ST0401,"Chandran, Chaudhari and Patla - Thane","86/887, Bir Marg
+Meerut 524904",Thane,Maharashtra,232384,02933016582,SAP0401,RETAIL,East,Standalone,2166,B+,Amol Bhatnagar,yadavicomar@example.org,RSM2994,Victor Maharaj,rishi40@example.org,ASM9491,SRV577,25LQYBX4678B5Z7,5905111317,00041474438,,Manya Venkatesh,Hitesh Sandhu,REG7,ST0401,Yauvani Kaul,LIC35507,onkarandra@example.org
+402,ST0402,"Parekh, Singhal and Tata - Kanpur","25/54
+Nagarajan Marg, Nizamabad-035016",Kanpur,Uttar Pradesh,463586,09117044836,SAP0402,RETAIL,Central,Mall,1424,B,Manthan Chakrabarti,munisaumya@example.org,RSM2219,Arjun Saini,bhagatwishi@example.net,ASM5095,SRV301,15KJCUU2584A8Z7,0123147874,+913857911646,,Yatan Verma,Amara Sankar,REG6,ST0402,Siya Karan,LIC42821,deybachittar@example.com
+403,ST0403,Mody-Borde - Ahmedabad,"18/005, Dewan Zila, Saharanpur 575441",Ahmedabad,Gujarat,458158,+910595993213,SAP0403,RETAIL,West,Street,1895,A+,Nidhi Garg,timothy58@example.org,RSM6465,Gaurangi Garde,utkarsh21@example.com,ASM9514,SRV913,17CYTTO2567U8Z2,04637557793,05025123391,1971-07-11,Janani Dey,,REG1,ST0403,Hredhaan Dada,LIC59465,raagini16@example.net
+404,ST0404,Dua-Ratta - Kanpur,"50/72, Raman Zila
+Akola-580771",Kanpur,Uttar Pradesh,622943,3170428027,SAP0404,RETAIL,South,Mall,2310,A+,Imaran Mukherjee,esubramanian@example.net,RSM5939,Vihaan Prabhu,dhillondhruv@example.net,ASM8075,SRV167,13VBRBJ7249M2Z7,+910581568767,+912521752858,,Manthan Madan,Urvashi Sur,REG10,ST0404,Naveen Singh,LIC11390,osethi@example.com
+405,ST0405,Parmar Inc - Bhopal,"50/00
+Sachdev Chowk, Tirupati-148117",Bhopal,Madhya Pradesh,884591,+912711501015,SAP0405,FRANCHISE,West,Standalone,914,B+,Yahvi Mangal,balvan74@example.com,RSM1425,Udarsh Mittal,dayamaisundaram@example.com,ASM8439,SRV629,20SGDDA2106S4Z3,+919321057089,00370024125,,Kalpit Taneja,,REG7,ST0405,Jyoti Manda,LIC73097,azaan54@example.com
+406,ST0406,Suri LLC - Bhopal,"76/22, Subramaniam Street, Pondicherry 836143",Bhopal,Madhya Pradesh,263145,0920439779,SAP0406,FLAGSHIP,South,Street,680,A+,Anthony Ghosh,michael69@example.com,RSM3091,Anika Tella,memonchameli@example.net,ASM6106,SRV698,23QUYLJ9866Y3Z3,03991352027,2058944518,,Shravya Misra,Ekalinga Bhakta,REG5,ST0406,Unni Kala,LIC58343,paninigarde@example.org
+407,ST0407,Edwin Inc - Mumbai,"H.No. 43, Chaudry Road, Bhavnagar 480810",Mumbai,Maharashtra,510065,07168701330,SAP0407,FLAGSHIP,North,Street,2577,C,Yash Kapur,battaladli@example.net,RSM1894,Pranav Lanka,harshkuruvilla@example.net,ASM7915,SRV452,16GUGZC6595G8Z8,9087020287,02098976666,,Naksh Srinivasan,Ekta Rege,REG10,ST0407,Chanakya Balakrishnan,LIC84199,falandixit@example.org
+408,ST0408,Chaudhry LLC - Kanpur,"298, Lanka Nagar, Srikakulam 257021",Kanpur,Uttar Pradesh,241093,+912981451952,SAP0408,OUTLET,West,Shopping Complex,1164,A+,Yagnesh Palla,srinivaszehaan@example.net,RSM8443,Nathaniel Sekhon,bahadurjitbarman@example.net,ASM1691,SRV607,17AUHWH8643T4Z4,06349439520,06599857543,,Vansha Deshpande,Kabir Lalla,REG6,ST0408,Zehaan Parikh,LIC59271,nidhidave@example.com
+409,ST0409,Bath Group - Pune,"H.No. 194, Sarin Road, Tiruchirappalli-628503",Pune,Maharashtra,670686,+916387334115,SAP0409,FRANCHISE,South,Mall,1986,A+,Amaira Oza,balhaar92@example.org,RSM2208,Finn Bhat,fradodua@example.org,ASM6863,SRV130,27DEJOG6896B1Z4,03567328080,6482938392,,Nidhi Sathe,,REG5,ST0409,Zansi Desai,LIC32843,sai64@example.net
+410,ST0410,"Batra, Bir and Bali - Kanpur","H.No. 45, Korpal Zila, Bhimavaram-560098",Kanpur,Uttar Pradesh,846934,4817085780,SAP0410,FLAGSHIP,South,Street,588,A,Kavya Panchal,nrastogi@example.net,RSM5289,Karan Wali,samaroommen@example.net,ASM2657,SRV121,36VEMUZ2818K4Z5,+917585645874,2028062175,,Januja Walla,Edhitha Chand,REG6,ST0410,Lakshmi Aggarwal,LIC96626,bhavaniparsa@example.com
+411,ST0411,"Rattan, Soman and Tella - Hyderabad","99/18
+Dani Nagar, Parbhani-062122",Hyderabad,Telangana,659742,03531462770,SAP0411,FRANCHISE,North,Mall,1091,A,Jatin Dave,handawridesh@example.net,RSM4107,Owen Shere,sibalwakeeta@example.com,ASM4140,SRV645,22WLKTN5006B4Z9,+910494553625,7063407387,,Arin Murthy,,REG4,ST0411,Ucchal Cherian,LIC16980,darshchakrabarti@example.org
+412,ST0412,Wason-Wali - Jaipur,"355, Cherian
+Mysore-388175",Jaipur,Rajasthan,720718,5151113010,SAP0412,FLAGSHIP,Central,Standalone,1357,A+,Luke Palla,sneha60@example.net,RSM8711,Vaishnavi Tailor,rram@example.org,ASM2062,SRV271,26MYUYQ7131P9Z8,9747802218,+915725363302,,Gabriel Mody,Ekbal Sethi,REG9,ST0412,Amara Singh,LIC73346,xalakcontractor@example.org
+413,ST0413,"Rajan, Ravi and Saha - Visakhapatnam","H.No. 35, Nigam
+Pallavaram-418775",Visakhapatnam,Andhra Pradesh,452684,3893591187,SAP0413,FRANCHISE,East,Standalone,2891,A+,Bhavani Bhalla,gbhatt@example.org,RSM4394,Manya Basak,utkarsh74@example.org,ASM4596,SRV307,24HMGJN7178S3Z6,+915207308731,08367307028,,Vasatika Gupta,,REG2,ST0413,Riya Choudhary,LIC48672,tandonhemang@example.com
+414,ST0414,Sarna-Gulati - Bhopal,"H.No. 36, Magar Ganj
+Belgaum 494753",Bhopal,Madhya Pradesh,341337,04110515010,SAP0414,OUTLET,South,Mall,2405,C,Nathan Banik,anika29@example.net,RSM6511,Panini Bhavsar,frederickkakar@example.net,ASM7981,SRV561,24NNLZP6194I7Z1,6429327517,+912223688047,,Onkar Ratta,,REG2,ST0414,Lila Hayer,LIC57067,kbanik@example.org
+415,ST0415,Kunda PLC - Bangalore,"03/146, Goyal Street, Thrissur-189495",Bangalore,Karnataka,600527,07505856449,SAP0415,OUTLET,Central,Mall,1632,A,Laksh Shan,lavanyatata@example.com,RSM2612,Eiravati Venkataraman,mramesh@example.org,ASM2942,SRV173,21BRGKG6394I5Z5,2817690250,+913111896141,,Upkaar Dhingra,Aachal Garg,REG3,ST0415,Upasna Grewal,LIC81188,dayitabali@example.org
+416,ST0416,Iyengar PLC - Jaipur,"820, Warrior
+Solapur-224794",Jaipur,Rajasthan,450605,02143140762,SAP0416,RETAIL,East,Shopping Complex,1919,B,Saksham Bobal,upma62@example.net,RSM7647,Radha Sankar,nandini64@example.org,ASM1194,SRV583,30QYEMH4717X4Z8,06853402648,+918668684238,,Leela Narasimhan,Rohan Gour,REG9,ST0416,Sai Ganesan,LIC71438,darnihal@example.net
+417,ST0417,"Choudhary, Sem and Maharaj - Bhopal","H.No. 486, Oommen Chowk, Guwahati 658824",Bhopal,Madhya Pradesh,371403,9580419921,SAP0417,OUTLET,North,Shopping Complex,1269,B,Naveen Pandit,hkuruvilla@example.net,RSM7843,Charan Golla,matthewkamdar@example.net,ASM4433,SRV549,24RALES3102J1Z8,0727559827,4162967074,,Aishani Gera,Omya Sant,REG6,ST0417,Anita Korpal,LIC39555,indalisharaf@example.net
+418,ST0418,Aurora-Sanghvi - Thane,"07
+Tella Ganj
+Kota-668728",Thane,Maharashtra,069352,09028982460,SAP0418,FRANCHISE,West,Shopping Complex,1835,C,Kashish Balay,irapant@example.net,RSM1380,Praneel Gera,ghoshleena@example.org,ASM1527,SRV242,14KSUZT7404M4Z7,06413780183,9774440041,1978-04-03,Pranit Virk,Ishani Sood,REG8,ST0418,Zashil Dyal,LIC24239,merchanttheodore@example.com
+419,ST0419,Bali and Sons - Kanpur,"381
+Varghese Street, Salem-039312",Kanpur,Uttar Pradesh,784675,00020051822,SAP0419,FRANCHISE,East,Mall,1202,A+,Jagat Mukhopadhyay,suhani98@example.com,RSM3910,Maanav Kaul,xkurian@example.com,ASM1525,SRV946,32TPAFG2138M5Z4,05506497890,0589000594,,Mitesh Ahuja,Indrajit Das,REG2,ST0419,Isaac Parikh,LIC69593,zayyanpai@example.com
+420,ST0420,Chahal Group - Delhi,"82/398, Sant Chowk
+Amritsar 674689",Delhi,Delhi,435781,00413437424,SAP0420,OUTLET,Central,Mall,1203,B+,Chavvi Sheth,zacharya@example.net,RSM7731,Vamakshi Bansal,goelqasim@example.net,ASM7407,SRV260,13ERNPX2126M4Z3,00711161726,09108620373,,Simon Srinivasan,Ekta Nigam,REG8,ST0420,Faqid Agate,LIC30811,agrawalaarush@example.org
+421,ST0421,"Bawa, Mohan and Palan - Lucknow","881
+Kale Zila
+Pallavaram 858114",Lucknow,Uttar Pradesh,706536,+913436268546,SAP0421,FLAGSHIP,Central,Standalone,1628,A,Adya Varma,duttlaksh@example.com,RSM1121,Rachana Choudhry,cdhillon@example.net,ASM3337,SRV556,12MTZHQ6388S8Z8,08802313711,+916569442613,,Upasna Walla,,REG2,ST0421,Kamya Bhakta,LIC47737,aryasankaran@example.net
+422,ST0422,Dash-Goyal - Bhopal,"667
+Mital Ganj, Ambala 513274",Bhopal,Madhya Pradesh,639904,+914992080954,SAP0422,OUTLET,East,Standalone,1217,B,Ekani Madan,isanghvi@example.org,RSM5081,Xiti Gokhale,apandit@example.com,ASM3942,SRV732,33NOMVF2565M1Z4,+914064873440,3134883909,,Pavani Nigam,,REG9,ST0422,Yashvi Nair,LIC48258,hiteshmerchant@example.org
+423,ST0423,"Dixit, Lad and Date - Bangalore","774
+Kumar Marg, Visakhapatnam-778394",Bangalore,Karnataka,761010,6789718937,SAP0423,FLAGSHIP,West,Standalone,2764,A+,Balhaar Pandya,jalsa54@example.net,RSM7041,Nilima Palla,akshay13@example.org,ASM2253,SRV873,13QYYKN8388F5Z4,05945080553,+913845781493,,Maanas Datta,Shivani Baria,REG2,ST0423,Zaid Chaudhuri,LIC93737,shivanshkhosla@example.net
+424,ST0424,"Amble, Narayanan and Bhakta - Bhopal","H.No. 354, Chatterjee Marg, Motihari-130069",Bhopal,Madhya Pradesh,845599,0185476639,SAP0424,FRANCHISE,East,Standalone,1296,B,Gaurang Bora,rbains@example.net,RSM1618,Nathaniel Bose,keergeetika@example.com,ASM1175,SRV356,13WEKVX8606P8Z2,2605906558,+913506472023,2004-02-28,Pratyush Badami,Anay Gala,REG8,ST0424,Anusha Deshmukh,LIC28383,samarth88@example.com
+425,ST0425,Radhakrishnan Inc - Visakhapatnam,"04/79
+Pal Marg, Kottayam-384508",Visakhapatnam,Andhra Pradesh,603553,+912635243026,SAP0425,OUTLET,South,Street,573,C,Veer Mandal,chaudharijacob@example.org,RSM2646,Yashica Pant,mitrayashica@example.org,ASM3903,SRV401,13RXMFC1183V5Z3,+912772403431,+916601627185,,Wridesh Ahuja,,REG1,ST0425,Aarnav Thakkar,LIC98479,jvirk@example.com
+426,ST0426,"Dugar, Kulkarni and Sha - Vadodara","77
+Krishnamurthy Marg
+Thrissur 643055",Vadodara,Gujarat,552062,+911293627250,SAP0426,FLAGSHIP,West,Mall,2641,A+,Victor Khalsa,akshay19@example.org,RSM7399,Gaurang Hayer,neha29@example.net,ASM6051,SRV554,11TABYM4305H6Z4,0192657042,5628148874,,Yachana Guha,,REG1,ST0426,Ishaan Ray,LIC11908,jyotiswaminathan@example.org
+427,ST0427,Patla Group - Kanpur,"833
+Mistry Road
+Shivpuri-390490",Kanpur,Uttar Pradesh,656812,00953732940,SAP0427,FLAGSHIP,North,Street,895,A,Zansi Bumb,anitamangat@example.net,RSM3736,Alka Vyas,advay13@example.org,ASM1721,SRV525,26DKKRU4105T4Z9,02127634383,2891176399,,Yashoda Krish,Timothy Issac,REG4,ST0427,Frado Goswami,LIC38020,varkeyimaran@example.org
+428,ST0428,"Bumb, Palla and Kapur - Chennai","27/82, Krish Road, Karimnagar-075513",Chennai,Tamil Nadu,928036,09518928833,SAP0428,OUTLET,East,Street,561,B,Amruta Pillai,qoommen@example.org,RSM6181,Wishi Subramaniam,pamble@example.com,ASM1196,SRV498,16OHCVI7045B2Z4,05436130771,09715005826,,Advika Chacko,Jack Gopal,REG8,ST0428,Owen Agarwal,LIC23344,warhi01@example.net
+429,ST0429,Dani-Kakar - Vadodara,"147
+Nagy Path
+Kolkata-168468",Vadodara,Gujarat,090008,+916300255276,SAP0429,FLAGSHIP,East,Mall,2957,B+,Jasmit Randhawa,lallaansh@example.com,RSM7366,Ekapad Krish,owen43@example.org,ASM3177,SRV440,15UYWKV8899C6Z1,+914376156700,+910238882555,,Avni Nazareth,Falak Tella,REG7,ST0429,Janani Sura,LIC76981,ydubey@example.net
+430,ST0430,"Chaudhuri, Dara and Deo - Ahmedabad","86, Kant Nagar, Raichur-757881",Ahmedabad,Gujarat,521568,+915875700804,SAP0430,RETAIL,South,Mall,1008,B+,Ati Iyengar,aarinibedi@example.com,RSM4873,Veer Natt,bramaswamy@example.org,ASM8020,SRV875,17TCBEL9171J4Z3,07911259686,8829014846,,Vrinda Narayanan,Indali Vasa,REG4,ST0430,Abhimanyu Aurora,LIC88390,gulatitanvi@example.net
+431,ST0431,Kibe-Sridhar - Bhopal,"26/477
+Shenoy Circle, Raebareli-249163",Bhopal,Madhya Pradesh,920508,8739060816,SAP0431,OUTLET,South,Shopping Complex,1800,A+,Eiravati Basu,ombrinda@example.com,RSM9533,Manya Lata,zachariawarinder@example.net,ASM7797,SRV763,36JYAHX6427K4Z4,0306960540,07641774908,,Imaran Barad,Elijah Gole,REG4,ST0431,Teerth Om,LIC39156,pranavnadkarni@example.net
+432,ST0432,Palla and Sons - Indore,"659, Wagle Street, Patna 242471",Indore,Madhya Pradesh,941586,+918678132266,SAP0432,OUTLET,South,Standalone,524,A+,Alexander Bandi,reva13@example.com,RSM9055,Siya Dhillon,wagleoscar@example.com,ASM2146,SRV297,11UEGEC3845S9Z4,+915098753785,+910485727445,,Aadhya Kale,,REG8,ST0432,Rishi Shan,LIC50824,fandra@example.net
+433,ST0433,Pant-Prabhu - Hyderabad,"73/45
+Goel Marg
+Farrukhabad 626966",Hyderabad,Telangana,654081,+911161928412,SAP0433,FLAGSHIP,South,Standalone,1222,C,Sanya Wali,yugbail@example.org,RSM5079,Upasna Sabharwal,doshijagat@example.com,ASM5966,SRV392,28OUGIZ8883C6Z7,+912264260467,+918669933340,,Nihal Sengupta,Hemani Rege,REG7,ST0433,Simon Apte,LIC76229,kabir59@example.com
+434,ST0434,"Shere, Das and Sharaf - Thane","H.No. 81
+Hans Path, Nizamabad 555475",Thane,Maharashtra,914331,+919573167344,SAP0434,FLAGSHIP,West,Mall,2062,B,Zaid Khalsa,janani83@example.com,RSM2363,Jason Bhavsar,ubikamohanty@example.com,ASM5918,SRV709,27ERXFI7233O5Z8,3841593131,3860261106,,Indrajit Sur,Ranbir Tripathi,REG8,ST0434,Naveen Merchant,LIC19429,lmodi@example.net
+435,ST0435,"Dora, Rout and Mitra - Kanpur","10
+Upadhyay Path
+Berhampur-095383",Kanpur,Uttar Pradesh,710247,07523587174,SAP0435,FLAGSHIP,West,Street,1133,A,Pranit Dugar,hayrebarkha@example.org,RSM1068,Saksham Mammen,pchahal@example.net,ASM1210,SRV982,26XXLPM7812M6Z7,6149303830,+911432058293,,Nakul Dara,Patrick Dewan,REG10,ST0435,Aditya Puri,LIC19336,anamika39@example.net
+436,ST0436,Bhatia-Date - Thane,"19/245
+Ramakrishnan
+Mira-Bhayandar-922503",Thane,Maharashtra,620607,2124533518,SAP0436,RETAIL,North,Standalone,2816,A,Urvi Grover,amrita97@example.net,RSM4182,Aradhana Wadhwa,yug05@example.net,ASM8148,SRV361,34YXLQW9005U6Z1,05958151915,07185423315,,Omisha Bhat,Eta Palan,REG4,ST0436,Aarnav Walla,LIC41765,nayaranika@example.net
+437,ST0437,Ram and Sons - Visakhapatnam,"093
+Bhatnagar Chowk, Amroha-342647",Visakhapatnam,Andhra Pradesh,446147,+911185581117,SAP0437,RETAIL,East,Mall,1105,B+,Daksha Mandal,bhanumatiraman@example.com,RSM8462,Abha Sahota,zpatel@example.com,ASM3414,SRV360,17TSVFA2912Y2Z7,00896698705,+918966670772,,Hemani Kapoor,Kavya Thakur,REG2,ST0437,Gautami Chokshi,LIC77965,dsachdeva@example.com
+438,ST0438,Sahni-Date - Pune,"H.No. 299, Desai Path, Firozabad 429065",Pune,Maharashtra,066665,+919583853741,SAP0438,FRANCHISE,South,Standalone,1535,B+,Yash Sibal,ekbalmohanty@example.org,RSM9202,Kala Sangha,odikawable@example.com,ASM9735,SRV774,22SJXNY2456D6Z3,7748920454,+913540575818,,Abdul Taneja,,REG7,ST0438,Luke Mandal,LIC50383,wriddhishmallick@example.net
+439,ST0439,"Bose, Kari and Ratti - Mumbai","H.No. 734, Sekhon Ganj
+Kakinada-996310",Mumbai,Maharashtra,194150,00151494275,SAP0439,FLAGSHIP,West,Mall,896,A+,Ishanvi Atwal,nachiketviswanathan@example.com,RSM7845,Urmi Chaudry,ysama@example.com,ASM9600,SRV526,30JXNFF7138F3Z4,0886180187,1674591399,,Hamsini Sheth,Nimrat Dugar,REG2,ST0439,Yauvani Krishnamurthy,LIC69069,oviya48@example.org
+440,ST0440,Sem-Saha - Pune,"46/369, Lata Marg
+Mathura-183862",Pune,Maharashtra,222552,+919805290385,SAP0440,FLAGSHIP,South,Mall,1248,A,Bhavani Patla,pallavidugar@example.net,RSM5249,Banjeet Samra,chadaishaan@example.net,ASM7697,SRV551,30TDUFC5802C7Z2,8120555666,01058421359,,Rudra Tank,Frado Ramachandran,REG10,ST0440,Omisha Bedi,LIC40773,karankapadia@example.com
+441,ST0441,"Varkey, Dalal and Venkatesh - Visakhapatnam","94/878, Konda, Bhind-289947",Visakhapatnam,Andhra Pradesh,494868,07485391744,SAP0441,FRANCHISE,North,Mall,750,B+,Matthew Shankar,farasbrar@example.net,RSM1118,Dhruv Reddy,apteindali@example.org,ASM1685,SRV199,16QZAMT9520Y5Z8,+910274377343,00490426501,,Girish Majumdar,Luke Gara,REG7,ST0441,Hema Ramaswamy,LIC54112,ekapad86@example.net
+442,ST0442,"Hora, Grewal and Bobal - Nagpur","H.No. 512, Bobal Path, Bulandshahr 782932",Nagpur,Maharashtra,641061,+915978139548,SAP0442,OUTLET,East,Street,1979,B,Falan Sarraf,usanghvi@example.net,RSM7200,Samarth Bhardwaj,turvi45@example.org,ASM1937,SRV464,37KZDAO7583X3Z1,05105304253,+918172988148,,Rishi Kalita,Bishakha Muni,REG5,ST0442,Anvi Deshpande,LIC42576,chameliraja@example.net
+443,ST0443,Shah-Shere - Nagpur,"70, Chawla
+Bhopal 686466",Nagpur,Maharashtra,220465,06457379419,SAP0443,FRANCHISE,Central,Standalone,2609,B,Gavin Varkey,gauribiswas@example.org,RSM4079,Sathvik Sheth,ganesantanveer@example.com,ASM1051,SRV753,36KAULB6333V8Z4,7025345149,2459801681,,Odika Varkey,Warinder Padmanabhan,REG10,ST0443,Samaksh Master,LIC20665,omyasarraf@example.org
+444,ST0444,"Hora, Yadav and Din - Nagpur","H.No. 34
+Kamdar Marg
+Fatehpur 228540",Nagpur,Maharashtra,158760,3886747906,SAP0444,FRANCHISE,West,Mall,2076,B+,Krishna Wable,poojaray@example.net,RSM4196,Vidhi Nath,rohanjain@example.net,ASM3345,SRV990,26SZWQB3094P2Z5,+915599086900,+912236193552,,Warda Loke,Sanya Deo,REG8,ST0444,Ikshita Madan,LIC32027,unnati06@example.net
+445,ST0445,Chakraborty-Subramanian - Bhopal,"41/932, Anand Zila, Surendranagar Dudhrej-619347",Bhopal,Madhya Pradesh,502365,04248909427,SAP0445,RETAIL,West,Street,1496,A,Tamanna Sandal,hchaudhry@example.net,RSM3792,Nidra Nagi,guhaindali@example.org,ASM2465,SRV208,23WAFKM5593H5Z8,+912584198119,+915887315362,,Vamakshi Menon,Madhav Choudhury,REG3,ST0445,Ishaan Gara,LIC80063,vaishnavibhargava@example.net
+446,ST0446,"Ganesh, Singhal and Deo - Visakhapatnam","26/362, Raj Street, Ozhukarai-272595",Visakhapatnam,Andhra Pradesh,153653,+918389370050,SAP0446,RETAIL,East,Street,2859,C,Timothy Sastry,jagratidutt@example.net,RSM2059,Ishani Dada,chandran59@example.org,ASM6623,SRV486,32XXXMU8159Z4Z4,9086114800,9788457586,,Isaiah Lall,,REG2,ST0446,Gunbir Ramaswamy,LIC21683,harshilnarayanan@example.com
+447,ST0447,"Varghese, Madan and Venkatesh - Kanpur","H.No. 210
+Chadha Street, Sasaram 814253",Kanpur,Uttar Pradesh,956462,+913678357604,SAP0447,FLAGSHIP,North,Shopping Complex,1021,B+,Luke Aurora,pbala@example.com,RSM7229,Nitesh Mukherjee,tanveersathe@example.net,ASM1027,SRV418,11SRGMN6237Y6Z3,+915127605384,4556094100,,Rachita Din,Ishita Chana,REG4,ST0447,Avi Walla,LIC23970,dayamaimittal@example.com
+448,ST0448,"Barman, Naidu and More - Indore","093
+Sidhu Street
+Etawah-315834",Indore,Madhya Pradesh,606075,8696322555,SAP0448,RETAIL,Central,Standalone,1794,A,Sai Walla,nnagarajan@example.net,RSM5863,Prisha Patla,ekantamangat@example.net,ASM4586,SRV611,31OETJE1562T6Z5,2592272636,+914509896516,,Yashasvi Gaba,Hamsini Sabharwal,REG5,ST0448,Watika Merchant,LIC85231,advaith31@example.com
+449,ST0449,"Vig, Raval and Bera - Visakhapatnam","H.No. 22
+Saran Circle
+Sagar 724873",Visakhapatnam,Andhra Pradesh,084209,5537961770,SAP0449,FLAGSHIP,West,Shopping Complex,2042,A+,Ojasvi Dhillon,choudharyadweta@example.net,RSM6458,Advay Kannan,ikbalbhatti@example.org,ASM3501,SRV947,32GXZHW1861Y3Z8,01809381536,1316994290,,David Nayak,,REG3,ST0449,Jai Sandhu,LIC12826,asaha@example.net
+450,ST0450,Anne PLC - Vadodara,"01
+Merchant Nagar, Srikakulam 130015",Vadodara,Gujarat,438086,7586869101,SAP0450,FRANCHISE,East,Standalone,2439,B+,Urvashi Om,bhavikasane@example.com,RSM7412,Madhavi Gour,manan69@example.net,ASM7407,SRV173,26XJJWG9978M2Z3,+914201907139,+915187421010,,Mohini Randhawa,Rachit Issac,REG1,ST0450,Nicholas Hari,LIC49855,qkumer@example.com
+451,ST0451,Chana Group - Bhopal,"595, Parikh Path
+Bhilwara 644086",Bhopal,Madhya Pradesh,780418,06992656836,SAP0451,FLAGSHIP,Central,Street,2309,B,Sanya Shroff,wbaral@example.org,RSM5769,Gunbir Raval,indrajit18@example.org,ASM3372,SRV314,16ZXGXU1149L2Z3,+912189694139,+917169921360,,Bachittar Anand,Aadi Vyas,REG3,ST0451,Aarush Nayar,LIC17383,singhpranit@example.com
+452,ST0452,Garg and Sons - Chennai,"43/65
+Amble Nagar, Durgapur 038075",Chennai,Tamil Nadu,006515,6872947627,SAP0452,OUTLET,West,Street,714,A+,Laksh Krishnan,crout@example.com,RSM9444,Ekta Hora,chaitaly52@example.com,ASM6545,SRV707,23EUXMH1556D4Z7,2202443875,6125141292,,Jai Bora,Nisha Bhatt,REG3,ST0452,Mahika Kapur,LIC95563,jsandal@example.org
+453,ST0453,"Wadhwa, Choudhury and Oak - Indore","H.No. 365, Sachdev Path
+Raurkela Industrial Township 219219",Indore,Madhya Pradesh,405801,7783213871,SAP0453,RETAIL,West,Standalone,1627,B,Darsh Varma,behljacob@example.com,RSM7018,Krisha Pant,rachanakapoor@example.org,ASM1190,SRV222,13CDPUV9351H1Z8,+910509996511,5978752272,,Anmol Kibe,Tripti Raman,REG10,ST0453,Vivaan Anand,LIC33736,chandranaurora@example.com
+454,ST0454,"Sibal, Dey and Sarraf - Indore","549
+Zachariah Street
+Thanjavur-461674",Indore,Madhya Pradesh,192912,03360240411,SAP0454,FRANCHISE,West,Shopping Complex,2840,A,Harita Majumdar,charvi44@example.org,RSM2629,Vasana Bahl,aryaekta@example.com,ASM6328,SRV165,32ZRFMW1323M9Z9,3639832826,+911330210830,,Manthan Kaur,Andrew Baria,REG2,ST0454,Hema Bhat,LIC78013,raaginivala@example.org
+455,ST0455,"Varkey, Kumer and Chaudhari - Vadodara","45
+Loke Marg
+Amritsar 087801",Vadodara,Gujarat,087035,01487030083,SAP0455,RETAIL,South,Mall,1240,C,Bhavika Bhattacharyya,wyatt17@example.com,RSM3948,Nathan Chacko,awason@example.org,ASM1087,SRV668,24ZKDBE4378U3Z2,+917369323654,+917321071239,,Aditya Bhargava,Urmi Sathe,REG1,ST0455,Urmi Murthy,LIC21090,ishita13@example.com
+456,ST0456,Sura-Korpal - Chennai,"H.No. 407
+Halder Marg, Khora  181248",Chennai,Tamil Nadu,031374,07027573158,SAP0456,OUTLET,East,Street,2232,A+,Vasatika Sangha,falan96@example.net,RSM5068,Yahvi Kamdar,nitara04@example.net,ASM5925,SRV147,26ZJVRO3291S8Z6,03092277019,6165128079,,Samesh Halder,Gauri Ghose,REG6,ST0456,Max Batta,LIC89452,vasatikakhalsa@example.org
+457,ST0457,Mittal LLC - Vadodara,"78/680, Wali Zila
+Panihati 120588",Vadodara,Gujarat,223482,04729678357,SAP0457,FLAGSHIP,North,Mall,1471,A+,Logan Naidu,rajturvi@example.org,RSM4081,Chanchal Golla,charles78@example.org,ASM3321,SRV406,37GETRG6882I3Z7,03915050875,+913473080995,1996-04-01,Unnati Mody,,REG7,ST0457,Maanas Gole,LIC95166,dalbir21@example.net
+458,ST0458,Srinivas and Sons - Hyderabad,"30/412
+Swaminathan Circle
+Ichalkaranji-972046",Hyderabad,Telangana,994399,7925597063,SAP0458,FRANCHISE,West,Mall,1541,B,Lavanya Arora,gmangat@example.net,RSM3346,Joshua Rout,iramesh@example.net,ASM9780,SRV308,12UXIUW4156W6Z9,+917981743480,01300323976,,Vasatika Koshy,Warda Tata,REG3,ST0458,Faqid Rout,LIC51465,triveni77@example.org
+459,ST0459,Mall PLC - Thane,"77/07, Radhakrishnan Path
+Nagaon 622365",Thane,Maharashtra,758196,+916161041462,SAP0459,FRANCHISE,North,Street,817,B+,Saksham Apte,manderrobert@example.com,RSM3041,Patrick Gola,harshpatil@example.net,ASM9707,SRV212,31RNCKU2457L6Z5,05494029381,06998401901,,Azad Lata,Zashil Brahmbhatt,REG5,ST0459,Damyanti Kapadia,LIC11292,kalawarda@example.com
+460,ST0460,Kari and Sons - Chennai,"H.No. 451, Kant Circle
+Nizamabad 145596",Chennai,Tamil Nadu,206239,+915070348124,SAP0460,FRANCHISE,South,Standalone,930,A+,Onkar Bhatia,uissac@example.org,RSM3879,Isaiah Mangal,pbhargava@example.org,ASM9625,SRV845,19SZPDQ6716W5Z9,05729308457,+916266150722,,Bhanumati Sankar,,REG1,ST0460,Priya Singhal,LIC32380,rajeshri19@example.net
+461,ST0461,"Sibal, Pathak and Apte - Kanpur","991, Kaur Street, Erode-508328",Kanpur,Uttar Pradesh,158417,7889157449,SAP0461,FRANCHISE,South,Shopping Complex,2677,C,Thomas Ramachandran,virajdewan@example.com,RSM7597,Chaman Bhandari,ybose@example.org,ASM8812,SRV706,14IAVQW3547V3Z3,+918084321687,+917719807386,,Upma Golla,Quincy Prakash,REG1,ST0461,Kashish Seth,LIC93780,samarthhari@example.com
+462,ST0462,Karnik-Nair - Nagpur,"19/385
+Murthy Circle, Vasai-Virar 283995",Nagpur,Maharashtra,900790,+911381884672,SAP0462,FLAGSHIP,Central,Standalone,2375,A,Dayamai Manda,gcomar@example.net,RSM8191,Om Bir,ekulkarni@example.com,ASM6799,SRV917,24QJINQ4748J2Z5,+911050922524,03395981249,,Harini Dayal,Pavani Mital,REG2,ST0462,Oliver Halder,LIC93188,kapuryashvi@example.net
+463,ST0463,"Loke, Narain and Srivastava - Bangalore","70
+Kade, Khora  716431",Bangalore,Karnataka,312421,+914120652934,SAP0463,RETAIL,South,Mall,1176,C,Onkar More,elijah01@example.org,RSM1940,Veda Prashad,osha08@example.org,ASM2385,SRV861,19RPZAN9334X3Z8,+917314843896,+919115447920,,Chandran Ganesh,Zayyan Bains,REG9,ST0463,Faris Mani,LIC26343,isaiah03@example.net
+464,ST0464,"Kade, Borra and Tella - Indore","H.No. 138
+Sarkar Circle, Alwar-724634",Indore,Madhya Pradesh,752576,5576926668,SAP0464,RETAIL,Central,Street,529,B,Oeshi Viswanathan,vasatika20@example.net,RSM9754,Garima Batta,hsani@example.net,ASM6653,SRV350,33VQVTB8350F9Z4,03329641379,7299729830,,Idika Goel,Eesha Bhatia,REG3,ST0464,Maanav Oommen,LIC77329,sachdevamol@example.net
+465,ST0465,Naik-Pandit - Nagpur,"28/45, Sachdev Marg
+Ambarnath-603267",Nagpur,Maharashtra,278187,3198747765,SAP0465,RETAIL,West,Standalone,2052,A,Azad Sampath,faris31@example.com,RSM7115,Lopa Kibe,tristansom@example.org,ASM2855,SRV446,31HRYDJ5901P5Z5,08731044085,08582997137,,Owen Dua,Udant Sekhon,REG10,ST0465,Qasim Khare,LIC61592,neha77@example.net
+466,ST0466,Manda and Sons - Pune,"49/94, Kaul Nagar, Hajipur-925902",Pune,Maharashtra,273168,+918198216831,SAP0466,OUTLET,Central,Mall,2396,C,Hemal Gole,bhavanibadal@example.org,RSM8999,Amara Shanker,wriddhishwagle@example.org,ASM1942,SRV464,10TOKJL2755A6Z3,0994922407,+914975682445,,Suhani Lanka,,REG7,ST0466,Nitara Padmanabhan,LIC74493,tara24@example.com
+467,ST0467,"Purohit, Sachdeva and Dewan - Pune","87/571
+Sule, Pimpri-Chinchwad-270817",Pune,Maharashtra,849899,00124066012,SAP0467,RETAIL,Central,Street,2182,A+,Lakshmi Talwar,bhatiagaurangi@example.net,RSM8985,Tanay Ben,gayathriborde@example.org,ASM1113,SRV259,34VIHPM7132J6Z7,08538006930,00651762891,,Jagat Sandal,Megha Dutt,REG5,ST0467,Vrishti Ganguly,LIC24246,harishsood@example.net
+468,ST0468,Lall Ltd - Bhopal,"H.No. 27
+Keer Chowk, Raebareli 818571",Bhopal,Madhya Pradesh,950257,08036571748,SAP0468,FRANCHISE,South,Street,1948,B,Tara Chokshi,settyonveer@example.net,RSM1095,Matthew Oak,jreddy@example.com,ASM6885,SRV991,32GDGJB3190M7Z6,+911281562642,02769101001,,Shaurya Chanda,,REG4,ST0468,Tristan De,LIC72822,advaithbhasin@example.net
+469,ST0469,Mandal-Patel - Jaipur,"H.No. 89, Bhatti
+Berhampore-972313",Jaipur,Rajasthan,041814,05677144639,SAP0469,RETAIL,West,Standalone,2753,B,Zayyan Ben,quincybahri@example.org,RSM3087,Zilmil Thakur,birgirindra@example.org,ASM6322,SRV869,34YMQXX7370E2Z2,+919689808727,+910144939718,,Nikita Kale,,REG6,ST0469,Fariq Chaudhari,LIC75536,aarini13@example.org
+470,ST0470,Chacko-Konda - Mumbai,"H.No. 03, Handa Nagar
+Jamalpur-378509",Mumbai,Maharashtra,455573,+917985420383,SAP0470,FLAGSHIP,North,Shopping Complex,2259,C,Yoshita Buch,borakavya@example.com,RSM1131,Indali Raju,abdulbaria@example.com,ASM8116,SRV591,19JPCYN5059T3Z9,1943692058,+914728066400,,Ijaya Zacharia,,REG2,ST0470,Aachal Brahmbhatt,LIC44541,nathanielkhatri@example.net
+471,ST0471,"Tak, Gade and Gill - Ahmedabad","H.No. 754
+Mittal Nagar, Kishanganj 484171",Ahmedabad,Gujarat,912490,+913062986117,SAP0471,FRANCHISE,South,Standalone,922,C,Ranveer Vasa,yogicharles@example.org,RSM3968,Triveni Dhar,barmanaadi@example.com,ASM4091,SRV975,28UUEHD3167M1Z5,+912370172798,4080968881,,Ikbal Patla,Triveni Dalal,REG7,ST0471,Sanaya Sama,LIC12314,jackvirk@example.com
+472,ST0472,Parsa-Singh - Pune,"H.No. 146
+Tank Road, Madhyamgram 374849",Pune,Maharashtra,905229,06778564060,SAP0472,RETAIL,North,Standalone,2168,C,Yug Loyal,tiwarivictor@example.net,RSM6020,Wridesh Bhakta,ikshitamajumdar@example.net,ASM4791,SRV327,20NPBQN1846J2Z5,+917179527232,7845414164,,Nisha Banerjee,Ranveer Parmar,REG7,ST0472,Rachana Thaker,LIC42370,cdhar@example.org
+473,ST0473,Chatterjee LLC - Kanpur,"32/77
+Grewal Nagar
+Rajpur Sonarpur 908757",Kanpur,Uttar Pradesh,296046,09346822351,SAP0473,RETAIL,South,Mall,502,A+,Faras Chand,nagibina@example.com,RSM6269,Bina Dalal,sastryyashawini@example.net,ASM4473,SRV392,25ITDNF5133P6Z6,2317936091,08240124698,,Arya Viswanathan,,REG1,ST0473,Warinder Sane,LIC99517,gaurika20@example.org
+474,ST0474,Shankar PLC - Vadodara,"97/047
+Chaudhari Ganj, Uluberia 231533",Vadodara,Gujarat,842029,9251977314,SAP0474,FLAGSHIP,East,Shopping Complex,1980,C,Dalbir Nagi,bhavika47@example.net,RSM9664,Osha Raju,nitesh79@example.org,ASM7088,SRV343,30IGSMC2742E2Z1,7318882576,6418086037,,Devansh Patla,Dev Narain,REG4,ST0474,Chatresh Rao,LIC35287,yashasvikade@example.com
+475,ST0475,Sachar-Pandya - Bhopal,"26, Dhar Circle
+Tirupati 183052",Bhopal,Madhya Pradesh,124072,+913505872822,SAP0475,RETAIL,North,Shopping Complex,1734,B,Shivani Om,emander@example.com,RSM4309,Anusha Sharaf,ppalla@example.org,ASM9741,SRV838,14BEGNR5137Y9Z6,+914212849358,01516061921,,Fitan Parmar,Chanakya Pillay,REG2,ST0475,Idika Grewal,LIC67163,manyabhargava@example.com
+476,ST0476,Parmar-Virk - Bangalore,"H.No. 466, Rastogi Path
+Muzaffarnagar 887245",Bangalore,Karnataka,183811,08368326912,SAP0476,FRANCHISE,West,Mall,1183,C,Christopher Sagar,chavvi95@example.org,RSM5491,Jagat Kapur,ira68@example.com,ASM3112,SRV396,11SBZWG7512P9Z9,+919941798879,09774455235,,Lila Kurian,,REG9,ST0476,Jeet Pillai,LIC60351,udant76@example.org
+477,ST0477,"Padmanabhan, Natt and Grewal - Vadodara","H.No. 55, Kaur Circle
+Mathura 028542",Vadodara,Gujarat,747331,+910499383704,SAP0477,FRANCHISE,West,Shopping Complex,1347,A,Vanya Narang,rkaur@example.net,RSM1058,Yahvi Tiwari,bhattacharyyadarpan@example.com,ASM3621,SRV685,16SWAZQ8461Q9Z5,4372769457,+918339725223,,Yagnesh Kapur,,REG5,ST0477,Jackson Krishna,LIC82371,lajita45@example.net
+478,ST0478,Date-Kalita - Chennai,"386
+Date Road
+Chapra 878395",Chennai,Tamil Nadu,635158,4320767360,SAP0478,FLAGSHIP,South,Mall,2685,A,Faris Narain,rtripathi@example.org,RSM5781,Naveen Majumdar,chasmum38@example.net,ASM1640,SRV754,14IEIZB5079G9Z2,06914699901,5353834953,2001-08-18,Isaac Palla,Nandini Aggarwal,REG10,ST0478,Ekantika Dhar,LIC58380,anay84@example.org
+479,ST0479,Natt Ltd - Kanpur,"334
+Choudhary Path
+Bhavnagar 164636",Kanpur,Uttar Pradesh,904748,08578797164,SAP0479,RETAIL,Central,Shopping Complex,1047,B,Harini Desai,srinivasupkaar@example.com,RSM5831,Manya Loke,pgrewal@example.com,ASM6318,SRV158,30ALHXI3895I1Z9,03665377317,07243529057,,Hema Kapur,Pranav Kapoor,REG10,ST0479,Ishwar Tandon,LIC23951,ekant@example.org
+480,ST0480,Palla Group - Indore,"H.No. 28
+Char Zila, Rampur 772296",Indore,Madhya Pradesh,438885,5218156976,SAP0480,OUTLET,Central,Street,2311,A,Sudiksha Sastry,nitesh77@example.com,RSM6312,Unnati Seth,dewanvansha@example.com,ASM5403,SRV308,28UZYME8308H7Z6,02538149848,5206289869,,Krisha Murty,Timothy Agrawal,REG8,ST0480,Aarini Krishnamurthy,LIC33791,zlal@example.com
+481,ST0481,Kaur Ltd - Bhopal,"608, Parmer Road
+Fatehpur-244960",Bhopal,Madhya Pradesh,895452,+912540024057,SAP0481,FLAGSHIP,South,Street,2833,B,Samuel Talwar,kantikshita@example.org,RSM3955,Anya Mane,azadkale@example.com,ASM5621,SRV121,19FFMVT4077C3Z2,08613264446,+912145379271,,Chandani Sachdeva,Benjamin Menon,REG7,ST0481,Omisha Gopal,LIC23137,chaudharyvanya@example.net
+482,ST0482,"Narang, Bhat and Narula - Patna","H.No. 51, Date Marg
+Firozabad 642794",Patna,Bihar,653829,00852546055,SAP0482,FLAGSHIP,North,Mall,2047,B,Chatresh Sridhar,memonforum@example.org,RSM1339,Gagan Sagar,wkashyap@example.net,ASM2802,SRV946,10YUBEH2369I3Z1,05600117612,2556190619,,Gautami Mandal,,REG2,ST0482,Saumya Chaudhari,LIC81089,dalbirsahota@example.com
+483,ST0483,Datta-Chacko - Kanpur,"45/86, Mukhopadhyay Path
+Anantapur 927414",Kanpur,Uttar Pradesh,337762,8448512915,SAP0483,RETAIL,South,Street,2467,C,Warjas Aurora,badalzayan@example.org,RSM8279,Charvi Dada,waliodika@example.com,ASM3672,SRV414,20PEHBR5382U9Z2,02846548374,+917038224953,1986-05-27,Eiravati Dora,,REG9,ST0483,Hredhaan Sridhar,LIC48894,chaitanyasami@example.com
+484,ST0484,Mangat-Kale - Chennai,"109
+Mutti Marg, Thanjavur-642649",Chennai,Tamil Nadu,093305,+918839067905,SAP0484,FRANCHISE,South,Mall,1418,A+,Andrew Kalla,dhriti80@example.org,RSM4713,Balveer Mohanty,nathanshah@example.com,ASM7998,SRV494,14LUJHV7303V2Z8,0203358271,05746213498,,Ayush Shah,,REG2,ST0484,Ronith Nagy,LIC46937,yatan81@example.com
+485,ST0485,"Savant, Sule and Bal - Nagpur","916
+Shenoy Path
+Farrukhabad-171150",Nagpur,Maharashtra,474676,2863451005,SAP0485,RETAIL,Central,Shopping Complex,984,B+,Rachana Prasad,chaudharilajita@example.org,RSM2389,Advaith Joshi,sharafdevika@example.net,ASM1710,SRV719,14FNQKT3971V7Z3,4547813779,+911107404225,,Chaman Bal,Ayush Bal,REG10,ST0485,Anika Mann,LIC47618,saumyakrishna@example.org
+486,ST0486,"Das, Sundaram and Bhatti - Nagpur","478, Shukla Zila
+Mysore-032921",Nagpur,Maharashtra,390433,7222492108,SAP0486,RETAIL,East,Standalone,2011,B+,Naksh Nagi,radhika34@example.org,RSM2251,Mekhala Bahri,cmallick@example.net,ASM1035,SRV982,14YUEKE7399O8Z2,4862639091,01734422529,,Bhavini Sarraf,Manya Srinivasan,REG5,ST0486,Nisha Sant,LIC28961,manankalita@example.com
+487,ST0487,Goyal and Sons - Bangalore,"66, Biswas Path, Katni-126974",Bangalore,Karnataka,689223,+919225034880,SAP0487,OUTLET,South,Street,2077,B+,Unni Uppal,boseonveer@example.org,RSM6231,Vedant Sur,jacob00@example.com,ASM9097,SRV534,25WNTZU6463E4Z7,6067198901,09872608253,,Brijesh Sunder,Pooja Datta,REG9,ST0487,Kalpit Verma,LIC74566,faras11@example.org
+488,ST0488,"Kapadia, Mitra and Lanka - Vadodara","98/898, Gaba Zila, Nizamabad 175272",Vadodara,Gujarat,133032,+919830095021,SAP0488,FLAGSHIP,West,Mall,2879,B,Shivani Choudhury,oscar68@example.net,RSM9633,Nachiket Mitter,nikita78@example.net,ASM4593,SRV819,12HLAGA6937R8Z3,09103524502,+916549221745,,Liam Gaba,,REG6,ST0488,Nisha Sampath,LIC57298,ramachandranekavir@example.net
+489,ST0489,Mody-Nagy - Kolkata,"02/23, Sandhu Circle
+Suryapet 269965",Kolkata,West Bengal,320425,09332439193,SAP0489,OUTLET,West,Street,2758,B,Udyati Mane,badamikeya@example.net,RSM4973,Ati Yogi,fsethi@example.org,ASM4452,SRV947,17BXEDW3344M1Z7,0285731192,+914329877759,,Ronith Apte,Hritik Sem,REG10,ST0489,Warjas Nadig,LIC19669,wsathe@example.net
+490,ST0490,Rout-Murty - Visakhapatnam,"H.No. 88, Aggarwal Chowk
+Aizawl-605175",Visakhapatnam,Andhra Pradesh,303483,+911705553774,SAP0490,FLAGSHIP,North,Street,1996,A,Leena Sehgal,yachanapillay@example.net,RSM2294,Guneet Bhavsar,dayamaibaral@example.net,ASM5014,SRV178,10SNEYF8696X3Z9,+918140180595,+911424075898,,Wazir Aurora,,REG7,ST0490,Laban Varkey,LIC54215,onipillay@example.org
+491,ST0491,Johal-Shankar - Bhopal,"83, Balan Circle, Berhampur-758208",Bhopal,Madhya Pradesh,902267,03541099740,SAP0491,RETAIL,East,Mall,1138,A+,Bhavika Prabhakar,minhasvamakshi@example.net,RSM1526,Vanya Chada,aachalmorar@example.net,ASM3843,SRV615,15AMNVO5227S9Z5,+915712050773,+914951028346,,Dayita Doshi,Lopa Bhatia,REG3,ST0491,Gabriel More,LIC45628,sdin@example.com
+492,ST0492,Sridhar Inc - Bangalore,"78/977, Sarraf Chowk, Agra 748746",Bangalore,Karnataka,905933,6478759628,SAP0492,FRANCHISE,South,Street,2140,C,Vinaya Mohan,davidbose@example.net,RSM1917,Benjamin Palla,qushiom@example.com,ASM4586,SRV501,15XRTCW8674P6Z7,02435995228,08476551493,,Abha Sachdev,,REG6,ST0492,Damini Dalal,LIC94757,henry93@example.net
+493,ST0493,Borah-Sunder - Thane,"41
+Natt, Kota 380218",Thane,Maharashtra,286168,2580846425,SAP0493,FLAGSHIP,East,Mall,927,A+,Eshana Mangal,chakradhar12@example.org,RSM6942,Gaurang Rau,badalpeter@example.com,ASM6496,SRV128,17JFRDC4471T1Z5,03906884388,+912491957957,,Leela Dhawan,,REG1,ST0493,Azaan Narayan,LIC41501,jhavamakshi@example.net
+494,ST0494,Virk Group - Jaipur,"H.No. 343
+Kadakia Marg, Davanagere 323291",Jaipur,Rajasthan,297304,5717564495,SAP0494,RETAIL,Central,Mall,2809,B,Qarin Bora,athakkar@example.org,RSM1748,Chatura Palan,kalewriddhish@example.org,ASM1787,SRV422,12JALYJ7523Q4Z6,+914162305145,+914921521054,,Vinaya Patel,Gaurika Bir,REG3,ST0494,Dayamai Nadig,LIC98432,ramapooja@example.com
+495,ST0495,Ravel LLC - Chennai,"95/351
+Nayar Circle
+Jalna 291138",Chennai,Tamil Nadu,682174,09158135842,SAP0495,OUTLET,West,Mall,2556,A,Tamanna Bobal,tanish98@example.net,RSM1388,Tanmayi Krishnamurthy,urmiyogi@example.com,ASM7260,SRV588,28BJFEV8587C2Z4,02620703095,+915060486272,,Hemangini Gala,Ganga Mital,REG3,ST0495,Ira Ramaswamy,LIC31108,zhanda@example.org
+496,ST0496,Ravi LLC - Patna,"50
+Prabhu, Gangtok-450232",Patna,Bihar,474153,04801788219,SAP0496,OUTLET,West,Street,1888,B+,Turvi Vig,varenya67@example.com,RSM6903,Ranveer Arora,aachal99@example.net,ASM8059,SRV140,32YVMHG2228E8Z2,00048103357,00710754291,,Aahana Sharma,,REG5,ST0496,Darsh Master,LIC81714,ghora@example.org
+497,ST0497,Kade and Sons - Bangalore,"18/21, Butala Zila
+Bokaro 509971",Bangalore,Karnataka,567307,02058917346,SAP0497,FRANCHISE,North,Standalone,1784,A,Darsh Sethi,harini38@example.com,RSM5843,Azad Sura,wpatla@example.com,ASM3645,SRV169,18SLLCC3935W8Z5,+910798410483,05040439315,,Ekaja Dutta,Om Chaudhry,REG8,ST0497,Ekaraj Singhal,LIC95235,gunbir76@example.org
+498,ST0498,Ahluwalia-Chaudhry - Kolkata,"H.No. 70
+Patla Path
+Purnia-793833",Kolkata,West Bengal,370408,05141036163,SAP0498,RETAIL,Central,Standalone,662,B+,Ansh Babu,jacobmurty@example.org,RSM5696,Dayamai Mukhopadhyay,oni42@example.net,ASM7568,SRV518,37TVEOL9396T6Z6,04525727600,09668278098,1982-08-28,Vincent Bandi,Anmol Palla,REG8,ST0498,Vedika Nanda,LIC44449,lsarna@example.com
+499,ST0499,Karnik PLC - Delhi,"37/911, Shah Circle, Ozhukarai 174578",Delhi,Delhi,162726,+911934908209,SAP0499,RETAIL,South,Mall,1133,A+,Nandini Bandi,adyamaharaj@example.net,RSM5762,Kabir Sharma,nimratlala@example.org,ASM7157,SRV262,28MCHMO2531L8Z8,+918974042184,5802359827,,Nitara D’Alia,Vedika Bail,REG8,ST0499,Yatan Arora,LIC24302,vrittinatt@example.org
+500,ST0500,"Virk, Tara and Bhavsar - Bangalore","994
+Deep Street, Saharsa-339532",Bangalore,Karnataka,295745,4330515022,SAP0500,FLAGSHIP,North,Standalone,2274,A,Sneha Desai,amairasridhar@example.org,RSM7578,Yashoda Vohra,jasmit66@example.net,ASM6385,SRV166,20KTPGW8802D5Z8,+910989272049,0152285998,1976-11-08,Yashvi Pillay,,REG8,ST0500,Warhi Sarma,LIC29072,mbasu@example.net

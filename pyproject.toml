@@ -1,0 +1,21 @@
+[project]
+name = "retail-rag-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faker>=37.3.0",
+    "ipykernel>=6.29.5",
+    "numpy>=2.2.6",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pandas-stubs>=2.2.3.250527",
+    "plotly>=6.1.2",
+    "python-dotenv>=1.1.0",
+    "qdrant-client>=1.14.2",
+    "sentence-transformers>=4.1.0",
+    "streamlit>=1.45.1",
+    "tqdm>=4.67.1",
+    "types-tqdm>=4.67.0.20250516",
+]
